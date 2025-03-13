@@ -267,6 +267,389 @@ ________________________________________
 
 
 
+XỬ LÝ SỰ CỐ KỸ THUẬT SƠN
+
+1.	Bề mặt sơn bị nổi bọt khí
+Trên màng sơn sau khi phun (màng sơn còn ướt hoặc sau khi khô cấp 1) có nhiều bọt khí xuất hiện trên bề mặt sản phẩm.
+ 
+Sự cố bọt khí 
+a.	Nguyên nhân:
+	Trong hỗn hợp sơn có bong bóng khí.
+	Pha dư chất đóng rắn.
+	Phun lớp dưới chưa khô đã phun lớp kế tiếp, phun quá nhiều lớp chồng lên nhau, màng sơn quá dày.
+	Nhiệt độ môi trường và nhiệt độ trên bề mặt sản phẩm trước khi phun sơn quá cao ( ≥ 38 o C). Thời gian ráo mặt quá nhanh  < 2 phút.
+ 
+Quá trình dung môi bay hơi trong màng sơn rồi nổi lên bề mặt
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Sản phẩm ra bị đồng loạt:  phải tắt chuyền và kiểm tra nhanh tìm nguyên nhân để khắc phục.
+	Sản phẩm bị số lượng ít trên chuyền: vẫn cho chạy chuyền và kiểm tra tìm nguyên nhân để đưa ra hướng khắc phục phù hợp.
+c.	Phương pháp khắc phục
+	Kiểm tra hỗn hợp sau khi khuấy trộn để tan bọt rồi mới sử dụng.
+	Kiểm tra lại tỷ lệ pha. Pha đúng tỷ lệ theo qui trình đã phê duyệt
+	Phải để cho lớp dưới khô hoàn toàn rồi mới phun lớp kế tiếp, đối với lớp sơn phủ nên phun độ dày từ 100  125 µm (tương đương 2 Paths)
+	Điều chỉnh chất làm chậm ráo bề mặt ( khô cấp 1) sử dụng dung môi  Retader hoặc S P.
+*Lưu ý: Các hạt bụi mịn rơi trên bề mặt có thể được bao bọc bởi màng sơn, tạo ra bề ngoài gần giống với nổi bọt khí
+ 
+2.	Màng sơn bị chảy
+Màng sơn sau khi phun có hiện tượng chảy trên bề mặt
+ 
+Sự cố chảy sơn
+a.	Nguyên nhân
+	Độ nhớt hỗn hợp phun quá loãng.
+	Phun quá dày.
+	Lớp sơn phía dưới chưa ráo hoặc khô mà phun chồng lên lớp tiếp theo.
+	Thao tác phun không đúng : súng sơn để quá gần sản phẩm, gió quá mạnh làm lùa màng sơn.
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Sản phẩm ra bị đồng loạt:  phải tắt chuyền và kiểm tra nhanh tìm nguyên nhân để khắc phục.
+	Sản phẩm bị số lượng ít trên chuyền: vẫn cho chạy chuyền và kiểm tra tìm nguyên nhân để đưa ra hướng khắc phục phù hợp.
+c.	Phương pháp khắc phục
+	Pha theo tỷ lệ, kiểm tra độ nhớt như qui trình hướng dẫn.
+	Phải sơn độ dày thích hợp100  125 µm (tương đương 2 Paths)
+	Tuân thủ theo qui trình hướng dẫn sản xuất.
+	Thao tác sơn đúng khoảng cách giữa súng phun và sản phẩm được phun (20  25cm).
+	Điều chỉnh thao tác cho phù hợp với sản xuất.
+*Lưu ý:  Khoảng cách giữa súng phun sơn và bề mặt khoảng từ 20 -25cm. Nếu để quá gần sẽ khiến màng sơn bị phân tán không tốt, ngược lại quá xa sẽ khiến sơn bay rộng, dễ bám bụi khi màng sơn khô
+ 
+3.	Bề mặt sơn bị lõm
+Trên màng sơn sau khi phun  xuất hiện vết lõm có nhân hoặc không nhân trên bề mặt sản phẩm.
+ 
+Sự cố lõm mắt cá ở bề mặt sơn
+a.	Nguyên nhân
+	Trong hỗn hợp pha, trong đường hơi phun, trên bề mặt sản phẩm có lẫn những chất dầu, sáp, wax, dầu lanh hoặc  nước không tan trong sơn.
+	Bề mặt nền của sản phẩm chưa được chà nhám và vệ sinh sạch trước khi sơn F27
+ 
+Sự hình thành lõm mắt cá trên bề mặt sơn
+b.	 Biện pháp xử lý nhanh ở trong sản xuất
+	Sản phẩm ra bị đồng loạt:  phải tắt chuyền và kiểm tra nhanh tìm nguyên nhân để khắc phục.
+	Sản phẩm bị số lượng ít trên chuyền: vẫn cho chạy chuyền và kiểm tra tìm nguyên nhân để đưa ra hướng khắc phục phù hợp.
+c.	Phương pháp khắc phục
+	Vệ sinh thùng pha sơn, pha lại hỗn hợp sơn kiểm tra lại.
+	Xử lý hệ thống hơi phun, kiểm tra bằng vải trắng hơi phun ra có bị nhiễm dẫu hay không?
+	Xử lý bề mặt sản phẩm cho đạt.
+*Lưu ý: có thể sử dụng phụ gia chống lõm sơn với liều lượng phù hợp
+ 
+4.	Màng sơn bị nhám
+Màng sơn sau khi phun hoặc sau khi khô cấp 1 có hiện tượng nhám trên bề mặt ( cục bộ hoặc toàn sản phẩm)
+ 
+Sự cố nhám màng sơn 
+a.	Nguyên nhân
+	Hỗn hợp pha bị lẫn tạp chất bụi hoặc cặn sơn.
+	Đường ống hơi phun hoặc ống sơn, thùng đựng hỗn hợp sơn vệ sinh chưa sạch.
+	Môi trường nơi phun sơn bị bụi.
+	Xử lý bề mặt sản phẩm trước khi phun chưa đạt.
+	Sơn nhanh ráo phun bị táp trên bề mặt.
+	Thao tác sơn : để súng cách xa sản phẩm và gió quá mạnh.
+ 
+Quá trình bụi bám làm nhám màng sơn
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Đưa ra hướng xử lý nhanh và tiếp tục sản xuất.
+c.	Phương pháp khắc phục
+	Lược hỗn hợp sơn qua vải lược trước khi sử dụng.
+	Vệ sinh sạch sẽ dụng cụ sơn (súng sơn, ống hơi, ống dẫn sơn, thùng đựng hỗn hợp sơn)
+	Vệ sinh sạch sẽ môi trường chổ phun sơn.
+	Xử lý bề mặt sản phẩm đạt yêu cầu.
+	Điều chỉnh chất chậm khô vào hỗn hợp sơn để tránh hiện tượng bị táp sơn.
+	Điều chỉnh thao tác sơn cho đúng kỹ thuật.
+*Lưu ý: Tuân thủ thời gian sơn cách lớp, kiểm tra kĩ môi trường trước khi sơn
+ 
+5.	Màng sơn không khô
+	Khi phun xong màng sơn khô cấp 2:  xuất hiện những vết không khô cục bộ hoặc toàn sản phẩm
+	Màng sơn sau khi khô cấp 2 bi mềm lún sơn
+	Đóng gói bị dính mút hoặc phom
+ 
+Sự cố màng sơn dính mặt 
+a.	Nguyên nhân
+	Hỗn hợp pha thiếu chất đóng rắn.
+	Sơn hoặc chất đóng rắn hết hạn sử dụng làm giảm tính năng chất lượng.
+	Sử dụng chất làm chậm khô quá nhiều.
+	Hỗn hợp pha khuấy chưa đều.
+	Độ dày sơn quá dày, lớp phía dưới chưa khô mà phun tiếp công đoạn sau.
+	Đóng gói khi sơn chưa đủ thời gian như qui trình hướng dẫn.
+	Do loại màng co chưa phù hợp, một số loại chất hóa dẽo tiết ra ảnh hưởng đế chất lượng bề mặt sản phẩm.
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Phải cho xử lý lại
+	Màng sơn không khô hoàn toàn phải rửa lớp sơn và sản xuất lại
+c.	Phương pháp khắc phục
+	Tuân thủ tỷ lệ pha, đúng cứng và dung môi theo qui trình hướng dẫn.
+	Kiểm tra hạn sử dụng của sơn trước khi pha chế.
+	Sử dụng % chất chậm khô cho phù hợp ( dung môi Retader  < 7%, dung môi S P < 15% )
+	Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng. Đậy kín sản phẩm và hỗn hợp pha khi sử dụng.
+	Kiểm soát độ dày màng sơn, đảm bảo thời gian khô của công đoạn trước rồi mới thực hiện công đoạn sau.
+	Tuân thủ thời gian đóng gói theo hướng dẫn ghi trong qui trình.
+*Lưu ý: Nếu khu vực sơn có độ ẩm trên 70%, nước trong không khí có thể ngăn cản quá trình bay hơi diễn ra. Độ ẩm đó ngăn không cho dung môi hoạt động, dẫn đến lớp sơn cuối không khô và gây cảm giác dính
+ 
+6.	Màu trên màng sơn bị phai, biến màu
+Màu trên sản phẩm để sau một thời gian bị phai hoặc  biến màu
+ 
+Sự cố màng sơn bị biến màu
+a.	Nguyên nhân
+	Hệ màu sử dụng trong sơn màu có độ bền màu không tốt.
+	Sử dụng loại sơn có tính năng chịu được tia tử ngoại kém.
+	Thuốc tẩy gỗ còn bám trên bề mặt gỗ.
+	Phơi ra ánh nắng mặt trời hoặc chịu tia tử ngoại trong thời gian dài.
+	% màu sử dụng trong công thức quá nhiều.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Phải sơn xử lý lại sản phẩm.
+c.	Phương pháp khắc phục
+	Sử dụng loại màu trong sơn có độ bền và chịu ánh sáng tốt.
+	Tuân thủ theo quy trình hướng dẫn thực hiện màu.
+	Trong trường hợp phải tẩy gỗ nên rửa thật sạch thuốc tẩy trên bề mặt sản phẩm, hong  phơi khô hoàn toàn rồi mới thực hiện công đoạn sau.
+	Sử dụng hệ sơn phù hợp đối với hàng Out Doors
+	Đối với sơn màu thì % màu sử dụng trong công thức là 20%.
+	Đối với Lót màu thì % màu sử dụng trong công thức là 30%.
+*Lưu ý: Không thi công sơn khi bề mặt vẫn còn quá ẩm hoặc trong điều kiện thời tiết quá khắc nghiệt như quá khô nóng (nhiệt độ bề mặt hơn 50ºC), hoặc quá nồm ẩm (độ ẩm hơn 80%).
+ 
+7.	Màng bị loang 
+
+•	Sau khi phun Stain màu : Màng stain bị loang màu trên bề mặt
+•	Pigment trong lớp sơn cũ bị dung môi lớp sơn mới hòa tan làm đổi màu
+
+
+
+a.	Nguyên nhân
+	Khi thực hiện lớp stain màu chưa khô đã phun lớp phủ lên bề mặt.
+	Trong hỗn hợp pha, trong đường hơi phun, trên bề mặt sản phẩm có lẫn những chất dầu, sáp hoặc  nước không tan trong sơn.
+	Bề mặt nền của sản phẩm xử lý vệ sinh không đạt trước khi phun sơn.
+	Stain màu trên nền không thấm rút( bề mặt quá nhẵn hoặc có một lớp keo, sơn  có sức căng bề mặt thấp) 
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Điều chỉnh nhanh và xử lý trên chuyền
+c.	Phương pháp khắc phục
+	Phải đảm bảo thời gian khô của stain màu rồi mới thực hiện sơn phủ lên bề mặt.
+	Vệ sinh thùng pha sơn,và xử lý hệ thống hơi phun.
+	Xử lý bề mặt sản phẩm : chà đúng loại nhám, vệ sinh bề mặt cần sơn 
+	Phải có nhựa stain trong công thức stain màu
+*Lưu ý: độ ẩm tại khu vực thi công quá cao, khiến cho bề mặt bị ẩm hoặc đường hơi của súng phun không đảm bảo sẽ làm cho hơi nước bị lẫn vào khi phun sơn làm sơn bị loang. 
+ 
+8.	Màng sơn bị da cam
+Sau khi khô cấp 1 màng sơn không có sức căng bề mặt (gợn sóng, lỗi lõm giống vỏ quả cam)
+ 
+Sự cố sơn lót trắng bị da cam 
+a.	Nguyên nhân
+	Độ nhớt hỗn hợp sơn quá đặc.
+	Hỗn hợp sơn pha chưa được khuấy đều.
+	Độ dày màng sơn quá dày.
+	Dung môi bay hơi quá nhanh làm màng sơn không đủ thời gian để căng mặt.
+	Xử lý bề mặt của công đoạn trước ( Chà nhám ) chưa đạt.
+	Thao tát kỹ thuật phun sơn sai : (Phun hơi quá mạnh, khoảng cách súng quá xa bề mặt sản phẩm)
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Điều chỉnh nhanh và xử lý trên chuyền
+c.	Phương pháp khắc phục
+	Điều chỉnh độ nhớt hỗn hợp pha theo qui trình hướng dẫn.
+	Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng.
+	Phải sơn độ dày thích hợp100  125 µm (tương đương 2 Paths).
+	Điều chỉnh chất làm chậm khô bề mặt ( khô cấp 1) sử dụng dung môi  Retader hoặc S P.
+	Xử lý bề mặt của công đoạn trước phải đạt mới thực hiện công đoạn sau.
+	Thao tác sơn phải đúng kỹ thuật.
+*Lưu ý: Điều chỉnh súng phun sơn đúng kỹ thuật, tránh trường hợp sơn nhiều nhưng gió ít
+ 
+9.	Màng sơn bị phồng rộp
+Sau khi phun khô câp 1 màng sơn bị phòng rộp trên bề mặt hoặc khe kẽ                    
+                                                                                                                                                                             
+ 
+Sự cố rộp sơn 
+a.	Nguyên nhân
+	Sử dụng  sơn loại sơn một thành phần  ( ví dụ : hệ NC) để khô , rồi sơn tiếp một loại sơn hai thành phần (ví dụ : hệ PU ) để khô, tiếp theo lại sơn một lớp sơn một hay hai thành phần lên thì bề mặt sản phẩm.
+	Sử dụng các loại sơn không tương thích với nhau.
+	Nhiệt độ bề mặt sản phẩm quá cao, lớp sơn phủ bên ngoài nhanh ráo mặt.
+
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Xử lý lại bề mặt sản phẩm.
+	Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại.
+c.	Phương pháp khắc phục
+	Kiểm tra hỗn hợp sau khi khuấy trộn để tan bọt rồi mới sử dụng.
+	Kiểm tra lại tỷ lệ pha. Pha đúng tỷ lệ theo qui trình đã phê duyệt
+	Phải để cho lớp dưới khô hoàn toàn rồi mới phun lớp kế tiếp, đối với lớp sơn phủ nên phun độ dày từ 100  125 µm (tương đương 2 Paths)
+	Điều chỉnh chất làm chậm ráo bề mặt ( khô cấp 1) sử dụng dung môi  Retader hoặc S P.
+	Sử dụng thiết bị làm giảm nhiệt độ bề mặt sản phẩm và môi trường (quạt gió, tưới nước nhà xưởng).
+*Lưu ý: Tránh đặt sản phẩm nơi có sự thay đổi nhiệt độ và độ ẩm nhanh chóng
+ 
+10.	Màng sơn có vết rạn  
+Sau khi phun khô cấp 1 :  Màng sơn có vết rạn thành đường dài
+ 
+Sự cố nứt sơn 
+a.	Nguyên nhân
+	Lớp sơn phía dưới chưa khô đã phủ lớp kế tiếp (gọi là ép sơn)
+	Sơn nhanh khô,dung môi bay hơi quá nhanh làm khô cục bộ bề mặt sơn gây nứt sơn
+	Sử dụng hóa chất chưa phù hợp
+	Sơn quá dày
+	Sơn thiếu cứng
+ 
+Sự co màng cũng là nguyên nhân gây nứt màng sơn
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Xử lý lại bề mặt sản phẩm
+	Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại
+c.	Phương pháp khắc phục
+	Tuân thủ theo qui trình hướng dẫn
+	Thi công đúng phương pháp, đảm bảo độ dày màng sơn đạt yêu cầu
+	Loại bỏ màng sơn bị nứt, bong tróc, xả nhám loại bỏ toàn bộ màng sơn cũ
+	Làm sạch bề mặt đạt yêu cầu thi công
+	Sử dụng 1 lớp sơn lót thích hợp, sau đó sơn lại bằng 2 lớp sơn phủ chất lượng cao
+*Lưu ý: Tránh sơn khi thời tiết không phù hợp: quá nóng, quá lạnh, quá ẩm ướt làm ảnh hưởng đến quá trình khô của sơn
+ 
+11.	Độ bóng không đều
+Sản phẩm sau khi phun xong,  kiểm tra độ bóng không đều trên bề mặt sản phẩm
+ 
+Sự cố sai độ bóng sơn PU 
+a.	Nguyên nhân
+	Hỗn hợp pha chưa khuấy đều trước khi phun
+	Dung môi sử dụng chưa phù hợp
+	Lớp sơn phía dưới chưa khô hoàn toàn
+	Độ dày của sơn trên sản phẩm không đều
+	Bề mặt sản phẩm xử lý chưa đạt
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Phải phủ bóng lại bề mặt sản phẩm
+c.	Phương pháp khắc phục
+	Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng, trong lúc phun phải luôn khuấy đều hỗn hợp
+	Tuân thủ sử dụng hóa chất theo quy trình hướng dẫn
+	Kiểm soát độ dày màng sơn đều trên sản phẩm
+	Xử lý bề mặt sản phẩm đạt yêu cầu mới thực hiện sơn phủ
+*Lưu ý: Phòng phun khô kém thoáng khí, chất khí của dung môi bốc hơi đã ô nhiễm không khí, bạch hóa màng phủ cũng là nguyên nhân gây sai độ bóng
+ 
+12.	Màng sơn bị trầy xước
+Màng sơn sau khi khô hoàn toàn khi va chạm nhẹ trên bề mặt để lại vết trầy xước
+ 
+Sự cố màng sơn bị trầy xước
+a.	Nguyên nhân
+	Thời gian khô lớp sơn bên ngoài chưa đủ (phải qua 72 giờ)
+	Tính năng sơn : mỗi loại sơn có độ cứng khác nhau.
+	Độ dày màng sơn quá dày.
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Xử lý lại bề mặt sản phẩm
+	Để đủ thời gian kiểm tra lại
+c.	Phương pháp khắc phục
+	Tuân thủ theo qui trình hướng dẫn
+	Sử dụng loại sơn có tính năng độ cứng cho phù hợp yêu cầu
+	Phải sơn độ dày thích hợp 100  125 µm (tương đương 2 Paths)
+*Lưu ý: độ nhớt của sơn phải thích hợp khi sơn bề mặt đứng, tránh trường hợp lớp sơn phía dưới quá dày
+ 
+13.	Màng sơn bị sọc
+Màng sơn sau khi khô cấp 1 có những đường sọc theo đường súng sơn
+ 
+Sự cố màng sơn bị sọc 
+a.	Nguyên nhân
+	Sơn nhanh ráo bề mặt khi phun tạo đường sọc của đường súng sơn. (có sự chênh lệch giữa đường sơn trước và đường sơn sau)
+	Nhiệt độ môi trường và bề mặt sản phẩm cao
+	Phun gió quá lớp hoặc quá nhỏ.
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Xử lý lại bề mặt
+	Điều chỉnh hỗn hợp sơn cho phù hợp
+c.	Phương pháp khắc phục
+	Sử dụng chất chậm khô vào hỗn hợp sơn ( dung môi Retader hoặc dung môi S P)
+	Kiểm soát nhiệt độ môi trường và bề mặt sản phẩm trước khi phun
+	Thao tác phun cho đúng kỹ thuật
+*Lưu ý:  khi thi công các loại sơn có độ bóng cao cần lưu ý về độ phẳng của bề mặt gỗ cần sơn, phun sơn đúng kỹ thuật, không sơn cách nửa và tránh việc dặm vá. 
+14.	Sản phẩm hoặc hỗn hợp pha bị đóng ván trên bề mặt
+Sản phẩm sơn, hoặc hỗn hợp pha sau một thời gian có một lớp sơn đóng ván trên bề mặt
+ 
+Sự cố ván dầu trên bề mặt sơn
+a.	Nguyên nhân
+	Hỗn hợp pha đựng trong thùng không che đậy và vượt qua thời gian như quy định
+	Có một số sơn có tính năng nhanh khô, hỗn hợp pha không sư dụng quá 4h
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Xử lý hỗn hợp pha
+c.	Phương pháp khắc phục
+	Các thùng đựng sơn phải đậy nắp kỹ khi không sử dụng tránh không cho không khí lọt vào
+	Hỗn hợp pha trong quá trình sơn nên thường xuyên khuấy đều
+	Không sử dụng hỗn hợp sơn sau khi pha quá 4 giờ (đối với hệ sơn hai thành phần), còn hệ sơn một thành phần phải kiểm tra độ nhớt lại mới sử dụng 
+15.	Sản phẩm ra màu không giống nhau
+Màu sắc không đều trên sản phẩm
+ 
+Sự cố sai màu sơn 
+a.	Nguyên nhân
+	Không khuấy đều sản phẩm trước khi pha và trong quá trình sử dụng
+	Thao tác sơn không đều tay và chỉnh súng sơn không phù hợp
+	Nguyên liệu gỗ có nhiều màu sắc khác nhau
+ 
+Màu sắc trên màng sơn phân bố không đều làm lệch màu
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Xử lý lại
+c.	Phương pháp khắc phục
+	Khuấy đều sản phẩm và hỗn hợp pha trước khi sử dụng
+	Thao tác sơn cho đúng kỹ thuật
+	Sử dụng  stain màu sửa gỗ cho tương đối đều màu rồi mới sơn
+ 
+16.	Màng sơn bị bong tróc, tách lớp
+Màng sơn trên sản phẩm sau 24 giờ kiểm tra độ bám : bị bong tróc
+ 
+Sự cố tróc sơn
+a.	Nguyên nhân
+	Qui trình không phù hợp
+	Pha sơn không đúng tỷ lệ, thiếu chất đóng rắn
+	Hệ màu và glaze không tương thích với sơn
+	Wood Filler hoặc màu lau, Lót chà nhám để qua đêm không vuốt nhám lại trước khi thực hiện công đoạn sau ( bề mặt bị hút ẩm của môi trường và bụi bám)
+	Không chà nhám , chà nhám xử lý lớp nền hoặc lót phía dưới chưa đạt yêu cầu
+	Phun sơn không đủ độ phủ (phun mỏng không đủ độ dày)
+	Sơn nhanh ráo mặt chưa đủ thời gian tan lớp sơn phía dưới
+	Sơn bị háp trên bề mặt
+	Hỗn hợp pha để quá lâu làm giảm tính năng sơn
+
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Đánh giá mức độ bong tróc
+	Xem bong tróc từ công đoạn nào của sơn
+	Xử lý lại bề mặt
+	Rửa hoàn toàn lớp sơn và thực hiện lại nếu bong tróc nặng
+c.	Phương pháp khắc phục
+	Tuân thủ qui trình hướng dẫn
+	Wood Filler hoặc màu lau, Lót chà nhám để qua đêm nên vuốt nhám lại trước khi thực hiện công đoạn sau
+	Xử lý lớp nền phía dưới đạt yêu cầu mới thực hiện công đoạn sau
+	Phải sơn độ dày thích hợp100  125 µm (tương đương 2 Paths)
+	Điều chỉnh chất làm chậm khô bề mặt (retarder hoặc S P)
+	Thao tác sơn phải đúng kỹ thuật và treo sản phẩm không được khít nhau
+	Hỗn hơp sơn pha không quá 4 giờ
+*Lưu ý: Đối với hệ sơn 1 thành phần tróc phần Lót trở lên
+ Chà nhám bề mặt→Phun hỗn hợp dung môi (D môi rửa dầu gỗ thông BT 2508 + 15% A66 Resin), để sau 1đến 2 giờ chà nhám hoặc bùi nhùi, phủ Bóng + 5%→7%  A 66 Resin
+ 
+17.	Màng sơn lau ra màu
+Sản phẩm khi đã sản xuất xong dùng vải lau bị ra màu
+ 
+Sự cố màng sơn lau ra màu 
+a.	Nguyên nhân
+	Sản phẩm bị lợt màu, dùng stain màu dặm lại cho đều màu mà không phủ lại lớp bóng bên ngoài
+	Dùng vải lau có lẫn dung môi trong vải lau trên hệ sơn 1 thành phần
+	Sản phẩm chưa đủ thời gian khô (đối với mặt hàng out door)
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Xử lý lại bề mặt sản phẩm. Phun thêm lớp bóng phủ
+c.	Biện pháp xử lý nhanh ở trong sản xuất
+	Phải phủ lớp bóng bên ngoài sau khi dặm màu lại trên bề mặt sản phẩm
+	Vải lau phải sạch không lẫn dung môi làm tan lớp sơn
+	Phải đảm bảo đủ thời gian theo qui trình hướng dẫn (đối với mặt hàng out door)
+ 
+18.	Màng sơn bị mốc
+Sau khi phun khô cấp 1 màng sơn bị mốc cục bộ hoặc toàn sản phẩm
+ 
+Sự cố màng sơn bị mốc sau khi phun khô
+a.	Nguyên nhân
+	Điều kiện môi trường:  độ ẩm quá cao > 75% , nhiệt độ thấp < 22 oC
+	Đường dây hơi bị lẫn nước.
+	Dùng dung môi không phù hợp
+	Phun gió quá mạnh
+b.	Biện pháp xử lý nhanh ở trong sản xuất
+	Xử lý nhanh để tiếp tục sản xuất
+c.	Biện pháp xử lý nhanh ở trong sản xuất
+	Điều chỉnh môi trường cho phù hợp (sử dụng buồng sấy)
+	Vệ sinh dường dây hơi phun.
+	Sử dụng dung môi theo qui trình hướng dẫn.
+	Thao tác phun đúng kỹ thuật.
+
 
 
 
