@@ -1831,26 +1831,6 @@ Các nguồn cung cấp thông tin về nhiều loại sơn NC (Nitrocellulose),
 *   Thời gian khô có thể khác nhau tùy thuộc vào điều kiện môi trường (nhiệt độ, độ ẩm) và độ dày lớp sơn.
 *   Một số loại sơn NC có thể có sự điều chỉnh về quy trình, cần kiểm tra lại với bộ phận QC khi cần thiết.
 •
-Sơn NC PC23 Lót tự nhiên:
-◦
-Đây là sơn lót tự nhiên.
-◦
-Tỉ lệ pha là 1-1.
-◦
-Dung môi sử dụng là NC 02/23.
-◦
-Độ nhớt (NK2) nằm trong khoảng 16-19s.
-◦
-Sơn này có độ phủ cao và giá cả cạnh tranh.
-•
-Sơn NC PC23 Bóng tự nhiên:
-◦
-Đây là sơn bóng tự nhiên.
-◦
-Tỉ lệ pha là 1-1.
-◦
-Dung môi sử dụng là NC 02/23.
-◦
-Độ nhớt (NK2) nằm trong khoảng 14-16s.
-◦
-Sơn này cũng có độ phủ cao và giá cả cạnh tranh.
+Sơn NC PC23 Lót tự nhiên:Tỉ lệ pha là 1-1.Dung môi sử dụng là NC 02/23.Độ nhớt (NK2) nằm trong khoảng 16-19s.Sơn này có độ phủ cao và giá cả cạnh tranh.
+
+Sơn NC PC23 Bóng tự nhiên:Tỉ lệ pha là 1-1.Dung môi sử dụng là NC 02/23.Độ nhớt (NK2) nằm trong khoảng 14-16s.Sơn này cũng có độ phủ cao và giá cả cạnh tranh.
