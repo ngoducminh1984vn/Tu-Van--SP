@@ -1608,49 +1608,53 @@ STT	Tên màu	Ghi chú	Loại màu 	Công dụng 	Mức giá
 78	Nâu BU5511 (1-1)PE		Pigment 	Dầu màu ngoài trời 	
 79	Nâu BU 5512 (1-1)PE		Pigment 	Dầu màu ngoài trời 	
 80	Stain WOD trắng		Pigment 	Dầu màu ngoài trời 	
-Phân loại	Dòng sơn 	Mã sản phẩm 	Cách sử dụng	Đặc tính 	
-Sơn đa dụng ( IN/OUT)	Sơn nhúng 	Nhựa stain BT 1023	Sử dụng trực tiếp	Pha màu nhúng để dễ dàng gia công và thẩm thấu các chi tiết sâu.Sử dụng làm Stain màu ( pha với màu hệ Dung môi ) làm giảm xù ghim gỗ .Sử dụng làm Primer chống xù ghim gỗ	
-Sơn đa dụng ( IN/OUT)	Sơn nhúng 	Lót Nhúng BT – 0511H	Sử dụng trực tiếp	Có thể pha màu và điều chỉnh nước hoặc các sản phẩm phụ trợ để điều chỉnh độ dày mỏng và thời gian khô theo yêu cầu	
-Sơn hệ nước ngoài trời	Sơn bóng tự nhiên 	Bóng BT OD 02/23H	Sử dụng trực tiếp	Sơn phủ trong với khả năng kháng nước và hóa chất	
-Sơn hệ nước ngoài trời	Sơn bóng trắng	Bóng Trắng BT OD 02/23H	Sử dụng trực tiếp	Sơn phủ trắng với khả năng kháng nước và hóa chất	
-Sơn hệ nước ngoài trời	Sơn bóng tự nhiên 	Bóng BT ODR 03/23H	Sử dụng trực tiếp	Sơn phủ trong đạt chuẩn Ikea R2 về chất lượng và hóa chất, độ bền ngoài trời tốt, chống biến màu cực tốt	
-Sơn hệ nước ngoài trời	Sơn bóng trắng	Bóng Trắng BT ODR 03/23H	Sử dụng trực tiếp	Sơn phủ trong đạt chuẩn Ikea R2 về chất lượng và hóa chất, độ bền ngoài trời tốt, chống biến màu cực tốt	
-Sơn đa dụng ( IN/OUT)	Sơn bóng tự nhiên 	Bóng BEx 03 – 2410H	Sử dụng trực tiếp	 Màng sơn trong, độ phủ cao, dể sử dụng.Phù hợp các dòng hàng Stain màu,Glaze màu giả cổ, thơi gian khô nhanh	
-Sơn an toàn thực phẩm 	Sơn bóng tự nhiên 	BT FC 01/23 TOPCOAT LACQUER	Sử dụng trực tiếp	Dùng sơn các sản phẩm tiếp xúc trực tiếp đến các thực phẩm ướt	
-Sơn đa dụng ( IN/OUT)	Sơn bóng tự nhiên 	Bóng BT STR – 2410H	Sử dụng trực tiếp	Sản phẩm kháng hóa chất tốt: cà phê, rượu vang, nước….nhưng thời gian khô chậm nên khi sử dụng cần lưu ý.	
-Sơn đa dụng ( IN/OUT)	Sơn bóng tự nhiên 	Bóng BEx 03 – 2706H	Sử dụng trực tiếp	 Màng sơn trong, độ phủ cao, dể sử dụng.Phù hợp các dòng hàng Stain màu,Glaze màu giả cổ, thơi gian khô nhanh	
-Sơn đa dụng ( IN/OUT)	Sơn bóng trắng	Bóng Trắng BWEx 03 – 2410H	Sử dụng trực tiếp	Sơn chống ngã vàng, chống biến màu cũng như tối ưu thời gian thi công, giá hợp lý hơn hàng ngoài trời	
-Sơn đa dụng ( IN/OUT)	Sơn bóng tự nhiên 	Bóng KL3 – 1801H	Sử dụng trực tiếp	Sơn phủ có tính dẻo tốt, phù hợp các sản phẩm dễ biến dạng như lục bình. Độ phủ cao và khả năng chống ngã màu tốt. Dùng trong nhà.	
-Sơn đa dụng ( IN/OUT)	Sơn bóng trắng	Bóng Trắng KLW – 6410H	Sử dụng trực tiếp	Sơn phủ trắng có tính dẻo tốt, phù hợp các sản phẩm dễ biến dạng như lục bình. Độ phủ cao và khả năng chống ngã màu tốt. Dùng trong nhà.	
-Sơn trong nhà  ( IN) 	Sơn bóng tự nhiên 	Bóng BT 2K 201120H	Pha 10% cứng XP25H	Sơn nước 2K, độ cứng, chịu va đập cao, kháng hóa chất và các yếu tố khác tốt hơn so với nhiều loại sơn khác.Đạt chuẩn Ikea R2. Lưu ý: sơn sau khi pha cứng nên sử dụng trong vòng 1h, trường hợp để lâu sẻ làm giảm đi các tính năng của sơn như giảm độ cứng, giảm kháng hoá chất và tăng độ bóng…?	
-Sơn đa dụng ( IN/OUT)	Sơn lót tự nhiên	Lót S07 – 2706H NEW	Sử dụng trực tiếp	Độ trong có thể so sánh với sơn NC, phù hợp cho các mẫu nội thất theo phong cách giả cổ hoặc stain màu tự nhiên, có thể dùng được cho cả trong nhà và ngoài trời.	
-Sơn đa dụng ( IN/OUT)	Sơn lót tự nhiên	Lót S03 – 2410H	Sử dụng trực tiếp	Độ trong có thể so sánh được với hệ sơn NC, phù hợp cho các mẫu nội thất theo phong cách giả cổ hoặc stain màu tự nhiên, có thể dùng được cho cả trong nhà và ngoài trời.	
-Sơn đa dụng ( IN/OUT)	Sơn lót trắng	Lót Trắng SW1 – 1705H	Sử dụng trực tiếp	Chống ngã vàng, chống biến màu cũng như tối ưu thời gian thi công, giá hợp lý hơn hàng ngoài trời.Lót Trắng độ phủ cao, dề sử dụng, phù hợp trên nhiều quy trình.Sử dụng được trên nền Lót Trắng PU 0601, Lót NC và trên nền UV.Lưu Ý. không nên sơn dày rất dể ảnh hưởng tới độ bám của sơn. Còn xù ghim gỗ khi sử dụng toàn bộ quy trình hệ nước	
-Sơn đa dụng ( IN/OUT)	Sơn lót tự nhiên	Lót S2 – 2108H	Sử dụng trực tiếp	Sơn quét cọ không màu 	
-Sơn đa dụng ( IN/OUT)	Sơn lót trắng	SW6-0909H NEW	Sử dụng trực tiếp	Sơn lót trăng  ( dùng qui trình thay NC trắng - Kim Phong ) .Lót Trắng độ phủ cao, dề sử dụng, phù hợp trên nhiều quy trình.Sử dụng được trên nền Lót Trắng PU 0601, Lót NC và trên nền UV.Lưu Ý. không nên sơn dày rất dể ảnh hưởng tới độ bám của sơn. Còn xù ghim gỗ khi sử dụng toàn bộ quy trình hệ nước	
-Sơn đa dụng ( IN/OUT)	Sơn lót trắng	Lót Trắng WS2 – 2108H	Sử dụng trực tiếp	Sơn quét cọ màu trắng 	
-Sơn đa dụng ( IN/OUT)	Sơn lót tự nhiên	Lót SR – 01H	Sử dụng trực tiếp	Sơn không màu cho máy lăn trục	
-Sơn đa dụng ( IN/OUT)	Sơn lót trắng	Lót Trắng SWR – 03H	Sử dụng trực tiếp	Sơn màu trắng cho máy lăn trục	
-Sản phẩm hỗ trợ	Basecoat	BASECOAT BT – 0512H	Sử dụng trực tiếp	Nhanh khô, dễ chà nhám và độ che lấp tốt các loại MDF xấu hoặc đã tái chế, cạnh MDF, cạnh gỗ ghép …Sử dụng được trên nền Lót Pu trắng và Lót Pu Trắng 0601	
-Sản phẩm hỗ trợ	Woodfiller	Bã Bột WF – 506H	Sử dụng trực tiếp	Lấp ghim gỗ, dùng cho các qui trình bít sớ gỗ, có thể pha màu để làm nổi bật vân gỗ 	
-Sản phẩm hỗ trợ	Glaze	Glaze BT – 2506H 	Sử dụng trực tiếp	Glaze nền, dùng để pha màu sắc tùy chọn	
-Sản phẩm hỗ trợ	Glaze	Glaze Trắng BT – 2904H	Pha 5-10% REDUCER – 04H	Glaze màu trắng.Lau bằng vải sạch hoặc pha loãng phun bằng súng sơn.Ưu điểm: Để lại ghim trắng tốt nhưng màng sơn còn lớp đục nhẹ.Phù hợp sử dụng cho các màu lau còn lớp trắng trên mặt. Độ bám tốt.Nhược điểm: khó chà sạch, còn để lại 1 lớp đục trắng nhẹ dể làm đục màu trên bề mặt sơn.Thích hợp được trên hệ nước và hệ dung môi	
-Sản phẩm hỗ trợ	Bột lau 	Bột Lau BT-2010H		Lau bằng vải sạch hoặc pha loãng phun bằng súng sơn. Ưu điểm: Để lại ghim trắng tốt, rất dể chà sạch, màng sơn trong.Phù hợp sử dụng cho các màu lau chỉ để lại bột trong ghim.Nhược điểm: không được để bột trên bề mặt nhiều sẽ không an toàn về bám sơn .Thích hợp được trên hệ nước và hệ dung môi.	
-Sản phẩm hỗ trợ	Tannin block	TB – 2211H	Pha 3% PGTB, để khô 4h tiến hành các bước tiếp theo	Chất ngăn dầu  không màu, phù hợp có các qui trình màu tự nhiên, màu stain trên nền gỗ thông, tràm …Ưu điểm: Ngăn dầu trên các loại gỗ như: thông, tràm. …;Ít xù ghim.nhược điểm: chậm khô, xù ghim gổ.phù hợp cho quy trình sử dung sơn nước như: Sử dụng được với Lót Trắng SW1-1705 H, Lót SW6-0909H New..	
-Sản phẩm hỗ trợ	Tannin block	TBW – 2211H	Pha 3% PGTB, để khô 4h tiến hành các bước tiếp theo	Chất  ngăn dầu màu trắng, dùng cho các qui trình hàng sơn màu (pigmented) trên nền gỗ thông, tràm …Ưu điểm: Ngăn dầu trên các loại gỗ như: thông, tràm. …;Ít xù ghim.nhược điểm: chậm khô, xù ghim gổ.phù hợp cho quy trình sử dung sơn nước như: Sử dụng được với Lót Trắng SW1-1705 H, Lót SW6-0909H New..	
-Sản phẩm hỗ trợ	Tannin block	Ngăn dầu TB 1501		 Ưu điểm: Ngăn dầu tốt được trên các loai gổ, nhanh khô, dể sử dụng, ít xù ghim, phù hợp được cả sơn nước và sơn dung môi.Nhược điểm: không ngăn được dầu trên gổ tràm.Sử dụng được cả quy trình sơn dung môi và sơn hệ nước	
-Sản phẩm hỗ trợ	Putty	BT – 1510H	Sử dụng trực tiếp	Chất trám vào các lỗi bề mặt gỗ tự nhiên: lỗ đinh, lỗ mọt hoặc các vết băm, lõm trên bề mặt gỗ	
-Sản phẩm hỗ trợ	Nhựa stain	1604H	Pha màu theo ý muốn	Pha màu stain gỗ. Làm cho màu sáng, trong hơn, dễ sơn ,dễ chỉnh màu và tăng cường độ bám dính cho hệ sơn	
-Sản phẩm hỗ trợ	Wax chống trầy	Wax 1 – 2710H	Sử dụng trực tiếp	Hạn chế được việc dính bao bì và chống trầy xước đáng kể trong quá trình vận chuyển , sử dụng. 	
-Sản phẩm hỗ trợ	Chất chống thấm nước	Soap Oil IPO (H)	Sử dụng trực tiếp	Chất lau bề mặt, chống thấm nước hiệu quả cao	
-Sản phẩm hỗ trợ	Chất chống thấm nước	Wax Lau BT – 1010H	Sử dụng trực tiếp	Chất chống nước, chống dính mặt cho các bề mặt sơn 	
-Sản phẩm hỗ trợ	Reducer	REDUCER – 04H	Pha từ  3-10% vào các sơn cần dùng, trong trường hợp đặc biệt dùng không quá 20%.B1: Khuấy đều sơn cần pha.B2: đổ từ từ lượng dung môi cần pha vào sơn khi đang khuấy đều.B3: Khuấy đều 2 – 3 phút.Thời gian sử dụng: sau khi pha sử dụng trong vòng 16 giờ ( nên tuân thủ sử dụng đúng thời gian như khuyến cáo để chất lượng sơn được tối ưu và đảm bảo nhất )	Chất làm chậm khô, giúp cho bề mặt sơn được san phẳng, độ bóng đồng đều.Pha vô sơn phun và lau, làm chậm thời gian ráo mặt của sơn (chỉ nên sử dụng khi cần thiết )	
-Sản phẩm hỗ trợ	Diluent	Diluent BT – 08H	5-30% vào các sơn cần dùng .B1: Khuấy đều sơn cần pha.B2: đổ từ từ lượng dung môi cần pha vào sơn khi đang khuấy đều.B3: Khuấy đều 2 – 3 phút.Thời gian sử dụng: sau khi pha sử dụng trong vòng 16 giờ ( nên tuân thủ sử dụng đúng thời gian như khuyến cáo để chất lượng sơn được tối ưu và đảm bảo nhất )	Pha loãng sơn, làm giảm độ phủ sơn mà không thay đổi tính chất sản phẩm. Pha Stain màu (theo hướng dẫn sử dụng đính kèm).	
-Sản phẩm hỗ trợ	Basecoat	BASE COAT BT – 1009H	Sử dụng trực tiếp	Phù hợp sơn lớp đầu và xử lý nền MDF, rất dễ xả nhám .Áp dụng cạnh MDF.Xử lý cạnh MDF xong sơn phủ lớp sơn nước hoặc sơn dung môi lên đều phù hợp	
-Sơn trong nhà  ( IN) 	Sơn bóng tự nhiên 	Bóng BT ABR – 2410H		Sản phẩm có độ cứng cao, chống trầy tốt.+kháng được hoá chất như: cà phê, rượu vang, nước… đáp ứng được các tiêu chuẩn của khách hàng ASHLEY	
-Sản phẩm hỗ trợ	Phụ gia 	Phụ Gia TB	Sử dụng với lượng 1 – 2% Khuấy vào theo các bước như sau   B1: Khuấy đều sơn cần pha.B2: đổ từ từ lượng dung môi cần pha vào sơn khi đang khuấy đều.B3: Khuấy đều 2 – 3 phút.Thời gian sử dụng: sau khi pha sử dụng trong vòng 16 giờ ( nên tuân thủ sử dụng đúng thời gian như khuyến cáo để chất lượng sơn được tối ưu và đảm bảo nhất )	 . Ưu điểm: Ngăn dầu, chất Ngăn Dầu TB – 2211H, Lót Trắng SW8 – 2603H…Tăng khả năng kháng hóa chất cho các sản phẩm Lót, Bóng…Nhược điểm: Giá thành cao vì vậy chỉ ưu tiên sử dụng đối với các mặt hàng có yêu cầu tét hoá chất.	
-Sản phẩm hỗ trợ	Phụ gia 	Phụ Gia E05 (Đạt Ikea)	Sử dụng với lượng 1 – 2% Khuấy vào theo các bước như sau B1: Khuấy đều sơn cần pha.B2: đổ từ từ lượng dung môi cần pha vào sơn khi đang khuấy đều.B3: Khuấy đều 2 – 3 phút.Thời gian sử dụng: sau khi pha sử dụng trong vòng 16 giờ ( nên tuân thủ sử dụng đúng thời gian như khuyến cáo để chất lượng sơn được tối ưu và đảm bảo nhất )	 Mục đích: tăng khả năng chịu hóa chất màng sơn (rượu vang…), phù hợp hóa chất theo chuẩn Ikea.	
-Sản phẩm hỗ trợ	Reducer	Reducer – 09H	 Pha không giới hạn . B1: Khuấy đều sơn cần pha.B2: đổ từ từ lượng dung môi cần pha vào sơn khi đang khuấy đều.B3: Khuấy đều 2 – 3 phút.Thời gian sử dụng: sau khi pha sử dụng trong vòng 16 giờ ( nên tuân thủ sử dụng đúng thời gian như khuyến cáo để chất lượng sơn được tối ưu và đảm bảo nhất )	dùng sử dụng Pha loãng Glaze Màu, stain màu và các sản phẩm khác như lót, bóng …, làm sơn chậm khô mặt dễ gia công đánh cọ, quét cọ hoặc lau.	
-Sản phẩm hỗ trợ	Reducer	Retander BT – 01H	 Pha từ 3 đến 7 %  B1: Khuấy đều sơn cần pha.B2: đổ từ từ lượng dung môi cần pha vào sơn khi đang khuấy đều.B3: Khuấy đều 2 – 3 phút.Thời gian sử dụng: sau khi pha sử dụng trong vòng 16 giờ ( nên tuân thủ sử dụng đúng thời gian như khuyến cáo để chất lượng sơn được tối ưu và đảm bảo nhất )	Pha vô sơn phun, làm chậm thời gian ráo mặt của sơn (khắc phục lỗi nhám, hạt da cam khi sơn diện tích lớn).Không thay đổi tính chất sản phẩm. 	
-Sơn đa dụng ( IN/OUT)	Sơn nhúng 	Lót Nhúng DC - 0603H	Sử dụng trực tiếp	Pha màu nhúng hoặc stain màu ngoài trời	
+Các sản phẩm sơn hệ nước được đề cập trong nguồn bao gồm:
+
+*   **Sơn hệ nước ngoài trời**:
+    *   **Sơn bóng tự nhiên Bóng BT OD 02/23H**: Sử dụng trực tiếp, là sơn phủ trong với khả năng kháng nước và hóa chất.
+    *   **Sơn bóng trắng Bóng Trắng BT OD 02/23H**: Sử dụng trực tiếp, là sơn phủ trắng với khả năng kháng nước và hóa chất.
+    *   **Sơn bóng tự nhiên Bóng BT ODR 03/23H**: Sử dụng trực tiếp, đạt chuẩn Ikea R2 về chất lượng và hóa chất, có độ bền ngoài trời tốt và chống biến màu cực tốt.
+    *   **Sơn bóng trắng Bóng Trắng BT ODR 03/23H**: Sử dụng trực tiếp, đạt chuẩn Ikea R2 về chất lượng và hóa chất, có độ bền ngoài trời tốt và chống biến màu cực tốt.
+
+*   **Sơn đa dụng (IN/OUT)**:
+    *   **Sơn nhúng Nhựa stain BT 1023**: Sử dụng trực tiếp, dùng để pha màu nhúng, làm Stain màu (pha với màu hệ Dung môi), làm giảm xù ghim gỗ, và làm Primer chống xù ghim gỗ.
+    *   **Sơn nhúng Lót Nhúng BT – 0511H**: Sử dụng trực tiếp, có thể pha màu và điều chỉnh độ dày mỏng và thời gian khô.
+    *   **Sơn bóng tự nhiên Bóng BEx 03 – 2410H**: Sử dụng trực tiếp, màng sơn trong, độ phủ cao, dễ sử dụng, phù hợp với Stain màu và Glaze màu giả cổ, thời gian khô nhanh.
+    *   **Sơn bóng tự nhiên Bóng BT STR – 2410H**: Sử dụng trực tiếp, kháng hóa chất tốt (cà phê, rượu vang, nước…), nhưng thời gian khô chậm.
+    *   **Sơn bóng tự nhiên Bóng BEx 03 – 2706H**: Sử dụng trực tiếp, màng sơn trong, độ phủ cao, dễ sử dụng, phù hợp với Stain màu và Glaze màu giả cổ, thời gian khô nhanh.
+    *   **Sơn bóng trắng Bóng Trắng BWEx 03 – 2410H**: Sử dụng trực tiếp, chống ngã vàng, chống biến màu và tối ưu thời gian thi công, giá hợp lý hơn hàng ngoài trời.
+    *   **Sơn bóng tự nhiên Bóng KL3 – 1801H**: Sử dụng trực tiếp, có tính dẻo tốt, phù hợp cho sản phẩm dễ biến dạng như lục bình, độ phủ cao và chống ngã màu tốt, dùng trong nhà.
+    *   **Sơn bóng trắng Bóng Trắng KLW – 6410H**: Sử dụng trực tiếp, có tính dẻo tốt, phù hợp cho sản phẩm dễ biến dạng như lục bình, độ phủ cao và chống ngã màu tốt, dùng trong nhà.
+    *   **Sơn lót tự nhiên Lót S07 – 2706H NEW**: Sử dụng trực tiếp, độ trong tương đương sơn NC, phù hợp cho nội thất giả cổ hoặc stain màu tự nhiên, dùng được cả trong nhà và ngoài trời.
+    *   **Sơn lót tự nhiên Lót S03 – 2410H**: Sử dụng trực tiếp, độ trong tương đương sơn NC, phù hợp cho nội thất giả cổ hoặc stain màu tự nhiên, dùng được cả trong nhà và ngoài trời.
+    *   **Sơn lót trắng Lót Trắng SW1 – 1705H**: Sử dụng trực tiếp, chống ngã vàng, chống biến màu, tối ưu thời gian thi công, giá hợp lý hơn hàng ngoài trời, độ phủ cao, dễ sử dụng, phù hợp trên nhiều quy trình (Lót Trắng PU 0601, Lót NC, nền UV), lưu ý không nên sơn dày và có thể gây xù ghim gỗ khi sử dụng toàn bộ quy trình hệ nước.
+    *   **Sơn lót tự nhiên Lót S2 – 2108H**: Sử dụng trực tiếp, sơn quét cọ không màu.
+    *   **Sơn lót trắng SW6-0909H NEW**: Sử dụng trực tiếp, sơn lót trắng (thay thế NC trắng - Kim Phong), độ phủ cao, dễ sử dụng, phù hợp trên nhiều quy trình (Lót Trắng PU 0601, Lót NC, nền UV), lưu ý không nên sơn dày và có thể gây xù ghim gỗ khi sử dụng toàn bộ quy trình hệ nước.
+    *   **Sơn lót trắng Lót Trắng WS2 – 2108H**: Sử dụng trực tiếp, sơn quét cọ màu trắng.
+    *   **Sơn lót tự nhiên Lót SR – 01H**: Sử dụng trực tiếp, sơn không màu cho máy lăn trục.
+    *   **Sơn lót trắng Lót Trắng SWR – 03H**: Sử dụng trực tiếp, sơn màu trắng cho máy lăn trục.
+    *   **Sơn nhúng Lót Nhúng DC - 0603H**: Sử dụng trực tiếp, pha màu nhúng hoặc stain màu ngoài trời.
+
+*   **Sơn trong nhà (IN)**:
+    *   **Sơn bóng tự nhiên Bóng BT 2K 201120H**: Pha 10% cứng XP25H, là sơn nước 2K, độ cứng và chịu va đập cao, kháng hóa chất tốt hơn nhiều loại sơn khác, đạt chuẩn Ikea R2, lưu ý sử dụng trong vòng 1h sau khi pha cứng.
+    *   **Sơn bóng tự nhiên Bóng BT ABR – 2410H**: Có độ cứng cao, chống trầy tốt, kháng hóa chất (cà phê, rượu vang, nước…), đáp ứng tiêu chuẩn Ashley.
+
+*   **Sơn an toàn thực phẩm**:
+    *   **Sơn bóng tự nhiên BT FC 01/23 TOPCOAT LACQUER**: Sử dụng trực tiếp, dùng cho sản phẩm tiếp xúc trực tiếp với thực phẩm ướt.
+
+Ngoài ra, một số sản phẩm hỗ trợ được sử dụng với sơn hệ nước cũng được đề cập:
+
+*   **Tannin block TB – 2211H**: Pha 3% PGTB, là chất ngăn dầu không màu, phù hợp với quy trình màu tự nhiên, màu stain trên gỗ thông, tràm, có thể sử dụng với Lót Trắng SW1-1705 H, Lót SW6-0909H New.
+*   **Tannin block TBW – 2211H**: Pha 3% PGTB, là chất ngăn dầu màu trắng, dùng cho quy trình sơn màu trên gỗ thông, tràm, có thể sử dụng với Lót Trắng SW1-1705 H, Lót SW6-0909H New.
+*   **Tannin block Ngăn dầu TB 1501**: Ngăn dầu tốt trên nhiều loại gỗ, nhanh khô, dễ sử dụng, ít xù ghim, phù hợp cả sơn nước và sơn dung môi.
+*   **Basecoat BASECOAT BT – 0512H**: Sử dụng trực tiếp, nhanh khô, dễ chà nhám, độ che lấp tốt cho MDF xấu hoặc tái chế, cạnh MDF, cạnh gỗ ghép, sử dụng được trên nền Lót Pu trắng và Lót Pu Trắng 0601.
+*   **Basecoat BASE COAT BT – 1009H**: Sử dụng trực tiếp, phù hợp sơn lớp đầu và xử lý nền MDF, rất dễ xả nhám, áp dụng cạnh MDF, sau đó có thể sơn phủ lớp sơn nước hoặc sơn dung môi.
+*   **Glaze Trắng BT – 2904H**: Pha 5-10% REDUCER – 04H, là Glaze màu trắng, lau bằng vải sạch hoặc phun bằng súng sơn, để lại ghim trắng tốt nhưng màng sơn còn lớp đục nhẹ, độ bám tốt, thích hợp cho hệ nước và hệ dung môi.
+*   **Bột Lau BT-2010H**: Lau bằng vải sạch hoặc phun bằng súng sơn, để lại ghim trắng tốt, rất dễ chà sạch, màng sơn trong, phù hợp cho màu lau chỉ để lại bột trong ghim, thích hợp cho hệ nước và hệ dung môi.
+*   **Phụ Gia TB**: Sử dụng 1 – 2%, tăng khả năng kháng hóa chất cho Lót, Bóng, có tác dụng ngăn dầu.
+*   **Phụ Gia E05 (Đạt Ikea)**: Sử dụng 1 – 2%, tăng khả năng chịu hóa chất màng sơn theo chuẩn Ikea.
+*   **Reducer REDUCER – 04H**: Pha 3-10%, làm chậm khô, giúp bề mặt sơn san phẳng, độ bóng đều.
+*   **Diluent Diluent BT – 08H**: Pha 5-30%, pha loãng sơn, giảm độ phủ mà không thay đổi tính chất.
+*   **Reducer Reducer – 09H**: Pha không giới hạn, pha loãng Glaze Màu, stain màu và các sản phẩm khác, làm sơn chậm khô dễ gia công.
+*   **Reducer Retander BT – 01H**: Pha 3-7%, làm chậm thời gian ráo mặt của sơn phun, khắc phục lỗi nhám.	
 
