@@ -1269,3 +1269,342 @@ Dựa trên nguồn tài liệu "HDSD.pdf" bạn cung cấp, đây là hướng 
 *   **Đặc điểm:**
     *   Pha nhiều nhựa stain BT 24 có thể dẫn đến **tăng độ bóng và kéo dài thời gian đóng gói**.
     *   Nếu phun stain trực tiếp lên bề mặt gỗ, màu sẽ **thấm kém hoặc chạy ghim gỗ**.
+
+	Dòng sơn 	sản phẩm 	sản phẩm 	Cách sử dụng	Công dụng/Đặc tính 
+Ngoài trời	Sơn PU	HXXT	Bóng tự nhiên	"-Tỉ lệ pha: 2-0.7-1
+-Cứng: PU HXXT
+-Dung môi: PU TXXT
+-Độ nhớt (NK2): 11-15s"	"Sản phẩm truyền thống của Bình Thạnh
+Sử dụng rộng rãi cho các mặt hàng ngoài trời"
+Ngoài trời	Sơn PU	HXXT	Bóng trắng	"-Tỉ lệ pha: 2-0.5-1
+-Cứng: PU HXXT
+-Dung môi: PU TXXT
+-Độ nhớt (NK2): 9-13s"	"Sản phẩm truyền thống của Bình Thạnh
+Sử dụng rộng rãi cho các mặt hàng ngoài trời"
+Ngoài trời	Sơn PU	OD0405	Bóng tự nhiên	"-Tỉ lệ pha: 2-0.5-1
+-Cứng: PU 0707B
+-Dung môi: PU TXXT 1406 TRT
+-Độ nhớt (NK2): 10-14s"	"Chịu được môi trường biển
+Chuyên làm hàng công trình biển "
+Ngoài trời	Sơn PU	OD0405	Bóng trắng	"-Tỉ lệ pha: 2-0.5-1
+-Cứng: PU 0707B
+-Dung môi: PU TXXT 1406 TRT
+-Độ nhớt (NK2): 10-14s"	"Chịu được môi trường biển
+Chuyên làm hàng công trình biển "
+Ngoài trời	Sơn PU	OD 1107	Bóng tự nhiên	"-Tỉ lệ pha: 3-1-1.5
+-Cứng: PU 0707B
+-Dung môi: PU TXXT
+-Độ nhớt (NK2): 10-14s"	Chống biến màu
+Ngoài trời	Sơn PU	LÓT PU FD 0212 (SCANSIA)	Lót tự nhiên	nhanh khô, cứng PU FDWS 1223 .pha tỉ lệ 3-1 tự nhiên	Nhanh khô 
+Ngoài trời	Sơn PU	0707	Lót tự nhiên	"-Tỉ lệ pha: 4-1-2
+-Cứng: PU 0707L
+-Dung môi: PU TXXT 1406 TRT
+-Độ nhớt (NK2): 13-17s"	Chống ngã vàng
+Ngoài trời	Sơn PU	LÓT PU FD 0212 TRẮNG (SCANSIA)	Lót trắng	dùng với  cứng PU FDWS 1223 .pha tỉ lệ  trắng 4-1 . 	Nhanh khô 
+Ngoài trời	Sơn PU	0707 Trắng	Lót trắng	"-Tỉ lệ pha: 4-1-2
+-Cứng: PU 0707L
+-Dung môi: PU TXXT 1406 TRT
+-Độ nhớt (NK2): 12-16s"	Chống ngã vàng
+Trong nhà 	Sơn NC 	T2012	Lót tự nhiên	"-Tỉ lệ pha: 1-2
+-Dung môi: NC02
+-Độ nhớt (NK2): 12-15s"	Giá thành rẻ, qui trình sử dụng đơn giản
+Trong nhà 	Sơn NC 	T2012	Bóng tự nhiên	"-Tỉ lệ pha: 1-2
+-Dung môi: NC02
+-Độ nhớt (NK2): 11-13s"	Giá thành rẻ, qui trình sử dụng đơn giản
+Trong nhà 	Sơn NC 	1212	Lót tự nhiên	"-Tỉ lệ pha: 1-1
+-Dung môi: NC1212
+-Độ nhớt (NK2): 15-18s"	Sơn NC cao cấp, độ phủ cao ==> rút ngắn quy trình sơn
+Trong nhà 	Sơn NC 	1212	Bóng tự nhiên	"-Tỉ lệ pha: 1-1
+-Dung môi: NC1212
+-Độ nhớt (NK2): 14-16s"	Sơn NC cao cấp, độ phủ cao ==> rút ngắn quy trình sơn
+Trong nhà 	Sơn NC 	HB	Lót tự nhiên	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCHB
+-Độ nhớt (NK2): 12-15s"	Sơn NC cao cấp có độ phủ , độ trong và độ dẻo dai cao ==> phù hợp với hàng giả cổ
+Trong nhà 	Sơn NC 	HB	Bóng tự nhiên	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCHB
+-Độ nhớt (NK2): 13-15s"	Sơn NC cao cấp có độ phủ , độ trong và độ dẻo dai cao ==> phù hợp với hàng giả cổ
+Trong nhà 	Sơn NC 	"BÓNG NC HB ABR 10%
+BÓNG NC HB ABR MATT
+BÓNG NC HB ABR 40%
+BÓNG NC HB ABR 70%
+BÓNG NC HB ABR 35%"	Bóng tự nhiên	Tỉ lệ 1-1 với dung môi NC HB: độ nhớt 12-15s 	Sơn NC chống mài mòn, để test tiêu chuẩn của Ashley ( chà dĩa bề mặt ) 
+Trong nhà 	Sơn NC 	MOD 1106	Lót tự nhiên	"-Tỉ lệ pha: 10-1-10
+-Cứng: Cứng NC MOD 1106 lót
+-Dung môi: NC MOD
+-Độ nhớt (NK2): 14-18s"	Sơn kết hợp một phần tính bền bỉ của sơn PU và khả năng dễ sử dụng của sơn NC
+Trong nhà 	Sơn NC 	MOD 1106	Bóng tự nhiên	"-Tỉ lệ pha: 10-1-10
+-Cứng: Cứng NC MOD 1106 bóng
+-Dung môi: NC MOD
+-Độ nhớt (NK2): 13-17s"	Sơn kết hợp một phần tính bền bỉ của sơn PU và khả năng dễ sử dụng của sơn NC
+Trong nhà 	Sơn NC 	NA	Lót tự nhiên	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCNA
+-Độ nhớt (NK2): 15-18s"	Hàng nội thất cho trẻ em với đặc tính mùi  rất nhẹ, sáng màu và dễ sử dụng. 
+Trong nhà 	Sơn NC 	NA	Bóng tự nhiên	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCNA
+-Độ nhớt (NK2): 12-14s"	Hàng nội thất cho trẻ em với đặc tính mùi  rất nhẹ, sáng màu và dễ sử dụng. 
+Trong nhà 	Sơn NC 	NA	Lót trắng	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCNA
+-Độ nhớt (NK2): 15-18s"	Hàng nội thất cho trẻ em với đặc tính mùi  rất nhẹ, sáng màu và dễ sử dụng. 
+Trong nhà 	Sơn NC 	NA	Bóng trắng	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCNA
+-Độ nhớt (NK2): 10-12s"	Hàng nội thất cho trẻ em với đặc tính mùi  rất nhẹ, sáng màu và dễ sử dụng. 
+Trong nhà 	Sơn NC 	NY	Lót tự nhiên	"-Tỉ lệ pha: 1-1
+-Dung môi: NC02
+-Độ nhớt (NK2): 12-15s"	NC chậm ngã màu và ngã màu rất ít, dễ sử dụng ==> hành lang, cạnh cửa sổ, phòng khách
+Trong nhà 	Sơn NC 	NY	Bóng tự nhiên	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCHB
+-Độ nhớt (NK2): 13-15s"	NC chậm ngã màu và ngã màu rất ít, dễ sử dụng ==> hành lang, cạnh cửa sổ, phòng khách
+Trong nhà 	Sơn NC 	NC 2407 TRẮNG	Lót trắng	PHA TỶ LỆ 1-1 NC02, 16-18"	Sơn lót NC trắng độ phủ cao 
+Trong nhà 	Sơn NC 	LÓT NC 2407 KP TRẮNG	Lót trắng	PHA TỶ LỆ 1-0.5 DM NC02: 16-18"	CHẤT LƯỢNG NHƯ LÓT NC 2407 TRẮNG (PHA TỶ LỆ 1-1 DM NC02)
+Trong nhà 	Sơn NC 	NC 2307 TRẮNG	Lót trắng	(PHA 1-1.5NC02: 12-14"	Sơn lót NC trắng 
+Trong nhà 	Sơn NC 	NY Trắng	Lót trắng	"-Tỉ lệ pha: 1-1
+-Dung môi: NC02
+-Độ nhớt (NK2): 16-19s"	Sơn NC trắng, nhanh khô, độ phủ cao 
+Trong nhà 	Sơn NC 	BÓNG NC NY TRẮNG (KHÁNG TRẦY) 50%	Bóng trắng	Pha dung môi NCHB  	Sơn NY trắng, kháng trầy, cho ray hộc tủ  . Pha dung môi NCHB  . ( cho Tiến Hưng ) 
+Trong nhà 	Sơn NC 	NY Trắng	Bóng trắng	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCHB
+-Độ nhớt (NK2): 12-14s"	Sơn NC trắng, nhanh khô, độ phủ cao 
+Trong nhà 	Sơn NC 	NY Trắng	Lót trắng	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCHB
+-Độ nhớt (NK2): 12-15s"	Tính dẻo dai, bền chắc rất cao, nhanh khô ==> Có thể sử dụng trên bề mặt kim loại. 
+Trong nhà 	Sơn NC 	PAK 2512	Bóng tự nhiên	"-Tỉ lệ pha: 1-1.5
+-Dung môi: NCHB
+-Độ nhớt (NK2): 13-15s"	Tính dẻo dai, bền chắc rất cao, nhanh khô ==> Có thể sử dụng trên bề mặt kim loại. 
+Trong nhà 	Sơn NC 	PC23	Lót tự nhiên	"-Tỉ lệ pha: 1-1
+-Dung môi: NC 02/23
+-Độ nhớt (NK2): 16-19s"	Độ phủ cao, giá cả cạnh tranh
+Trong nhà 	Sơn NC 	PC23	Bóng tự nhiên	"-Tỉ lệ pha: 1-1
+-Dung môi: NC 02/23
+-Độ nhớt (NK2): 14-16s"	Độ phủ cao, giá cả cạnh tranh
+Trong nhà 	Sơn BUTYRATE	 BUTYRATE ANTIUV 20%	Bóng tự nhiên	TỶ LỆ PHA 1-0.5 DM BC 140717, ĐỘ NHỚT 10-11"	Chống ngã vàng, sấy UV không ngã vàng 
+Trong nhà 	Sơn BUTYRATE	BUTYRATE ANTIUV 20% TRẮNG	Bóng trắng	TỶ LỆ PHA 1-0.5 DM BC 140717, ĐỘ NHỚT 10-11"	Chống ngã vàng, sấy UV không ngã vàng 
+Trong nhà 	Sơn PU	 Bóng PU 0805	Bóng tự nhiên	"3 sơn – 1 cứng PU HXXT
+-Cứng: PU HXXT
+-Dung môi: PU TXXT
+"	Bóng PU HJFD Thay bằng Bóng PU 0805
+Trong nhà 	Sơn PU	Bóng PU ID 0805	Bóng tự nhiên	4 sơn -1 cứng PU FD TOP 1406	Bóng PU HJFD 1406 Thay bằng Bóng PU ID 0805
+Trong nhà 	Sơn PU	Bóng PU ID 0805	Bóng tự nhiên	3 Sơn -1 Cứng PU TXXT	
+Trong nhà 	Sơn PU	Bóng PU 0805	Bóng tự nhiên	4 sơn -1 cứng PU  HXXT	Bóng PU ID 0121 Thay bằng Bóng PU 0805
+Trong nhà 	Sơn PU	Bóng PU 0805	Bóng tự nhiên	4 sơn – 1 cứng PU 0707B	
+Trong nhà 	Sơn PU	Bóng PU 0805 trắng	Bóng trắng	4 sơn -1 cứng PU HXXT	Bóng PU HJFD trắng Thay bằng Bóng PU 0805 trắng
+Trong nhà 	Sơn PU	Bóng PU 0805 trắng	Bóng trắng	4 sơn -1 cứng PU 0707B	Bóng PU HJFD 1406 trắng Thay bằng Bóng PU 0805 trắng
+Trong nhà 	Sơn PU	Bóng PU ID 0805 trắng 	Bóng trắng	4 sơn -1 cứng PU  HXXT	Bóng PU ID 0805 trắng Thay bằng Bóng PU 0805 trắng
+Trong nhà 	Sơn PU	Bóng PU 0805 trắng	Bóng trắng	5 sơn -1 cứng PU  HXXT	Bóng PU ID 0121 trắng Thay bằng Bóng PU 0805 trắng
+Trong nhà 	Sơn PU	Bóng PU 0805 trắng	Bóng trắng	4 sơn – 1 cứng PU 0707B	
+Trong nhà 	Sơn PU	Bóng pu BTXX, 	Bóng tự nhiên	Tỷ lệ pha : sơn- cứng Pu- dm Pu Bóng: 2-1-2, độ nhớt 10-12"	sơn trong nhà, ít dùng 
+Trong nhà 	Sơn PU	ID 0805 ABR	Bóng tự nhiên	"-Tỉ lệ pha: 3-1-1.5
+-Cứng: PU HXXT
+-Dung môi: PU TXXT
+-Độ nhớt (NK2): 11-12s"	Kháng mài mòn tốt, độ cứng cao, độ cứng cao hơn cả bóng PU HJFD
+Trong nhà 	Sơn PU	Bóng PU ID 0805	Bóng tự nhiên	3 Sơn -1 Cứng PU TXXT	
+Trong nhà 	Sơn PU	Bóng PU 0805	Bóng tự nhiên	4 sơn – 1 cứng PU 0707B	
+Trong nhà 	Sơn PU	HG	Bóng tự nhiên	"-Tỉ lệ pha: 2-1-1.5
+-Cứng: PU 0707B
+-Dung môi: PU TXXT
+-Độ nhớt (NK2): 11-12s"	PU nội thất  cao cấp có độ cứng cao, chống bám bẩn rất tốt, rất nhanh khô, thuận tiện cho sản xuất 
+Trong nhà 	Sơn PU	HG	Bóng trắng	"-Tỉ lệ pha: 2-1-1.5
+-Cứng: PU 0707B
+-Dung môi: PU TXXT
+-Độ nhớt (NK2): 11-12s"	PU nội thất  cao cấp có độ cứng cao, chống bám bẩn rất tốt, rất nhanh khô, thuận tiện cho sản xuất 
+Trong nhà 	Sơn PU	Lót PU PC FD		"-Tỉ lệ pha: 2-1-1
+-Cứng: PU 0723
+-Dung môi: PU Lót
+-Độ nhớt (NK2): 12-13ss"	"	- Loại sơn sử dụng cho dòng hàng trong nhà.
+	- Sơn nhanh khô, độ phủ cao."
+Trong nhà 	Sơn PU	Bóng PU-SM2 (Bóng sáng: 85%)	Bóng tự nhiên	Tỉ lệ :3-1-1 Cứng PU HXXT; Dmôi PU-SM;   chú ý Ngoại lệ:sử dụng cho quy trình đánh bóng Cứng PU SM 2906                          D môi PU-SM . Độ nhớt : 10-13s	Chất lượng cao ,không cần đánh bóng . 
+Trong nhà 	Sơn PU	Bóng PU SM2 Trắng(Bóng sáng 85%)	Bóng trắng	Tỉ lệ : 3-1-1Cứng PU HXXT Dmôi PU-SM; Lưu ý Ngoại lệ:sử dụng cho quy trình đánh bóng:Cứng PU SM 2906                      D môi PU-SM	Chống ngã vàng, chất lượng cao . 
+Trong nhà 	Sơn PU	Bóng PUSM 0506( độ bóng 5 đến 85%)	Bóng tự nhiên	Tỉ lệ   5-1Cứng PU HXXT	Là sơn SM2  pha loãng, độ bóng cao không cần đánh bóng
+Trong nhà 	Sơn PU	Bóng PU SM 3001(Bóng sáng: 90%)	Bóng tự nhiên	Tỉ lệ : 2-1-1.5 Cứng PU SM 3001B Dmôi PU SM 3001 độ nhớt 8-10s	Sơn bóng clear , dùng cho qui trình đánh bóng. 
+Trong nhà 	Sơn PU	Bóng PU SM2802 Trắng	Bóng trắng	Tỉ lệ : 4-1-2.5 Cứng PU 2802B DMôi PU TXXT 1406	Sơn chống ngã vàng , đi với bóng SM 3001 
+Trong nhà 	Sơn PU	SM2	Bóng tự nhiên	"-Tỉ lệ pha: 3-1-1
+-Cứng: PU HXXT
+-Dung môi: PU SM
+-Độ nhớt (NK2): 9-13s"	Sơn PU nội thất rất cao cấp, nhanh khô, chống biến màu, chống ngã vàng, chống lại sự lão hóa theo thời gian và có độ cứng cao
+Dầu 	Dầu bảo quản	OBT 01		"-Dùng trực tiếp không pha
+-Độ nhớt NK2: 7-8.5s
+-Tuy nhiên trong quá trình sử dụng nếu dầu đặc có thể pha thêm 5-10% dung môi CRF"	Dầu  làm bề mặt gỗ, tăng cảm giác chắc chắn và cao cấp cho sản phẩm 
+Dầu 	Dầu bảo quản	DẦU OBT 01/24 M		Lau lên bề mặt sơn PU ngoài trời . 	dầu lau ẩm , mờ . Các dòng hàng sơn PU ngoài trời, sau đó lau một lớp dầu làm trơn, ẩm , Thấm vào các vết cào cước mà sơn PU không thấm tới,  để tăng tính bảo vệ 
+Dầu 	Dầu bảo quản	DẦU OBT 04/24		Nhúng, lau . 	Dầu lau gỗ để quản gỗ , nhanh khô . Chỉ làm cho hàng đồ chơi trẻ em . Nhúng, khô , không tươm ra ( Minh Phát ) 
+Dầu 	Dầu bảo quản	DẦU OBT OD 0124/2K		"Bước 1: Nhúng dầu OBT 0124/2K (lần 1)
+	- Tỉ lệ pha chế: 10 dầu nhúng OBT 0124 /2K  / 5 Dung môi PU TXXT / 2 phụ gia SP3.
+	- Nhúng ngập sản phẩm vào hỗn hợp dầu đã pha như trên sau 1 -2 phút, vớt ra hong phơi ( không chồng lên nhau) 1– 2 giờ, chà nhám bề mặt bằng giấy nhám # 320, # 400, #600.
+	Bước 2: Nhúng dầu OBT 0124/2K (lần 2).
+	- Tỉ lệ pha chế: 10 dầu nhúng OBT 0124 /2K  / 5 Dung môi PU TXXT / 2 phụ gia SP3.
+	- Nhúng ngập sản phẩm vào hỗn hợp dầu đã pha như trên sau 1 -2 phút, vớt ra hong phơi ( không chồng lên nhau) 2– 4 giờ, vuốt nhám nhẹ bề mặt bằng giấy nhám #600 (nhám cũ, hoặc giấy nhám mòn).
+	Bước 3: Nhúng dầu OBT 0124/2K (lần 3 – hoặc có thể lau bằng vải)
+	- Tỉ lệ pha chế: 10 dầu nhúng OBT 0124 /2K  / 5 Dung môi PU TXXT / 2 phụ gia SP3.
+	- Nhúng ngập sản phẩm vào hỗn hợp dầu đã pha như trên sau 1 -2 phút, vớt ra hong phơi ( không chồng lên nhau), Hong phơi, để khô sau 24 giờ - kiểm tra bề mặt sản phẩm đạt, đóng gói"	dầu 2K ( hàng ngoài trời ) , scansia , VNHW. Nhúng , lau  2 lần, 3 lần 
+Dầu 	Dầu bảo quản	OBT01N 2509/17		"-Dùng trực tiếp không pha
+-Độ nhớt NK2: 7-8.5s
+-Tuy nhiên trong quá trình sử dụng nếu dầu đặc có thể pha thêm 5-10% dung môi CRF"	Giúp gỗ tránh được sự phá hủy của ẩm ướt, rêu và nấm mốc
+Nhựa stain	Nhựa stain	Nhựa stain BT 24		"Pha   vào hỗn hợp màu từ 10 đến 20% (Kĩ thuật viên tự đánh giá mức độ để đưa ra tỉ lệ phù hợp)
+Pha nhựa stain nhiều có thể dẫn đến tăng độ bóng, kéo dài thời gian đóng gói . Nếu phun stain trực tiếp lên bề mặt gỗ, màu sẽ thấm kém trên gỗ hoặc chạy ghim gỗ"	Pha vào stain màu trong trường hợp màu đậm, hoặc cần sáng màu . Để đảm bảo độ bám dính và  cải thiện độ phủ ở các qui trình ngắn. 
+Stain hệ dầu bảo quản 	Stain hệ dầu bảo quản 	Stain SP3010		"-Stain SP3010 + 20% phụ gia SP2.
+-Sau 60p khô lau vải không ra màu"	Dùng để tạo màu sắc cho bề mặt gỗ trước khi lau dầu ==> Tăng tính thẩm mĩ của sản phẩm
+Phụ gia hệ dầu	Phụ gia hệ dầu	Phụ gia SP2		"-Stain SP3010 + 20% phụ gia SP2.
+-Sau 60p khô lau vải không ra màu"	Tăng cường độ bền và tính bảo vệ cho mặt hàng dầu bảo quản
+AC	Hệ AC	AC tự nhiên	Lót tự nhiên	"-Tỉ lệ pha: 10-1-3
+-Cứng: AC 1AN
+-Dung môi: AC
+-Độ nhớt (NK2): 9-12s"	Sơn sáng đẹp, độ phủ cao, dẻo dai, nhanh khô, giữ được đường nét của gỗ
+AC	Hệ AC	AC tự nhiên	Bóng tự nhiên	"-Tỉ lệ pha: 10-0.5-1
+-Cứng: AC 1AN
+-Dung môi: AC
+-Độ nhớt (NK2): 9-11s"	Sơn sáng đẹp, độ phủ cao, dẻo dai, nhanh khô, giữ được đường nét của gỗ
+AC	Hệ AC	AC trắng	Lót trắng	"-Tỉ lệ pha: 10-1-3
+-Cứng: AC 1AN
+-Dung môi: AC
+-Độ nhớt (NK2): 9-11s"	Độ trắng cao ( chỉ số L có thể lên đến 98 ) . Nhanh khô, kháng hóa chất tốt. Chống đổi màu tốt
+AC	Hệ AC	AC trắng	Bóng trắng	"-Tỉ lệ pha: 10-1-3
+-Cứng: AC 1AN
+-Dung môi: AC
+-Độ nhớt (NK2): 9-12s"	Độ trắng cao ( chỉ số L có thể lên đến 98 ) . Nhanh khô, kháng hóa chất tốt. Chống đổi màu tốt
+Tannin Block	Tannin Block	Primer TBS 251223 New		"-Pha với phụ gia ngăn dầu Primer TBS 251223 New, 
+-Tỉ lệ: 1 Primer – 4 phụ gia. 
+-Độ nhớt NK2 7-8s
+-Sau 30-60p khô có thể tiến hành phun các lớp sơn tiếp theo"	Ngăn dầu cho gỗ (gỗ thông)
+Tannin Block	Tannin Block	Chất TB1501		"-Dùng trực tiếp không pha 
+-Độ nhớt NK2 11-12s"	Ngăn dầu trên các mắt gỗ (gỗ thông)
+Glaze không màu	Glaze màu tự nhiên				Glaze không màu, có thể tùy ý pha màu 
+Glaze màu 	Glaze nghiền	BT2102			Glaze màu nâu, dễ thi công, có đường nét glaze đặc trưng
+Glaze màu 	Glaze nghiền	BT2203			Glaze màu đen, dễ thi công, có đường nét glaze đặc trưng
+Glaze màu 	Glaze nghiền	BT2203			Glaze màu đỏ, dễ thi công, có đường nét glaze đặc trưng
+NC MOD	Sơn NC 	Cứng NC MOD 1106 lót			Đóng rắn sơn lót NC MOD 1106
+		Cứng NC MOD 1106 bóng			Đóng rắn sơn bóng NC MOD 1106
+DM	Dung môi NC	NC 02			Dung môi pha loãng sơn NC
+DM	Dung môi NC	NC 1212			Dung môi pha loãng sơn NC 1212
+DM	Dung môi NC	NC HB			Dung môi pha loãng sơn NCHB
+DM	Dung môi NC	NC MOD			Dung môi pha loãng sơn NC MOD 1106
+DM	Dung môi NC	NC 02/23			Dung môi pha loãng sơn NC 02/23
+DM	Dung môi NC	NC NA			Dung môi pha loãng sơn NCNA
+DM	Dung môi hệ dầu 	dung môi CRF		Pha trực tiếp vào dầu 	pha chỉnh độ nhớt cho hệ dầu 
+DM	dung môi Stain 	BT 2007( DM)			Dung môi pha Stain
+DM	Dung môi PU	PU TXXT			Dung môi pha loãng sơn PU
+DM	Dung môi PU	PU SM			Dung môi pha loãng PU SM
+DM	Dung môi PU	PU lót			Dung môi pha loãng PU lót
+Cứng	Cứng PU 	Cứng PU TXXT			Đóng rắn sơn bóng PU
+Cứng	Cứng PU 	Cứng 0707B			Đóng rắn sơn PU hàng ngoài trời
+Cứng	Cứng PU 	Cứng PU			Đóng rắn sơn lót PU
+Cứng	Cứng PU 	Cứng PU FD 0121L			Đóng rắn sơn lót PU FD 0212
+Cứng	Cứng PU 	Cứng PU FD 0723			Đóng rắn sơn lót PU trắng
+Cứng	Cứng PU 	Cứng PU FD 2106L			Đóng rắn sơn Lót PU FD 2106 trắng
+Cứng	Cứng PU 	Cứng PU 0601			Lót PU 0601 trắng
+Cứng	Cứng NC MOD	Cứng NC MOD 1106 lót			Đóng rắn lót NC NC MOD 1106
+Cứng	Cứng NC MOD	Cứng NC MOD 1106 bóng			Đóng rắn bóng NC NC MOD 1106
+Phụ gia	Tăng bám	PG 08/22		"- Trong sơn lót hoặc lót màu NC, PU: sử dụng tối đa 10%
+	- Trong sơn bóng hoặc sơn màu NC: sử dung tối đa 5%.
+Phụ gia tăng bám khi sử dụng trong sơn sẽ làm chậm khô hơn"	Tăng độ bám dính giữa các lớp sơn với nhau
+Phụ gia	Chống sốc nhiệt 	DUNG DỊCH EV 30		cho vào một lượng vửa đủ. Lưu ý thời gian khô , thời gian đóng gói 	Dùng cho các mẫu sơn màu, sơn độ phủ cao , chống sốc nhiệt, chống nứt sơn 
+Phụ gia	Phụ gia chà nhám	CN M1/23		"+ Pha tối đa 20% phụ gia vào sơn lót hoặc  sơn lót màu (chưa pha loãng), khuấy kỹ. Yêu cầu chỉnh lại độ nhớt cho phù hợp với điều kiện sản xuất thực tế tại khách hàng.
++ Sau khi pha loãng dung môi và cứng ( nếu có), sử dụng trong thời gian 4 giờ, thường xuyên khuấy trong khi sử dụng."	Tăng thời gian khô của lót màu nhanh hơn.
+Pre- Cat 	Sơn CAT	Sơn lót		"-Tỉ lệ pha: 10-2-(7==>10)
+-Phụ gia: BT CAT
+-Dung môi: BT CAT
+-Độ nhớt (NK2): 14-16s"	Loại sơn hai thành phần tương tự sơn AC, nhanh khô, độ phủ cao, độ cứng cao.
+Pre- Cat 	Sơn CAT	Sơn bóng		"-Tỉ lệ pha: 10-3-(7==>10)
+-Phụ gia: BT CAT
+-Dung môi: BT CAT
+-Độ nhớt (NK2): 12-13ss"	Loại sơn hai thành phần tương tự sơn AC, nhanh khô, độ phủ cao, độ cứng cao.
+Cứng	Cứng PU 	PU FDWS 1223 		pha tỉ lệ 3-1 tự nhiên, trắng 4-1 . 	Nhanh khô
+
+STT	Tên màu	Ghi chú	Loại màu 	Công dụng 	Mức giá 
+1	Vàng Y57	"Màu Dye dễ bay Màu nên chỉ dùng làm Màu nền.
+- Không được dùng làm stain Màu trên bề mặt sản phẩm. Trường hợp phải sử dụng báo cáo Giám Đốc xin ý kiến.
+- Khi pha loãng sử dụng thì sử dụng dung môi padstain"	Dye	Pad Stain 	
+2	Đỏ R95	"Màu Dye dễ bay Màu nên chỉ dùng làm Màu nền.
+- Không được dùng làm stain Màu trên bề mặt sản phẩm. Trường hợp phải sử dụng báo cáo Giám Đốc xin ý kiến.
+- Khi pha loãng sử dụng thì sử dụng dung môi padstain"	Dye	Pad Stain 	
+3	Đen B51	"Màu Dye dễ bay Màu nên chỉ dùng làm Màu nền.
+- Không được dùng làm stain Màu trên bề mặt sản phẩm. Trường hợp phải sử dụng báo cáo Giám Đốc xin ý kiến.
+- Khi pha loãng sử dụng thì sử dụng dung môi padstain"	Dye	Pad Stain 	
+4	Vàng 412		Dye	Stain	
+5	Vàng cam 210K	Sử dụng 50-50 với vàng 412	Dye	Stain	Màu giá cao
+6	Vàng BT		Dye	Stain	Màu giá cao
+7	Vàng YS 618 (1-1)DM			Stain	
+8				Stain	
+9	Đỏ VM 334		Dye	Stain	
+10	Đỏ BT		Dye	Stain	Màu giá cao
+11	Đỏ F3RK (1-0.5)DM			Stain	
+12	Đỏ RS 718 (1-1)DM			Stain	
+13				Stain	
+14	Đen 821	Sử dụng 50-50 với đen TCL3 (1-2)DM	Dye	Stain	
+15	Đen K (1-10)	Sử dụng 50-50 với đen TCL3 (1-2)DM	Dye	Stain	
+16	Đen BT	Sử dụng 50-50 với đen TCL3 (1-2)DM	Dye	Stain	Màu giá cao
+17	Đen TC1402 (1-7)DM			Stain	
+18				Stain	
+19	Xanh lá GT			Stain	
+20	Xanh lá 520K	Sử dụng 50-50 với xanh lá GT	Dye	Stain	
+21	Xanh dương 4GA			Stain	
+22	Xanh Dương Blue	Sử dụng 50-50 với xanh dương 4GA	Dye	Stain	
+23				Stain	
+24	Nâu BS 1008 (1-1)DM		Nghiền	Stain	
+25				Stain	
+26	Stain NC trắng		Nghiền	Stain	
+27	Stain  K25 trắng		Nghiền	Stain	
+28	Vàng cam 2RA		Pigment 	Sơn màu	Màu đắt tiền
+29	Vàng YS618 (1-1) DM		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+30	Vàng YZ2288 (1-1)DM		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+31	Vàng 7415C (1-0.5)DM	Chỉ sử dụng trong sơn PU	Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+32	Đỏ super ( 1-2)DM		Pigment 	Sơn màu	Màu đắt tiền
+33	Đỏ new super (1-2)DM		Pigment 	Sơn màu	Màu đắt tiền
+34	Đỏ RS718 (1-1)DM		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+35	Đỏ F3RK (1-0.5)DM		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+36	Đỏ RO4597 (1-1)DM		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+37	Đen BT M100S(1-0.5)DM	Tối đa 5% trong sơn đặc	Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+38	Đen TCL3 (1-2)DM	Tối đa 5% trong sơn đặc	Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+39	Đen TC1402 (1-7)DM		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+40	Xanh lá GT		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+41	Xanh dương 4GA		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+42	Nâu BS1008 (1-1)DM		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+43	Nâu BU5511 (1-1)DM		Pigment 	Đa dụng ( lót màu , sơn màu ) 	
+44	Hồng Magenta PS38(1-3)DM	- Sử dụng tối đa 3% và thêm 3-5% phụ gia UV vào do độ bền màu rất yếu.	Pigment 	Sơn màu	
+45					
+46	Giant Rose (1-2)DM		Pigment 	Sơn màu	Màu đắt tiền
+47	Giant Blue (1-2)DM		Pigment 	Sơn màu	Màu đắt tiền
+48	Stain  K25 trắng	Chỉ sử dụng trong sơn màu hệ NC, PU;Khối lượng sử dụng: tối đa 20%	Pigment 	Sơn màu	
+49					
+50	Paste 59 trắng	Chỉ sử dụng trong sơn màu hệ PU;Khối lượng sử dụng: tối đa 20%	Pigment 	Sơn màu	
+51					
+52	Vàng YS618 (1-1) DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+53	Vàng YZ2288 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+54	Vàng YB87 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5  đến 3
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi.Màu lắng dày + mềm : khuấy kỹ trước khi sử dụng"	Pigment 	Stain màu ngoài trời 	
+55	Đỏ RS718 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+56	Đỏ F3RK (1-0.5)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+57	Đỏ RO4597 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+58	Đỏ RB97 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5  đến 3
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi.Màu lắng dày + mềm : khuấy kỹ trước khi sử dụng"	Pigment 	Stain màu ngoài trời 	
+59	Đỏ R250 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5  đến 3
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi.Màu lắng dày + mềm : khuấy kỹ trước khi sử dụng"	Pigment 	Stain màu ngoài trời 	
+60	Đen BT M100S(1-0.5)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+61	Đen TCL3 (1-2)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+62	Đen TC1402 (-7)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+63	Nâu BS1008 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+64	Nâu BU5511 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+65	Nâu BR78 (1-1)DM	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+66	Stain NC trắng	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+67	Stain  K25 trắng	" Sử dụng trong hỗ hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3 
+	- % tinh màu tối đa: 10% trong hỗn hợn nhựa stain  và dung môi."	Pigment 	Stain màu ngoài trời 	
+68	Vàng YP618 (1-1) PE		Pigment 	Dầu màu ngoài trời 	
+69	Vàng YZ2288 (1-1)PE		Pigment 	Dầu màu ngoài trời 	
+71	Đỏ RP718 (1-1)PE		Pigment 	Dầu màu ngoài trời 	
+72	Đỏ F3RK (1-0.5)PE		Pigment 	Dầu màu ngoài trời 	
+73	Đỏ RO4597 (1-1)PE		Pigment 	Dầu màu ngoài trời 	
+75	Đen PB1012 (1-2)PE		Pigment 	Dầu màu ngoài trời 	
+76	Đen PB1012 (1-6)PE		Pigment 	Dầu màu ngoài trời 	
+77	Nâu BP1008 (1-1)PE		Pigment 	Dầu màu ngoài trời 	
+78	Nâu BU5511 (1-1)PE		Pigment 	Dầu màu ngoài trời 	
+79	Nâu BU 5512 (1-1)PE		Pigment 	Dầu màu ngoài trời 	
+80	Stain WOD trắng		Pigment 	Dầu màu ngoài trời 	
