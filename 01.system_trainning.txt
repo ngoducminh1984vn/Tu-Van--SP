@@ -2029,3 +2029,176 @@ Các màu Pigment được phân loại theo công dụng chính: **Sơn màu**,
 *   **Stain WOD trắng**.
 
 Lưu ý rằng các mã màu có đuôi "(1-... )DM" hoặc "(1-... )PE" thường chỉ tỷ lệ pha với dung môi, tuy nhiên thông tin chi tiết về dung môi cụ thể có thể khác nhau tùy thuộc vào loại Pigment và mục đích sử dụng. Đối với Stain màu ngoài trời, thường được pha với hỗn hợp nhựa stain SP 3010 new và dung môi SBM theo tỷ lệ 1-2.5 đến 3, với tỷ lệ tinh màu tối đa là 10%.
+
+Các nguồn cung cấp thông tin về nhiều loại sơn NC (Nitrocellulose), chủ yếu dùng cho nội thất. Dưới đây là tổng hợp thông tin về các loại sơn NC được đề cập:
+
+**Các loại sơn lót NC (NC Lót):**
+
+*   **Sơn NC T2012 Lót tự nhiên:**
+    *   Tỉ lệ pha: 1-2 với dung môi NC02.
+    *   Độ nhớt (NK2): 12-15s.
+    *   Đặc tính: Giá thành rẻ, quy trình sử dụng đơn giản.
+    *   Thời gian khô chà nhám: 60-120 phút.
+*   **Sơn NC 1212 Lót tự nhiên:**
+    *   Tỉ lệ pha: 1-1 với dung môi NC1212.
+    *   Độ nhớt (NK2): 15-18s.
+    *   Đặc tính: Sơn NC cao cấp, độ phủ cao, rút ngắn quy trình sơn.
+    *   Thời gian khô chà nhám: 90-150 phút.
+*   **Sơn NC HB Lót tự nhiên:**
+    *   Tỉ lệ pha: 1-1.5 với dung môi NCHB.
+    *   Độ nhớt (NK2): 12-15s.
+    *   Đặc tính: Sơn NC cao cấp có độ phủ, độ trong và độ dẻo dai cao, phù hợp với hàng giả cổ.
+    *   Thời gian khô chà nhám: 90-150 phút.
+*   **Sơn NC MOD 1106 Lót tự nhiên:**
+    *   Tỉ lệ pha: 10-1-10 với cứng NC MOD 1106 lót và dung môi NC MOD.
+    *   Độ nhớt (NK2): 14-18s.
+    *   Đặc tính: Sơn kết hợp một phần tính bền bỉ của sơn PU và khả năng dễ sử dụng của sơn NC.
+    *   Thời gian khô chà nhám: 120-180 phút.
+*   **Sơn NC NA Lót tự nhiên:**
+    *   Tỉ lệ pha: 1-1.5 với dung môi NCNA.
+    *   Độ nhớt (NK2): 15-18s.
+    *   Đặc tính: Hàng nội thất cho trẻ em với đặc tính mùi rất nhẹ, sáng màu và dễ sử dụng.
+    *   Thời gian khô chà nhám: 60-120 phút.
+*   **Sơn NC NY Lót tự nhiên:**
+    *   Tỉ lệ pha: 1-1 với dung môi NC02.
+    *   Độ nhớt (NK2): 12-15s.
+    *   Đặc tính: NC chậm ngã màu và ngã màu rất ít, dễ sử dụng, phù hợp cho hành lang, cạnh cửa sổ, phòng khách.
+*   **Sơn NC PAK 2512 Lót tự nhiên:**
+    *   Tỉ lệ pha: 1-1.5 với dung môi NCHB.
+    *   Độ nhớt (NK2): 13-15s.
+    *   Đặc tính: Tính dẻo dai, bền chắc rất cao, nhanh khô, có thể sử dụng trên bề mặt kim loại.
+    *   Thời gian khô chà nhám: 60-120 phút.
+*   **Sơn NC PC23 Lót tự nhiên:**
+    *   Tỉ lệ pha: 1-1 với dung môi NC 02/23.
+    *   Độ nhớt (NK2): 16-19s.
+    *   Đặc tính: Độ phủ cao, giá cả cạnh tranh.
+*   **Lót NC-DN:** Tỉ lệ pha 1-2 với dung môi NC02, độ nhớt 15-17s, thời gian khô chà nhám 50-110 phút.
+*   **Lót NC DT 2**.
+*   **Lót NC 2805:** Tỉ lệ pha 1-1.5.
+*   **Lót NC-PAK 2512:** Thời gian khô chà nhám 60-120 phút.
+*   **Lót NC 1705 KP:** Tỉ lệ pha 1-1 với dung môi NC02.
+*   **Lót NC 1212 (2407):** Tỉ lệ pha 1-1 với dung môi NC1212, thời gian khô chà nhám 60-120 phút.
+*   **Lót NC 1212 (MH):** Độ nhớt 16-18s, thời gian khô chà nhám 60-120 phút.
+*   **Lót NC KH:** Tỉ lệ pha 1-1 với dung môi NC 1010, độ nhớt 16-18s, thời gian khô chà nhám 90-150 phút.
+*   **Lót NC 1212 (MH)(DNE):** Tỉ lệ pha 1-1 với dung môi NC02, độ nhớt 14-16s, thời gian khô chà nhám 60-120 phút.
+*   **LOT NC KH 0204:** Tỉ lệ pha 1-0.9 với dung môi NC 1010, độ nhớt 16-18s (hoặc 13-15 CUP A), thời gian khô chà nhám 50-110 phút.
+*   **L6t NC 1807:** Tỉ lệ pha 1-1 với dung môi NC02, độ nhớt 13-14s, thời gian khô chà nhám 120-180 phút. Có sự điều chỉnh về quy trình, cần hỏi lại QC.
+*   **Lót NC PAK 2709:** Tỉ lệ pha 1-1 với dung môi NC02, độ nhớt 15-17s, thời gian khô chà nhám 60-120 phút.
+*   **Lót NC 0910 MS MB:** Tỉ lệ pha 1-0.8 với dung môi NC 0910, độ nhớt 17-19s, thời gian khô chà nhám 50-110 phút.
+*   **Lót NC 0910 TD:** Tỉ lệ pha 1-1 với dung môi NC 0910, độ nhớt 17-19s, thời gian khô chà nhám 50-110 phút.
+*   **Lót NC T 1406:** Tỉ lệ pha 1-1.7 với dung môi NC02, độ nhớt 14-15s, thời gian khô chà nhám 60-120 phút.
+*   **Lót NC 2407 KP Trắng:** Tỉ lệ pha 1-0.7 với dung môi NC02, độ nhớt 16-18s, thời gian khô chà nhám 120-180 phút. Bột ra nhiều dễ chà, chà nhẹ không dính nhám nhưng khi chà mạnh tay còn dính nhám ít (hạt li ti ~5% diện tích giấy nhám).
+*   **Lót NC KP Trắng:** Tỉ lệ pha 1-0.5 với dung môi NC02, độ nhớt 16-18s, thời gian khô chà nhám 120-180 phút. Bột ra nhiều dễ chà, chà nhẹ không dính nhám, nhưng khi chà mạnh tay còn dính nhám ít (dính hạt li ti ~5-10% diện tích giấy nhám).
+*   **Lót NC2307TrắngVNHW:** Tỉ lệ pha 1-1.5 với dung môi NC02, độ nhớt 16-18s, thời gian khô chà nhám 120-180 phút.
+*   **LótNC-Mod trắng:** Tỉ lệ pha 10-1-10 với cứng NC Mod 1106L và dung môi NC-Mod, độ nhớt 13-14s, thời gian khô chà nhám 120-180 phút, thời gian sử dụng hỗn hợp đã pha cứng 4-6 giờ.
+
+**Các loại sơn bóng NC (NC Bóng):**
+
+*   **Sơn NC T2012 Bóng tự nhiên:**
+    *   Tỉ lệ pha: 1-2 với dung môi NC02.
+    *   Độ nhớt (NK2): 11-13s.
+    *   Đặc tính: Giá thành rẻ, quy trình sử dụng đơn giản.
+    *   Độ bóng: Matt ~80%. Thời gian khô không dính mặt: sau 12-13 giờ.
+*   **Sơn NC 1212 Bóng tự nhiên:**
+    *   Tỉ lệ pha: 1-1 với dung môi NC1212.
+    *   Độ nhớt (NK2): 14-16s.
+    *   Đặc tính: Sơn NC cao cấp, độ phủ cao, rút ngắn quy trình sơn.
+    *   Độ bóng: Matt ~80%. Thời gian khô không dính mặt: sau 8-12 giờ (độ bóng <30%).
+*   **Sơn NC HB Bóng tự nhiên:**
+    *   Tỉ lệ pha: 1-1.5 với dung môi NCHB.
+    *   Độ nhớt (NK2): 13-15s.
+    *   Đặc tính: Sơn NC cao cấp có độ phủ, độ trong và độ dẻo dai cao, phù hợp với hàng giả cổ.
+    *   Độ bóng: Matt ~80%. Thời gian khô không dính mặt: sau 8-12 giờ (độ bóng 20-740%).
+*   **Sơn NC "BÓNG NC HB ABR" Bóng tự nhiên:** Tỉ lệ 1-1 với dung môi NC HB, độ nhớt 12-15s. Sơn NC chống mài mòn, để test tiêu chuẩn của Ashley (chà dĩa bề mặt). Có các độ bóng khác nhau: 10%, MATT, 40%, 70%, 35%.
+*   **Sơn NC MOD 1106 Bóng tự nhiên:**
+    *   Tỉ lệ pha: 10-1-10 với cứng NC MOD 1106 bóng và dung môi NC MOD.
+    *   Độ nhớt (NK2): 13-17s.
+    *   Đặc tính: Sơn kết hợp một phần tính bền bỉ của sơn PU và khả năng dễ sử dụng của sơn NC.
+    *   Độ bóng: 50-770%. Thời gian khô không dính mặt: sau 12-16 giờ (độ bóng 5780%), sau 8-12 giờ (độ bóng 20740%), sau 6-8 giờ (độ bóng 5710%).
+*   **Sơn NC NA Bóng tự nhiên:**
+    *   Tỉ lệ pha: 1-1.5 với dung môi NCNA.
+    *   Độ nhớt (NK2): 12-14s.
+    *   Đặc tính: Hàng nội thất cho trẻ em với đặc tính mùi rất nhẹ, sáng màu và dễ sử dụng.
+    *   Độ bóng: 10-80%. Thời gian khô không dính mặt: sau 8-12 giờ (độ bóng 20-740%).
+*   **Sơn NC NY Bóng tự nhiên:**
+    *   Tỉ lệ pha: 1-1.5 với dung môi NCHB.
+    *   Độ nhớt (NK2): 13-15s.
+    *   Đặc tính: NC chậm ngã màu và ngã màu rất ít, dễ sử dụng, phù hợp cho hành lang, cạnh cửa sổ, phòng khách.
+    *   Độ bóng: 5-780%. Thời gian khô không dính mặt: sau 8-12 giờ (độ bóng ~10%), sau 18-22 giờ (độ bóng 20~30%), sau 24-30 giờ (độ bóng >40%).
+*   **Sơn NC PAK 2512 Bóng tự nhiên:**
+    *   Tỉ lệ pha: 1-1.5 với dung môi NCHB.
+    *   Độ nhớt (NK2): 13-15s.
+    *   Đặc tính: Tính dẻo dai, bền chắc rất cao, nhanh khô, có thể sử dụng trên bề mặt kim loại.
+    *   Độ bóng: <20%. Thời gian khô không dính mặt: sau 6-8 giờ (độ bóng <20%), sau 12-16 giờ (độ bóng ~ 50%).
+*   **Sơn NC PC23 Bóng tự nhiên:**
+    *   Tỉ lệ pha: 1-1 với dung môi NC 02/23.
+    *   Độ nhớt (NK2): 14-16s.
+    *   Đặc tính: Độ phủ cao, giá cả cạnh tranh.
+*   **Bóng NC2805:** Độ bóng 20-740%, thời gian khô không dính mặt sau 8-12 giờ.
+*   **Bóng NC KP:** Độ bóng 5-80%, thời gian khô không dính mặt sau 6-8 giờ (độ bóng < 20%).
+*   **Bóng NC3005 SCR:** Độ bóng ≤35%.
+*   **Bóng NCT20121S0S:** Độ bóng ≤40%.
+*   **Bóng NC T 1406:** Độ bóng 2paths-do dày mang sơn ướt 100µm/mỗi lần phun lót, bóng.
+*   **Bóng NC 2605 KH:** Độ bóng 5-710%, thời gian khô không dính mặt sau 4-6 giờ (độ bóng 5-710%), sau 8-12 giờ (độ bóng 20-740%), sau 12-14 giờ (độ bóng ~50%).
+*   **Bóng NC 2605 KH DNE:** Độ bóng 10%, thời gian khô không dính mặt sau 6-8 giờ.
+*   **BóngNC 1212:** Độ bóng 5~30%, thời gian khô không dính mặt sau 8-12 giờ.
+*   **Sơn phil trong NC 0910:** Độ bóng 25%, thời gian khô không dính mặt sau 8-12 giờ.
+*   **Bóng NCP AK 2709:** Độ bóng ≤ 30%, thời gian khô không dính mặt sau 12-16 giờ (độ bóng ~ SO%).
+*   **Bóng NC PAK 2512:** Độ bóng <20%, thời gian khô không dính mặt sau 6-8 giờ.
+*   **Bóng NC-NY:** Độ bóng ~ 10%, thời gian khô không dính mặt sau 8-12 giờ.
+*   **Bóng NC NY (TV):** Độ bóng 20~30%, thời gian khô không dính mặt sau 18-22 giờ; độ bóng >40%, thời gian khô không dính mặt sau 24-30 giờ.
+*   **Bóng NC NY 3005 SCR:** Độ bóng ~ 10%, thời gian khô không dính mặt sau 8-12 giờ.
+*   **Bóng NC NY 1807:** Độ bóng 5%, thời gian khô không dính mặt sau 8-12 giờ.
+*   **Bóng NC NY 2605:** Độ bóng 5~70%, thời gian khô không dính mặt sau 4-6 giờ (độ bóng 5-710%), sau 8-12 giờ (độ bóng 20-730%), sau 12-16 giờ (độ bóng ~40%).
+*   **Bóng NC NY 2605 KP (B):** Độ bóng 5 ~70%.
+*   **BóngNCNY 1801:** Độ bóng 5-IO%, thời gian khô không dính mặt sau 12 -16 giờ; hoặc độ bóng 20%, thời gian khô không dính mặt sau 18-22 giờ.
+
+**Các loại sơn lót trắng NC (NC Lót trắng):**
+
+*   **Sơn NC LÓT NC 2407 KP TRẮNG:** Lót trắng PHA TỶ LỆ 1-0.5 DM NC02: độ nhớt 16-18. Chất lượng như lót NC 2407 trắng (pha tỷ lệ 1-1 DM NC02).
+*   **Sơn NC 2307 TRẮNG Lót trắng:** PHA 1-1.5NC02: độ nhớt 12-14.
+*   **Sơn NC NY Trắng Lót trắng:** Tỉ lệ pha: 1-1 với dung môi NC02, độ nhớt 16-19s. Sơn NC trắng, nhanh khô, độ phủ cao.
+*   **Sơn NC NY Trắng Lót trắng:** Tỉ lệ pha: 1-1.5 với dung môi NCHB, độ nhớt 12-15s. Tính dẻo dai, bền chắc rất cao, nhanh khô, có thể sử dụng trên bề mặt kim loại.
+*   **L6t NC 2307 Trang:** Tỉ lệ pha 1-1.5 với dung môi NC02, độ nhớt 16-18s, thời gian khô chà nhám 120-180 phút.
+*   **L6t NC2307 Trang (HN):** Tỉ lệ pha 1-1.5 với dung môi NCNA, độ nhớt 16-18s, thời gian khô chà nhám 120-180 phút.
+*   **L6t NC-NA trang:** Tỉ lệ pha 1-0.7 với dung môi NC02, độ nhớt 15-17s, thời gian khô chà nhám 120-180 phút.
+*   **L6t NC 2407 Trang:** Tỉ lệ pha 1-1 với dung môi NC02, độ nhớt 20-22s, thời gian khô chà nhám 120-180 phút. Bột ra nhiều dễ chà, chà nhẹ không dính nhám nhưng khi chà mạnh tay còn dính nhám ít (hạt li ti ~5% diện tích giấy nhám).
+*   **Lót NC 1807 Trang:** Tỉ lệ pha 1-1 với dung môi NC02, độ nhớt 16-18s, thời gian khô chà nhám 120-180 phút.
+*   **Lót NC KP Trang (If):** Tỉ lệ pha 1-1 với dung môi NC02, độ nhớt 12-13s, thời gian khô chà nhám 120-180 phút.
+
+**Các loại sơn bóng trắng NC (NC Bóng trắng):**
+
+*   **Sơn NC NA Bóng trắng:** Tỉ lệ pha: 1-1.5 với dung môi NCNA, độ nhớt 10-12s. Hàng nội thất cho trẻ em với đặc tính mùi rất nhẹ, sáng màu và dễ sử dụng.
+*   **Sơn NC NY Trắng Bóng trắng:** Tỉ lệ pha: 1-1.5 với dung môi NCHB, độ nhớt 12-14s. Sơn NC trắng, nhanh khô, độ phủ cao.
+*   **BÓNG NC NY TRẮNG (KHÁNG TRẦY) 50% Bóng trắng:** Pha dung môi NCHB. Sơn NY trắng, kháng trầy, cho ray hộc tủ. Pha dung môi NCHB.
+*   **Bóng NC 2307 trang:** Độ bóng 50-770%, thời gian khô không dính mặt sau 12-16 giờ (10 -770%), sau 8-12 giờ (20-740%).
+*   **Bóng NC-NA NY trang:** Tỉ lệ pha 1-1.5 với dung môi NC-NA, độ nhớt 12-13s, độ bóng 5-710%, thời gian khô không dính mặt sau 6 - 8 giờ (10-780%).
+*   **Bóng NC-NY trang:** Tỉ lệ pha 1-1.5 với dung môi NC-HB, độ bóng 5-710%, thời gian khô không dính mặt sau 8-12 giờ (5-770%), sau16-20gia (20-740%), sau24-30gia (50-770%).
+*   **Bóng NC NY 2605 trang:** Tỉ lệ pha 1-1.5 với dung môi NC 1010, độ nhớt 14-15s, độ bóng 10%, thời gian khô không dính mặt sau 5-6 giờ (5-770%), sau 8-12 giờ (20-40%).
+*   **Bóng NC NY 3003 trang:** Tỉ lệ pha 1-1 với dung môi NCHB, độ nhớt 11-12s, độ bóng 10%, thời gian khô không dính mặt sau 8-12 giờ (5-770%).
+*   **Bóng NC NY 2712Triing:** Tỉ lệ pha 1-0.7 với dung môi NCHB, độ nhớt 12-13s, độ bóng 10%, thời gian khô không dính mặt sau 8-12 giờ.
+*   **Bóng NC NY 3005 SCR Trang:** Tỉ lệ pha 1-1 với dung môi NCHB, độ nhớt 11-12s, độ bóng 5-710%, thời gian khô không dính mặt sau 8-12 giờ.
+*   **BongNC Mod trắng NY:** Tỉ lệ pha 10-1-10 với cứng PU HXXT và dung môi NC- Mod, độ nhớt 12-13s, độ bóng 80%, thời gian khô không dính mặt sau 24-30 giờ; độ bóng 20-740%, thời gian khô không dính mặt sau 12-16 giờ; độ bóng 5-710%, thời gian khô không dính mặt sau 6 - 8 giờ.
+
+**Dung môi cho sơn NC (DM Dung môi NC):**
+
+*   NC 02.
+*   NC 1212.
+*   NCHB.
+*   NC MOD.
+*   NC 02/23.
+*   NC NA.
+*   NC 1010.
+*   NC 0910.
+
+**Chất làm cứng cho sơn NC (Cứng NC):**
+
+*   Cứng NC MOD 1106 lót.
+*   Cứng NC MOD 1106 bóng.
+
+**Lưu ý quan trọng:**
+
+*   Sơn NC sau khi pha dung môi cần đậy kín và sử dụng trong ngày.
+*   Cần khuấy đều dung dịch sơn trước khi sử dụng.
+*   Thời gian khô có thể khác nhau tùy thuộc vào điều kiện môi trường (nhiệt độ, độ ẩm) và độ dày lớp sơn.
+*   Một số loại sơn NC có thể có sự điều chỉnh về quy trình, cần kiểm tra lại với bộ phận QC khi cần thiết.
