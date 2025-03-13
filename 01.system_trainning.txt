@@ -1567,37 +1567,22 @@ Sơn trong nhà (IN):
  B07 NY -1024H  :Bóng hệ nước không ngã vàng  
 
 Dye Pad Stain:
-•
 Vàng Y57: Được ghi chú là "Màu Dye dễ bay Màu nên chỉ dùng làm Màu nền". Không được dùng làm stain màu trên bề mặt sản phẩm trừ khi có ý kiến của Giám đốc. Khi pha loãng để sử dụng thì dùng dung môi padstain.
-•
 Đỏ R95: Tương tự như màu vàng Y57, đây là "Màu Dye dễ bay Màu nên chỉ dùng làm Màu nền". Cần báo cáo Giám đốc nếu muốn dùng làm stain màu. Khi pha loãng sử dụng dung môi padstain.
-•
 Đen B51: Cũng là "Màu Dye dễ bay Màu nên chỉ dùng làm Màu nền". Cần báo cáo Giám đốc nếu muốn dùng làm stain màu. Sử dụng dung môi padstain khi pha loãng.
-Dye Stain:
-•
+Dye :
 Vàng 412
-•
 Vàng cam 210K: Có ghi chú "Sử dụng 50-50 với vàng 412" và là "Màu giá cao".
-•
 Vàng BT: Được ghi chú là "Màu giá cao".
-•
 Đỏ VM 334
-•
 Đỏ BT: Được ghi chú là "Màu giá cao".
-•
 Đen 821: Có ghi chú "Sử dụng 50-50 với đen TCL3 (1-2)DM".
-•
 Đen K (1-10): Có ghi chú "Sử dụng 50-50 với đen TCL3 (1-2)DM".
-•
 Đen BT: Có ghi chú "Sử dụng 50-50 với đen TCL3 (1-2)DM" và là "Màu giá cao".
-•
 Xanh lá 520K: Có ghi chú "Sử dụng 50-50 với xanh lá GT".
-•
 Xanh dương Blue: Có ghi chú "Sử dụng 50-50 với xanh dương 4GA".
+ 
 
-Các nguồn cung cấp thông tin về các loại màu Pigment như sau:
-
-Các màu Pigment được phân loại theo công dụng chính: **Sơn màu**, **Stain màu ngoài trời**, và **Dầu màu ngoài trời**.
 
 **Các màu Pigment dùng cho Sơn màu:**
 
