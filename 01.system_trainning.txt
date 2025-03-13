@@ -1656,5 +1656,41 @@ Ngoài ra, một số sản phẩm hỗ trợ được sử dụng với sơn h�
 *   **Reducer REDUCER – 04H**: Pha 3-10%, làm chậm khô, giúp bề mặt sơn san phẳng, độ bóng đều.
 *   **Diluent Diluent BT – 08H**: Pha 5-30%, pha loãng sơn, giảm độ phủ mà không thay đổi tính chất.
 *   **Reducer Reducer – 09H**: Pha không giới hạn, pha loãng Glaze Màu, stain màu và các sản phẩm khác, làm sơn chậm khô dễ gia công.
-*   **Reducer Retander BT – 01H**: Pha 3-7%, làm chậm thời gian ráo mặt của sơn phun, khắc phục lỗi nhám.	
+*   **Reducer Retander BT – 01H**: Pha 3-7%, làm chậm thời gian ráo mặt của sơn phun, khắc phục lỗi nhám.
+Dựa trên nguồn và lịch sử trò chuyện, tôi xin tiếp tục liệt kê các sản phẩm sơn hệ nước và sản phẩm hỗ trợ liên quan:
+
+**Sơn đa dụng (IN/OUT) (tiếp theo)**:
+
+*   **Sơn lót tự nhiên Lót SR – 01H**: Sử dụng trực tiếp, là **sơn không màu cho máy lăn trục**.
+*   **Sơn lót trắng Lót Trắng SWR – 03H**: Sử dụng trực tiếp, là **sơn màu trắng cho máy lăn trục**.
+*   **Sơn nhúng Lót Nhúng DC - 0603H**: Sử dụng trực tiếp, dùng để **pha màu nhúng hoặc stain màu ngoài trời**.
+
+**Sơn trong nhà (IN) (tiếp theo)**:
+
+*   **Sơn bóng tự nhiên Bóng BT 2K 201120H**: Pha **10% cứng XP25H**, là **sơn nước 2K**, có **độ cứng và chịu va đập cao**, **kháng hóa chất** và các yếu tố khác tốt hơn nhiều loại sơn khác, **đạt chuẩn Ikea R2**. Lưu ý: sơn sau khi pha cứng nên sử dụng trong vòng 1 giờ.
+*   **Sơn bóng tự nhiên Bóng BT ABR – 2410H**: **Có độ cứng cao, chống trầy tốt**, **kháng được hóa chất** như cà phê, rượu vang, nước… đáp ứng được các tiêu chuẩn của khách hàng **ASHLEY**.
+
+**Sơn an toàn thực phẩm (tiếp theo)**:
+
+*   **Sơn bóng tự nhiên BT FC 01/23 TOPCOAT LACQUER**: Sử dụng trực tiếp, dùng để **sơn các sản phẩm tiếp xúc trực tiếp đến các thực phẩm ướt**.
+
+**Sản phẩm hỗ trợ (tiếp theo)**:
+
+*   **Tannin block TB – 2211H**: Pha **3% PGTB**, để khô 4 giờ tiến hành các bước tiếp theo, là **chất ngăn dầu không màu**, phù hợp có các qui trình màu tự nhiên, màu stain trên nền gỗ thông, tràm. Ưu điểm: Ngăn dầu trên các loại gỗ như: thông, tràm; Ít xù ghim. Nhược điểm: chậm khô, xù ghim gỗ. Phù hợp cho quy trình sử dụng sơn nước như: Sử dụng được với Lót Trắng SW1-1705 H, Lót SW6-0909H New.
+*   **Tannin block TBW – 2211H**: Pha **3% PGTB**, để khô 4 giờ tiến hành các bước tiếp theo, là **chất ngăn dầu màu trắng**, dùng cho các qui trình hàng sơn màu (pigmented) trên nền gỗ thông, tràm. Ưu điểm: Ngăn dầu trên các loại gỗ như: thông, tràm; Ít xù ghim. Nhược điểm: chậm khô, xù ghim gỗ. Phù hợp cho quy trình sử dụng sơn nước như: Sử dụng được với Lót Trắng SW1-1705 H, Lót SW6-0909H New.
+*   **Tannin block Ngăn dầu TB 1501**: Ưu điểm: **Ngăn dầu tốt** được trên các loại gỗ, **nhanh khô, dễ sử dụng, ít xù ghim**, **phù hợp được cả sơn nước và sơn dung môi**. Nhược điểm: không ngăn được dầu trên gỗ tràm. Sử dụng được cả quy trình sơn dung môi và sơn hệ nước.
+*   **Basecoat BASECOAT BT – 0512H**: Sử dụng trực tiếp, **nhanh khô, dễ chà nhám** và **độ che lấp tốt** các loại MDF xấu hoặc đã tái chế, cạnh MDF, cạnh gỗ ghép. **Sử dụng được trên nền Lót Pu trắng và Lót Pu Trắng 0601**.
+*   **Basecoat BASE COAT BT – 1009H**: Sử dụng trực tiếp, **phù hợp sơn lớp đầu và xử lý nền MDF, rất dễ xả nhám**. Áp dụng cạnh MDF. Xử lý cạnh MDF xong sơn phủ lớp sơn nước hoặc sơn dung môi lên đều phù hợp.
+*   **Glaze BT – 2506H**: Sử dụng trực tiếp, là **Glaze nền, dùng để pha màu sắc tùy chọn**.
+*   **Glaze Trắng BT – 2904H**: Pha **5-10% REDUCER – 04H**, là Glaze màu trắng. Lau bằng vải sạch hoặc pha loãng phun bằng súng sơn. Ưu điểm: **Để lại ghim trắng tốt** nhưng màng sơn còn lớp đục nhẹ. Phù hợp sử dụng cho các màu lau còn lớp trắng trên mặt. **Độ bám tốt**. Nhược điểm: khó chà sạch, còn để lại 1 lớp đục trắng nhẹ dễ làm đục màu trên bề mặt sơn. **Thích hợp được trên hệ nước và hệ dung môi**.
+*   **Nhựa stain 1604H**: Pha màu theo ý muốn, dùng để **pha màu stain gỗ**. Làm cho màu sáng, trong hơn, dễ sơn, dễ chỉnh màu và **tăng cường độ bám dính cho hệ sơn**.
+*   **Phụ Gia TB**: Sử dụng với lượng **1 – 2%**, khuấy vào theo hướng dẫn. Ưu điểm: **Ngăn dầu**, chất Ngăn Dầu TB – 2211H, Lót Trắng SW8 – 2603H… **Tăng khả năng kháng hóa chất** cho các sản phẩm Lót, Bóng… Nhược điểm: Giá thành cao.
+*   **Phụ Gia E05 (Đạt Ikea)**: Sử dụng với lượng **1 – 2%**, khuấy vào theo hướng dẫn. Mục đích: **tăng khả năng chịu hóa chất màng sơn (rượu vang…), phù hợp hóa chất theo chuẩn Ikea**.
+*   **Bột Lau BT-2010H**: Lau bằng vải sạch hoặc pha loãng phun bằng súng sơn. Ưu điểm: **Để lại ghim trắng tốt, rất dễ chà sạch, màng sơn trong**. Phù hợp sử dụng cho các màu lau chỉ để lại bột trong ghim. Nhược điểm: không được để bột trên bề mặt nhiều sẽ không an toàn về bám sơn. **Thích hợp được trên hệ nước và hệ dung môi**.
+*   **Reducer REDUCER – 04H**: Pha từ **3-10%** vào các sơn cần dùng. Chất **làm chậm khô, giúp cho bề mặt sơn được san phẳng, độ bóng đồng đều**. Pha vô sơn phun và lau, làm chậm thời gian ráo mặt của sơn.
+*   **Diluent Diluent BT – 08H**: Pha **5-30%** vào các sơn cần dùng. **Pha loãng sơn, làm giảm độ phủ sơn mà không thay đổi tính chất sản phẩm**. Pha Stain màu.
+*   **Reducer Reducer – 09H**: Pha **không giới hạn**. Dùng để **pha loãng Glaze Màu, stain màu và các sản phẩm khác như lót, bóng …, làm sơn chậm khô mặt dễ gia công đánh cọ, quét cọ hoặc lau**.
+*   **Reducer Retander BT – 01H**: Pha từ **3 đến 7 %**. Pha vô sơn phun, **làm chậm thời gian ráo mặt của sơn** (khắc phục lỗi nhám, hạt da cam khi sơn diện tích lớn). Không thay đổi tính chất sản phẩm.
+
+Như vậy, nguồn cung cấp thông tin chi tiết về nhiều loại sơn hệ nước và các sản phẩm hỗ trợ khác nhau, bao gồm sơn ngoài trời, sơn đa dụng, sơn trong nhà, sơn an toàn thực phẩm, cũng như các chất phụ gia, chất làm loãng và các sản phẩm hỗ trợ khác được thiết kế để sử dụng với sơn hệ nước.	
 
