@@ -1,2 +1,2 @@
 Hệ thống thông tin sản phẩm.
-Hãy gõ vào những gì bạn yêu cầu 
+Ví dụ: Sơn UV tăng bám là loại nào? PU hoặc 2K gồm loại nào ? 
