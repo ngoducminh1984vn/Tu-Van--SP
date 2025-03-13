@@ -2018,6 +2018,24 @@ Người kiểm tra: __________________ Ngày: __________
 
 *   **Reducer Reducer – 09H** có thể được dùng để pha loãng Glaze Màu, stain màu và các sản phẩm khác như lót, bóng hệ nước. Đặc biệt, nó có tác dụng làm **sơn chậm khô mặt**, giúp dễ dàng gia công đánh cọ, quét cọ hoặc lau. Tỷ lệ pha không giới hạn. Mặc dù không trực tiếp nói là cho hệ nước, việc đề cập đến "lót, bóng" chung có thể bao gồm cả các sản phẩm hệ nước, và công dụng làm chậm khô để dễ gia công bằng cọ hoặc lau thường hữu ích cho cả sơn gốc nước và gốc dung môi.
 
-Như vậy, theo tài liệu, **Reducer REDUCER – 04H**, **Retander BT – 01H**, và **Reducer Reducer – 09H** có khả năng làm chậm khô sơn hệ nước và 
+Dựa trên nguồn tài liệu, có một số loại sơn bóng hệ nước (Sơn hệ nước ngoài trời và Sơn trong nhà) được liệt kê như sau:
+Sơn hệ nước ngoài trời:
+•	Sơn bóng tự nhiên Bóng BT OD 02/23H Sơn hệ nước ngoài trời: Sử dụng trực tiếp, là sơn phủ trong với khả năng kháng nước và hóa chất.
+•	Sơn bóng trắng Bóng Trắng BT OD 02/23H: Sơn hệ nước ngoài trời Sử dụng trực tiếp, là sơn phủ trắng với khả năng kháng nước và hóa chất.
+•	Sơn bóng tự nhiên Bóng BT ODR 03/23H: Sơn hệ nước ngoài trời Sử dụng trực tiếp, là sơn phủ trong đạt chuẩn Ikea R2 về chất lượng và hóa chất, độ bền ngoài trời tốt, chống biến màu cực tốt.
+•	Sơn bóng trắng Bóng Trắng BT ODR 03/23H: Sơn hệ nước ngoài trời Sử dụng trực tiếp, là sơn phủ trong đạt chuẩn Ikea R2 về chất lượng và hóa chất, độ bền ngoài trời tốt, chống biến màu cực tốt.
+Sơn đa dụng (IN/OUT) - có thể dùng trong nhà và ngoài trời:
+•	Sơn bóng tự nhiên Bóng BEx 03 – 2410H có thể dùng trong nhà và ngoài trời:: Sử dụng trực tiếp, tạo màng sơn trong, độ phủ cao, dễ sử dụng. Phù hợp với các dòng hàng Stain màu, Glaze màu giả cổ, thời gian khô nhanh.
+•	Sơn bóng tự nhiên Bóng BT STR – 2410H có thể dùng trong nhà và ngoài trời:: Sử dụng trực tiếp, có khả năng kháng hóa chất tốt (cà phê, rượu vang, nước…) nhưng thời gian khô chậm nên cần lưu ý khi sử dụng.
+•	Sơn bóng tự nhiên Bóng BEx 03 – 2706H: có thể dùng trong nhà và ngoài trời:Sử dụng trực tiếp, tạo màng sơn trong, độ phủ cao, dễ sử dụng. Phù hợp với các dòng hàng Stain màu, Glaze màu giả cổ, thời gian khô nhanh.
+•	Sơn bóng trắng Bóng Trắng BWEx 03 – 2410H: có thể dùng trong nhà và ngoài trời:Sử dụng trực tiếp, có đặc tính chống ngã vàng, chống biến màu và tối ưu thời gian thi công, giá hợp lý hơn hàng ngoài trời.
+•	Sơn bóng tự nhiên Bóng KL3 – 1801H: có thể dùng trong nhà và ngoài trời: Sử dụng trực tiếp, có tính dẻo tốt, phù hợp cho các sản phẩm dễ biến dạng như lục bình, độ phủ cao và khả năng chống ngã màu tốt. Dùng trong nhà.
+•	Sơn bóng trắng Bóng Trắng KLW – 6410H: có thể dùng trong nhà và ngoài trời: Sử dụng trực tiếp, là sơn phủ trắng có tính dẻo tốt, phù hợp cho các sản phẩm dễ biến dạng như lục bình, độ phủ cao và khả năng chống ngã màu tốt. Dùng trong nhà.
+Sơn trong nhà (IN):
+•	Sơn bóng tự nhiên Bóng BT 2K 201120H có thể dùng trong nhà và ngoài trời:: Pha với 10% cứng XP25H. Là sơn nước 2K, có độ cứng, chịu va đập cao, kháng hóa chất và các yếu tố khác tốt hơn so với nhiều loại sơn khác và đạt chuẩn Ikea R2. Lưu ý rằng sơn sau khi pha cứng nên sử dụng trong vòng 1 giờ để đảm bảo chất lượng.
+•	Sơn bóng tự nhiên Bóng BT ABR – 2410H có thể dùng trong nhà và ngoài trời:: Sử dụng trực tiếp, có độ cứng cao, chống trầy tốt và kháng được hóa chất như cà phê, rượu vang, nước, đáp ứng tiêu chuẩn của khách hàng ASHLEY.
+•	Sơn bóng tự nhiên BT FC 01/23 TOPCOAT LACQUER có thể dùng trong nhà và ngoài trời:: Sử dụng trực tiếp, dùng để sơn các sản phẩm tiếp xúc trực tiếp đến các thực phẩm ướt.
+
+
 
 
