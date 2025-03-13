@@ -826,5 +826,350 @@ Lưu ý rằng một số sản phẩm không có tỉ lệ pha cụ thể hoặ
  
  
  
+Các bước xử lý khi gặp tróc sơn, độ bám yếu:
+
+1. Chà nhám kỹ bề mặt sản phẩm để loại bỏ lớp sơn bị tróc và tạo độ bám dính cho lớp sơn mới.
+
+2. Kiểm tra chất lượng bề mặt gỗ, đảm bảo không bị dính bụi bẩn, dầu mỡ. Lau sạch bề mặt trước khi sơn.
+
+3. Điều chỉnh lại quy trình sơn:
+   - Bổ sung thêm công đoạn phun hỗn hợp chất tăng độ bám dính như PG 08/22, phụ gia... trước công đoạn lót.
+   - Kiểm tra tỉ lệ pha hóa chất, chất đóng rắn (cứng) trong sơn lót, sơn màu. Điều chỉnh tỉ lệ phù hợp nếu cần. 
+   - Kiểm soát thời gian khô giữa các lớp sơn, thời gian sấy theo đúng quy trình.
+   - Tăng số lượng lớp sơn lót, lớp sơn màu để tăng độ phủ.
+
+4. Chú ý điều kiện môi trường khi sơn như nhiệt độ, độ ẩm. Nếu thời tiết nắng nóng, bổ sung thêm chất làm chậm khô như Retarder vào hỗn hợp sơn.
+
+5. Giám sát chặt chẽ quy trình sơn, đảm bảo công nhân thực hiện đúng các bước. Thường xuyên kiểm tra độ bám dính trong quá trình sản xuất.
+
+6. Làm việc với khách hàng để thông báo tình trạng, cập nhật tiến độ xử lý và thống nhất phương án sơn sửa phù hợp.
+
+Nguyên nhân gây tróc sơn, độ bám yếu thường gặp:
+- Bề mặt vật liệu bị dính bụi bẩn, dầu mỡ, hóa chất.
+- Quy trình sơn không phù hợp như thiếu lớp sơn lót tăng độ bám, tỉ lệ pha sơn chưa hợp lý.
+- Không tuân thủ đúng thời gian khô giữa các lớp sơn.
+- Điều kiện môi trường khắc nghiệt (nắng nóng, ẩm ướt).
+- Thao tác thi công sơn không đúng kỹ thuật như phun sơn mỏng, không đủ độ phủ.
+
+Kỹ thuật cần hợp tác chặt chẽ với QC để kịp thời phát hiện và khắc phục các vấn đề gây tróc sơn, giảm chất lượng sản phẩm.
+
+KPH285 - Màu TVT 92 Nero - Tróc sơn
+- Nguyên nhân: Thao tác phun gió lớn và công đoạn phun bóng không đủ độ phủ.  
+- Xử lý:
+  1. Rửa DM đến lớp lót PU (#320)
+  2. Lót NC 1212 MH (#320)
+  3. Stain màu
+  4. Bóng NC 2605 KP 20%
+- Kỹ thuật làm việc với nhà máy về thao tác sơn của công nhân.
+
+
+KPH276 - Màu KVP 07 - Tróc sơn
+- Nguyên nhân: Do khách hàng thay đổi quy trình nên lót PU trắng phun dày hơn so với trước đây. 
+- Xử lý: 
+  - Kiểm soát thời gian chà nhám
+  - KT xem lại vấn đề chà nhám gỗ + giấy nhám tại KH
+
+KPH275 - Màu THTH 27 - Tróc sơn
+- Xử lý:
+  - Các sản phẩm đã lót AC chà nhám dính nhám: xã nhám và lót AC lần 2
+  - Các sản phẩm đã đóng gói: lau DM PE -> Phun bóng AC (phần tay vịn)
+- KT cần kiểm soát kỹ công đoạn pha chế hoá chất tại KH và có sổ ghi chép chi tiết.
+
+KPH268 - Màu VHF 26 - Tróc sơn (120 mặt bàn)
+- Nguyên nhân: Không tìm được. (Lót đen PU VHF 26 MS: 140522 hết hạn sử dụng)  
+- Xử lý:
+  1. Chà trắng tới lớp UV
+  2. Lót màu PU
+  3. Sơn màu NC
+- Phòng Kỹ thuật:
+  - Gửi mail cho khách hàng phương án xử lý, nguyên nhân có thể xảy ra sự cố
+  - Về quy trình và công thức: xem xét lại cần cải tiến quy trình cho khách hàng, có thể cắt bớt công đoạn lót cho phù hợp, % màu sử dụng trong công thức nhiều nên xem lại.
+
+KPH259 - Màu MD 1771, Lót PU PC FD (110324) - Tróc sơn (2/20sp)
+- Nguyên nhân: Nghi ngờ Lót PU PC FD sử dụng sau 2h độ bám không đạt do chuyền sản xuất rời
+- Xử lý:
+  - 2 sản phẩm bị tróc: chà trắng và thực hiện lại quy trình
+  - 10 sản phẩm tới công đoạn lót 2: chà nhám kỹ và phun bóng
+- Trong quá trình sản xuất sơn rời từng sản phẩm, không sản xuất trực tiếp trên chuyền.
+- Hỗn hợp lót PU PC FD đã pha, kỹ thuật đã kiểm soát sử dụng trong 60p
+
+KPH258 - Màu BH 330 - Tróc sơn (110 sp ghế - tróc phần chân ghế)
+- Không tìm ra nguyên nhân. Sự cố xảy ra 19/8/2023 kỹ thuật đã cho xử lý và đóng gói nhưng không báo về công ty, đến ngày 31/8/2023 KH gửi mail thông tin sự cố
+- Xử lý: Chà nhám và phun bóng lại
+- KT theo dõi, giám sát chặt chẽ và thông tin sự cố kịp thời
+
+KPH249 - Màu PCS 72 - Tróc sơn
+- Nghi ngờ:
+  - Có thể trong sản xuất công nhân vệ sinh bề mặt không kỹ.
+  - Có thể công nhân phun bóng màu khô rốc, màu không thấm thấu vào nền gỗ
+- Chưa có thông tin kiểm tra của KT tại KH
+- QC liên hệ KT thu thập lại thông tin
+
+
+KPH246 - Màu MD 1723 B, Lót PU PC FD (2270324), Bóng PU ID 0805 ABR 10% (4140324) - Tróc sơn (48 chân bàn)  
+- Nguyên nhân: Khả năng công nhân phun khô do sản phẩm là chân tròn nhỏ
+- Xử lý: Rửa 48 chân bàn thực hiện lại quy trình
+
+KPH252 - Màu TVT 92 Nero - Độ bám yếu
+- Nguyên nhân chủ yếu:
+  - Do việc giám sát trên chuyền chưa chặt chẽ, khâu pha chế hoá chất chưa có giám sát, theo dõi
+- Lớp NC 1212 MH pha sẵn ở kho phun trên nền Lót PU: độ bám không đạt, màng sơn giòn và bong tróc. KT không có thẻ kiểm tra chất lượng và thẻ kiểm tra trước khi sản xuất, không có thông tin kiểm tra chất lượng trên chuyền
+- Xử lý:
+  1. KT và QC theo dõi sản xuất thực tế tại nhà máy 3 cont tiếp theo: ghi nhận lại những công đoạn cần phải lưu ý để làm việc với KH
+  2. Hoá chất sơn và quy trình không có vấn đề. Tuy nhiên, để đảm bảo an toàn trong sản xuất phải theo 1 bước stain (có nhựa tăng bám) do nhà máy yêu cầu.
+- Sản xuất hiện tại theo quy trình cập nhật ngày 25/8 và đang theo dõi, chạy chưa đủ 3 cont (30.08)
+
+KPH245 - Lót PU - Lót PU tróc, khi mắt nhám tạo mảng nhầy
+- Nguyên nhân:  
+  - Bề mặt phôi gỗ bị lẫn tạp chất
+  - Lau lót để qua ngày (không xử lý lại bề mặt) mà thực hiện tiếp công đoạn sau
+- Xử lý: Chà trắng và thực hiện lại từ đầu
+- Kỹ thuật làm việc với nhà máy về việc xử lý bề mặt sản phẩm trước khi thực hiện quy trình
+
+
+
+
+
+KPH242 - Màu PMA 03/22 - Tróc sơn (11 mặt bàn)  
+- Nguyên nhân: hao tác phun top không đạt, màng sơn mỏng, không đủ độ phủ
+•	Xử lý: 
+1.	Chà nhám #400
+2.	Phun DM rửa dầu gỗ thông
+3.	Bóng PU HXXT 10% (2 paths)
+•	Đã làm việc nhà máy: hướng dẫn thao tác công nhân phun 2 paths để đảm bảo độ dày đồng đều trên sản phẩm
+
+KPH239 - Màu MHT 910, Màu MHT 54/23 - Tróc sơn
+- Nguyên nhân:
+  - Lỗi kỹ thuật không giám sát chuyền chặt chẽ
+  - Sử dụng lót màu PU để dặm chỗ mất lót: không chà nhám, không kiểm soát hỗn hợp đã pha cứng sử dụng trong bao lâu.
+  - Sản phẩm nhỏ, phun chuyền treo và điều kiện thời tiết nắng nóng, phun mỏng không đủ độ phủ sơn
+- Xử lý:
+  1. Chà nhám # 320
+  2. Phun ướt DM NC 02 (5p)
+  3. Lót NC HB (1 path, 10p)
+  4. Bóng NC HB 30% (2 paths) 
+- QC và Kỹ thuật kiểm tra lại quy trình sản xuất thực tế tại khách hàng, chỉnh sửa nếu không phù hợp.
+- Đã đổi quy trình công đoạn dặm chỗ mất lót thay bằng lót màu NC
+
+KPH238 - Màu WSG 06 CWA (270 mặt bàn) - Độ bám yếu  
+- Nguyên nhân:
+  - Thời tiết nắng nóng, nhiệt độ nhà xưởng cao, không sử dụng Retarder và hỗn hợp sơn.
+  - KT coi chuyền không cảnh báo và sử dụng Retarder theo chỉ đạo BGĐ
+- Xử lý: Chà trắng và thực hiện lại quy trình (vào hỗn hợp lót và bóng 5% phụ gia 08/22).
+- Kỹ thuật xem lại vấn đề theo dõi sản xuất tại nhà máy
+
+KPH235 - Màu PMA 5763 C/24 - Độ bám yếu
+- Nguyên nhân: Do thời tiết nắng nóng, sơn nhanh khô
+- Xử lý:
+  1. Chà nhám
+  2. Phun hỗn hợp DM retarder + DM NC 02 (20 phút)
+  3. Sơn màu thêm Retarder + PG 08/22
+- QC không tham gia kiểm tra, ghi nhận lại báo cáo KT (có xác nhận của KH về nhận định nguyên nhân do thời tiết)
+
+KPH229 - Màu AQ 1055 - Tróc sơn
+- Nguyên nhân: Phun BT UV 0909 Primer không đủ độ dày 
+- Xử lý:
+  1. Chà nhám # 180 toàn sp cối
+  2. Phun DM Retarder (5p)
+  3. Phun BT UV 0909 Primer (1 path, 30p)
+  5. Bóng NC NY 1807 5%
+- Báo KT chưa gửi báo cáo xử lý
+
+KPH226 - Màu MD 1650 M, Lót PU PC FD - Tróc sơn (sản xuất 75 bàn, test 3/16 tróc sơn)
+- Nguyên nhân: 
+  - Màu MD 1650 (NC): Sản phẩm bị tróc sơn kỹ thuật đã cho xử lý xong trước đó nên không xác định được nguyên nhân
+  - Màu MD 1650 (PU): Kỹ thuật thiếu kiểm soát sử dụng của hỗn hợp lót PU PC FD đã pha cứng dẫn đến tróc sơn.
+- Xử lý:
+  - Màu MD 1650 (NC): rửa tới lớp keo NC và thực hiện lại quy trình
+  - Màu MD 1650 (PU): chà trắng và thực hiện lại quy trình
+- Bộ sơn PU PC FD giao Minh Dương điều chỉnh cứng (từ lô 19110524) và đổi sang lót PU TT 0807
+
+KPH223 - Màu HP 456 - Dộp sơn, bong tróc
+- Nguyên nhân: Nhận định: do sản phẩm xử lý chà nhám chưa đạt phun lên màng sơn bị dộp
+- Xử lý: Đổi qua sơn Bóng NC HB ABR (mới). Giao 8.6, đang sản xuất tại KH
+
+KPH215 - Màu BH tự nhiên - Tróc sơn  
+- Nguyên nhân:
+  - Bề mặt phôi sản phẩm bị dính tạp chất (sáp wax, nhớt máy) dẫn đến tróc sơn
+- Xử lý:  
+  - Xử lý DM 01 bề mặt sản phẩm bị dính sáp trước khi sơn
+  - KT kiểm soát kỹ các công đoạn, thêm Retarder khi thời tiết nắng nóng.
+
+KPH214 - Màu MHT 102 - Tróc sơn cục bộ (30 mặt bàn)
+- Nguyên nhân: Không pha RTD vào lót 2 khi thời tiết nóng màng sơn nhanh khô (t: 45-47°C)
+- Xử lý:
+  1. Chà nhám #320
+  2. Phun ướt DM NC 02 (5p)
+  3. Lót NC HB (1 path, 10p)  
+  4. Bóng NC HB 30% (2 paths)
+- KT kiểm soát chuyền chặt chẽ và thêm RTD vào hỗn hợp lót/bóng khi nhiệt độ cao
+
+KPH203 - Màu MHT 102 - Tróc sơn (sx 120 mặt bàn)
+- Nguyên nhân: Quy trình sản xuất + công thức màu 12/22, 126/23 không phù hợp
+- Xử lý: 
+  1. Phun dung môi NC 02 lại những chỗ bị vết trên sản phẩm.
+  2. Lô hàng sản xuất tiếp theo QC và KT kiểm tra lại quy trình sản xuất thực tế tại khách hàng, chỉnh sửa nếu không phù hợp.
+- Điều chỉnh lại các quy trình và công thức, đã thực hiện đưa nhà máy xem và đã đồng ý. KT cập nhật lại công thức và thẻ nhân mới để sản xuất lô sau
+
+KPH202 - Màu MP 495 A H - Tróc sơn  
+- Nguyên nhân: Quy trình sản xuất kết hợp giữa hệ nước và hệ dung môi đan xen nhau không an toàn về độ bám, không phù hợp
+- Xử lý:
+  1. Chà trắng toàn sản phẩm
+  2. Stain màu (hệ DM)
+  3. Lót NC PAK 2512 (2 lần)
+  4. Stain dặm
+  5. Bóng NC PAK 2512 10%
+- KT làm lại quy trình màu MMP 495 A H phù hợp với sản xuất
+
+KPH200 - Màu WSG Dark Walnut - Tróc sơn
+- Nguyên nhân: Không tìm được (Bộ sơn giao cty Porland chất lượng đạt)
+- Xử lý: Chà trắng và thực hiện lại từ đầu
+
+KPH199 - Lót PU FD 0212 L - Bị dộp sơn
+- Nguyên nhân: Không tìm được nguyên nhân (Bộ sơn giao cty Porland chất lượng đạt)
+- Thông tin KT: sản xuất 17-18/7 có 10/280 mặt bàn bị dộp sơn ở công đoạn lót PU FD 0212 lần 2. Ngày 19/7 có 3/48 sản phẩm bị dộp ở công đoạn lót lần 3.
+- QC kiểm tra thực tế tại KH (trên 2 phôi gỗ mới và 2 phôi gỗ đã cán UV - cho chà trắng ra):
+  + Theo quy trình sản xuất thực tế: màng sơn đạt
+  + Kiểm tra các giả thiết tìm nguyên nhân: màng sơn đạt
+- Xử lý: Chà trắng và thực hiện lại từ đầu
+
  
- 
+ TÀI LIỆU VỀ SƠN NƯỚC
+
+I. Giới thiệu chung về sơn nước
+1. Định nghĩa và đặc điểm của sơn nước
+   - Định nghĩa: Sơn nước là loại sơn sử dụng nước làm dung môi chính
+   - Đặc điểm:
+     + Sử dụng nhựa acrylic hoặc polyurethane phân tán trong nước
+     + Có khả năng pha loãng bằng nước
+     + Quá trình khô dựa trên sự bay hơi của nước và kết hợp các hạt polymer
+
+2. Ưu nhược điểm của sơn nước so với các loại sơn khác
+   a. Ưu điểm:
+      - Mùi nhẹ, 
+      - Thân thiện với môi trường
+      - An toàn cháy nổ
+      - Độ phủ tốt
+      - Khả năng kháng nước cao
+      - Chống biến màu tốt (hơn hệ NC ) 
+   b. Nhược điểm:
+      - Nhạy cảm với nhiệt độ và độ ẩm môi trường
+      - Độ trong suốt thấp hơn so với sơn NC
+      - Yêu cầu thiết bị sấy khô phù hợp
+4. Danh mục sản phẩm sơn nước.   
+Cách thức sử dụng súng sơn cho sơn nước
+Do sơn hệ nước có hàm lượng rắn cao hơn hệ sơn dung môi ( hỗn hợp sẵn sàng để phun ), do vậy khi điều chỉnh súng, lưu ý không để gió quá lớn, sẽ gây bọt trong  sơn, nhám mặt sơn khi khô. Hoặc sơn quá nhiều , sẽ làm mặt sơn quá dầy, bị chảy sơn , chậm khô và khi khô bị đục sơn. Sơn khi phun ra với mức gió  không quá mạnh và không quá nhiều sơn dung môi nhưng vẫn đảm bảo độ phủ ( do vậy đầu súng phun nên có đường kính lớn hơn đầu súng cho hệ dung môi , khuyến cáo từ 1.3 hoặc 1.5mm đến 2.5 mm)
+1. Điều chỉnh áp suất khí:
+   - Áp suất: Đảm bảo rằng áp suất khí nén được điều chỉnh phù hợp với thông số kỹ thuật của súng. Thông thường, áp suất nên được cài đặt ở mức 25-30 psi (1.7-2 bar) khi phun sơn.
+   - Kiểm tra áp suất: Bạn có thể kiểm tra áp suất bằng cách phun thử lên một bề mặt khác để đảm bảo áp suất vừa đủ để sơn ra đều và không bị háp / bụi sơn  hay chảy sơn. 
+2. Điều chỉnh lượng sơn:
+   - Núm điều chỉnh sơn: Dùng núm điều chỉnh lượng sơn để kiểm soát lượng sơn phun ra. Bắt đầu từ mức thấp, sau đó tăng dần đến khi bạn đạt được lượng sơn mong muốn.
+   - Kiểm tra: Phun thử để kiểm tra xem lớp sơn có được phun đều và phủ kín bề mặt không. Nếu lượng sơn quá ít, lớp sơn sẽ bị loang lổ, còn nếu quá nhiều, sẽ dễ gây chảy sơn.
+3. Điều chỉnh quạt phun (fan width - độ rộng tia sơn):
+   - Núm điều chỉnh quạt: Dùng núm điều chỉnh quạt để thay đổi chiều rộng của quạt phun. Đối với các chi tiết lớn, bạn nên mở rộng quạt phun, trong khi với các chi tiết nhỏ, bạn nên thu hẹp lại.
+   - Kiểm tra: Phun thử để xem quạt phun có phủ đều lên bề mặt không, và đảm bảo rằng không có vùng nào bị bỏ sót.
+4. Điều chỉnh tia phun:
+   - Hướng tia phun: Đảm bảo rằng tia phun luôn vuông góc với bề mặt cần sơn để tránh hiện tượng lớp sơn bị không đều.
+   - Khoảng cách phun: Giữ súng cách bề mặt khoảng 6-12 inch (15-30 cm) để đảm bảo sơn không bị quá dày hoặc mỏng.
+5. Kiểm tra và hiệu chỉnh:
+   - Phun thử: Luôn phun thử lên một bề mặt khác trước khi phun lên sản phẩm chính để kiểm tra các cài đặt.
+   - Hiệu chỉnh: Dựa vào kết quả phun thử, điều chỉnh lại áp suất, lượng sơn và quạt phun cho phù hợp.
+6. Kỹ thuật sử dụng súng sơn:
+- Khoảng cách phun: Giữ súng cách bề mặt khoảng 6-12 inch (15-30 cm) để đảm bảo sơn không bị quá dày hoặc mỏng.
+- Di chuyển súng sơn với tốc độ đều đặn.
+- Không lắc súng sơn từ bên này sang bên kia, điều này sẽ khiến lớp sơn không đều màu.
+- Phun sơn theo hình cánh quạt, bao phủ bề mặt với số lần phun (pass) ít nhất và mức sơn hao phí do phun ra ngoài ít nhất.
+- Kết thúc đường sơn tại vị trí cách cạnh ngoài mặt cần sơn khoảng 10-15cm.
+- Nới lỏng cò súng ở cuối đường sơn để tiết kiệm sơn.
+- Sơn phủ lại 1/2 đường sơn trước đó để tạo độ đồng đều cho lớp sơn( tránh bị sọc )
+- Phun tấm phẳng :Phun cạnh tấm  phẳng trước khi phun lên mặt.
+- Không phun trực tiếp vào các góc, thay vào đó hãy phun từng mặt của góc.
+**** Thực tập chỉnh súng : dùng một loại sơn nước nhất định ( tốt nhất là sơn bóng 30 đến 40 độ ) . Chuẩn bị một số nền lót sẵn đã chà nhám lán cẩn thận. Chỉnh súng  với loại sơn nước đã chuẩn bị sẵn , sao cho khi phun lên.
+- Bề mặt sơn không bị da cam.
+- Không bị chảy hoặc sơn khô lại không bị nhám mặt, có bọt khí chưa bể hết. 
+-Sơn không bị bắn ra khu vực xung quanh quá nhiều. 
+
+
+Pha chế sơn nước:
+Do sơn nước có đặc tính độ nhớt khác với sơn hệ dung môi ( như PU, NC ) . Nên việc pha loãng sơn để phun cũng sự khác biệt. 
+Độ nhớt sơn nước là loại độ nhớt được người làm sơn chủ động tạo ra. Nên chỉ cần pha một ít nước hoặc Diluent hoặc reducer là có thể độ nhớt bị tuột nhanh chóng. 
+Độ nhớt được đo bằng phếu DIN4 ( lớn hơn loại phễu sử dụng đo sơn dung môi ) 
+Do vậy việc pha loãng tốt nhất cần thử trước khi pha lượng sơn lớn. Cho vào từng 5% nước /diluent /reducer  để làm giảm dần độ nhớt 
+Khuấy sơn :  do đặc tính của nguyên liệu hệ nước. Sơn nước có đặc điểm là dễ tạo ra bọt và bọt này rất lâu tan / biến mất. Độ nhớt sơn càng cao thì bọt càng khó tan hoặc không thể tan. Nếu sơn khô rồi mà bọt không ta, sẽ bị nhám mặt hoặc rỗ mặt, ảnh hưởng chất lượng sản phẩm. 
+Bảo quản 
+-	Trong can : sơn nước sau khi sản xuất, việc vận chuyển hạn chế dằn sóc mạnh. Vận chuyển và lưu trữ ở kho có nhiệt độ đảm bảo . Không để trong kho quá nóng ( trên 40 độ ) trong một thời gian quá lâu sẽ ảnh hưởng đến chất lượng sơn. Chỉ dùng sơn còn  thời hạn sữ dụng. Đa phần sơn nước HSD là 6 tháng kể từ ngày sản xuất . 
+-	Ngoài can : 
+-Khi khui thùng sơn, lưu ý kiểm tra dung dịch sơn trước khi dùng: có bị bọt nhiều nổi lên bề mặt, bị lợn cợn bất thường, độ nhớt lỏng/đặc bất thường, sơn có mùi hoặc màu sắc lạ . 
+-Các thiết bị sử dụng  : thùng đựng, cây khuấy , đường ống , súng sơn, phải được vệ sinh sạch sẽ trước khi sử dụng và ngay sau khi sử dụng. Sử dụng nước hoặc dung môi phù hợp để vệ sinh thiết bị. Không dùng xăng /dung môi rửa thông thường để rửa súng và đường ống. 
+-Sơn khui thùng phải để sử dụng trong ngày. Nếu không sử dụng hết, phải đựng trong thùng sạch và đậy kín và không lưu trữ quá lâu. Trước khi sử dụng lại phải kiếm tra sơn thử lên thẻ trước khi sơn lên sản phẩm ( dù thùng sơn đó ngày hôm trước xử dụng cho sản xuất ổn định ) 
+
+Sử dụng 
+-	Khi pha màu, lưu ý khuấy kĩ và khuấy với lực vừa phải để tránh tạo bọt. 
+-	Nếu thùng sơn trên chuyền có cánh khuấy chống lắng, cần phải mở ở tốc độ vừa phải để không khuấy mạnh , tạo bọt. 
+-	Không dùng ống sục khí để thay thế cánh khuấy chống lắng. 
+
+
+
+
+
+Các lưu ý khi dùng sơn nước : 
+Môi trường
+-Sơn hệ nước nhạy cảm với nhiệt độ và độ ẩm môi trường hơn nhiều so với sơn NC. 
+-Với  một điều kiện môi trường không thuận lợi ( nhiệt độ thấp, độ ẩm cao) phải kéo dài thời gian khô ra đáng kể so với điều kiện thời tiết thông thường. Có thể bị một số lỗi như mặt sơn có độ bóng không đồng đều, bị đốm, mềm ….. 
+Việc có một hệ thống  sơn với các lò sấy đủ dài và nhiệt độ đủ cao để đảm bảo sơn có thể khô đúng cách. 
+Thời gian sản xuất : 
+ Do đặc tính độ phủ cao như đã nói ở trên. Nếu dây chuyền sản xuất được trang bị lò sấy phù hợp thì với cùng một  dòng sản phẩm,nếu dùng sơn hệ nước có thể rút ngắn đáng kể thời gian sản xuất . Ngược lại, nếu không được trang bị lò sấy, cần lưu ý vấn đề nhiệt độ môi trường khi sản xuất và phải giảm tốc độ sản xuất hoặc kéo dài dây chuyền sản xuất để  sơn hệ nước có thể khô đúng cách, đảm bảo chất lượng
+Khô đúng cách : 
+Trong trường hợp có sử dụng lò sấy có nhiệt độ cao ( trên 50 độ ) . Lưu ý khi dùng sơn nước, phải để sơn ráo mặt hoàn toàn ( thường từ 5-15 phút tùy loại sơn ) rồi mới đưa vào lò sấy. Tránh bị nứt sơn, bọt khí, nhăn mặt sơn . Tốt nhất là lò sấy được nâng nhiệt độ dần  : từ 40 độ đến 55 độ  . 
+Nếu dùng bóng sấy hồng ngoại ( IR ) thì cần lưu ý khoảng cách giữa bóng đèn đến bề mặt sơn. Và với bóng IR khi các vị trí khuất không được bóng chiếu tới sẽ chậm khô hơn đáng kể. Nếu không lưu ý, khi đóng gói sẽ tạo ra mùi hôi vì những vị trí này không khô hoàn toàn, thường nhà máy chỉ quan tâm độ khô của bề mặt chính ( được sấy IR) . 
+Sơn  hệ nước rất quan trọng việc sơn được khô đúng cách . Đảm bảo được vấn đề này thì sơn sẽ có tính chất tốt. Trong trường hợp dây chuyền không có lò sấy, cần tính toán thời gian chạy của hệ thống  và độ dài của dây chuyền để đảm bảo sơn được khô đúng cách, và lưu ý cân nhắc việc sản xuất khi thời tiết có nhiệt độ thấp và độ ẩm cao. 
+Bề mặt trước khi sơn : 
+-Nhiệt độ bề mặt trước khi sơn không được quá cao . Nhất là các thời điểm đầu giờ trưa hoặc nắng nóng. Bề mặt sơn quá nóng,khi sơn lên sẽ bị háp, bị nứt hoặc tính chất sơn không tốt, không đảm bảo, dễ trầy xước ( nếu là sơn bóng ) 
+Do sơn nước rất nhạy cảm với các chất bẩn cũng như các chất có trên bề mặt gỗ. Nên trước khi sơn, đảm bảo vệ sinh và làm nguội ( trám trét, chà nhám ) cẩn thận. Lưu ý dấu tay của công nhân . Môi trường xung quanh ( giấy nhám , giẻ lau , tay công nhân .. ) cần phải vệ sinh, không dính các loại hóa chất hoặc sơn dung môi hoặc các chất bôi trơn, sẽ làm bề mặt sơn bị lõm , bị rổ . 
+
+
+Xù lông gỗ: 
+sơn hệ nước khi sơn lên gỗ tự nhiên/ verneer , thường sẽ thấm sâu xuống gỗ và làm phù ghim gỗ lên. Do vậy bề mặt sơn hoàn thiện  có thể vẫn nhìn thấy ghim gỗ. Một số  cách  để giảm thiểu vấn đề này : 
+-Sau khi chà nhám ,dùng nhám mịn để chà lại. Nhám càng mịn, càng ít bị phù ghim gỗ. 
+-Dùng loại primer chống xù ghim gỗ ( xem trong bản danh mục sản phẩm ) 
+-Sau khi sơn lót, để lâu hơn mức bình thường được ghi trong qui trình, đảm bảo sơn khô cứng hoàn toàn, chà kĩ với nhám mịn, cũng hạn chế đáng kể vấn đề xù lông gỗ. 
+- Dùng một lớp sơn hệ dung môi bên dưới ( lớp đầu tiên tiếp xúc với mặt gỗ ) để ghim gỗ được giữ lại , không bị phù lên. 
+Đục sơn – đổi màu sơn. 
+Với sơn không màu, sơn hệ nước có độ trong suốt không bằng sơn NC . Bên cạnh đó, do tính chất không ngã vàng, nên khi sơn lên bề mặt gỗ tự nhiên, nếu dùng sơn hệ nước sẽ cho màu sắc có cảm giác không “ấm” như sơn hệ NC . 
+Bên cạnh đó, do hàm lượng rắn của sơn nước cao hơn sơn dung môi đáng kể, nên  việc thao tác  sơn không đều , màng sơn dầy hơn bình thường cũng có thể làm sơn đục hơn. 
+Việc sấy sơn không đúng cách cũng là nguyên nhân làm cho mặt sơn tự nhiên bị đục . 
+Stain màu . 
+Lưu ý dùng đúng loại màu chuyên cho sơn  nước. Hoặc nếu là màu hệ dung môi thì phải có pha nhựa stain hoặc pha trong sơn lót/bóng. Vì sơn nước khi tiếp xúc với màu stain sẽ làm biến màu, khác màu sắc ( thường là làm màu stain bị lợt, tái đi ). 
+Lưu ý khi sơn : 
+Sơn tự nhiên không màu/ hệ màu stain : 
+-Sơn nước khi chưa khô sẽ có màu trắng sửa hoặc mờ đục. Sẽ trong dần ra khi khô.Và việc pha màu vào lót /bóng để dặm màu sẽ tương đối khó khăn.Vì màu sắc của sơn khi còn ướt và sơn khi khô hoàn toàn sẽ khác nhau. Do vậy, cần lưu ý để thử sơn trước khi chỉnh màu. Cần làm quen để hiểu được loại sơn mình sử dụng, canh được màu sắc khi làm mẫu hoặc sản xuất. 
+Sơn màu ( pigment ) 
+-Do hệ nước có tính chất như đã nói, lúc ướt có màu trắng sữa, lúc khô sẽ hoàn toàn bình thường. Do vậy sơn màu, khi sơn còn ướt và sơn đã khô hoàn toàn vẫn có sự khác biệt về màu sắc, cần lưu ý mức độ khác biệt này để canh màu khi sơn mẫu và khi sản xuất. 
+- Do làm lượng rắn khá cao nên với sơn màu, việc sơn không đều , độ dầy sẽ chênh lệch nhau đáng kể. Do vậy màu sắc sẽ dễ bị vấn đề không đồng đều hơn nếu không có kinh nghiệm.
+Độ nhớt : 
+Độ nhớt chênh lệch cũng dẫn đến sự khác biệt đáng kể về màu sắc, độ phủ , cũng như thời gian khô. Cần kiểm tra độ nhớt trước khi sơn . Cần duy trì việc kiểm tra này suốt quá trình sản xuất. 
+Các lưu ý chung:
+- Kiểm tra độ nhớt của sơn trước khi sử dụng và điều chỉnh nếu cần thiết.
+- Đảm bảo nhiệt độ và độ ẩm môi trường phù hợp khi sơn (nhiệt độ 30-35°C, độ ẩm không quá 70%).
+- Làm sạch súng sơn ngay sau khi sử dụng để tránh tắc nghẽn và đảm bảo tuổi thọ của thiết bị.
+
+
+
+Các sự cố thường gặp ở sơn hệ nước : 
+Lỗi bề mặt	Kiểm tra từng yếu tố sau để có phương án giải quyết 
+	1	2	3	4	5	6
+Nhám mặt sơn	Kiêm tra hổn hợp sơn ,lược cặn sơn 	Kiểm tra bề mặt được sơn : độ lán bề mặt , bụi bề mặt, nhiệt độ bề mặt	Kiểm tra bọt khi vừa mới sơn xong  xem bọt có phá hết trước khi mặt sơn khô hay không 	Kiểm tra độ nhớt, so soánh độ nhớt trong qui trình 	Kiểm tra bụi môi trường xung quanh 	 
+Bọt khí	Kiểm tra lại cách điều chỉnh súng, thao tác công nhân sơn. 	Kiểm tra lớp lót  hoặc bề mặt được sơn có chưa khô hoặc còn ẩm hay không 	Kiểm tra độ nhớt của sơn 	Kiểm tra nhiệt độ lò sấy ( nếu có) 	Kiểm tra súng sơn, hoặc dây hơi có bị xì không. Máy khuấy chống lắng có khuấy mạnh quá không 	 
+Độ bóng không đồng đều	Kiểm tra bề mặt sơn, chà nhám và làm nguội . 	Kiểm tra nhiệt độ bề mặt cần sơn hoặc độ khô của lớp sơn trước ( lót ) 	Kiểm tra lại việc khuấy đều sơn trước khi phun.Độ nhớt của sơn . Tỉ lệ pha sơn . 	Kiểm tra lại thao tác công nhân sơn, cách điều chỉnh súng sơn	Kiểm tra qui trình sấy có đúng cách không. Kiểm tra nhiệt độ, độ ẩm của môi trường phới sơn sau khu phun . 	 
+Nứt sơn ( sau khi sơn khô ) 	Kiểm tra lớp sơn ở dưới có không hoàn toàn chưa 	Kiểm tra độ nhớt và độ dầy sơn sau khi phun . Thao tác sơn của công nhân 	Kiểm tra việc sấy sơn, có quá nhanh và quá nóng không.	Kiểm tra nhiệt độ bề mặt được sơn, nhiệt độ, độ ẩm môi trường sơn. 	Kiểm tra việc pha chế sơn: tỉ lệ và thành phần pha chế, khuấy trộn sơn. 	 
+Nứt sơn sau khi đóng gói 	Kiểm tra vết nứt có ở mối ghép hay góc cạnh không.	Kiểm tra độ dầy màng sơn khô bằng máy đo	Chà nhám để xác định vết nứt bắt đầu từ lớp sơn nào 	Thực hiện lại đúng qui trình và đo lại độ dầy màng sơn khô để đối chiếu so soánh. 	 	 
+Bị mùi khi đóng gói 	kiêm tra qui trình sản xuất: cách pha chế ( có cho nhiều chất pha loãng không, cách sơn của công nhân ( có quá dầy không ). Thời gian khô, thời gian sấy.	Nếu mùi chua , khả năng cao là một số vị trí không khô hoàn toàn ( ở góc khuất hoặc mặt sau ) khi được đóng gói kín 	Kiểm tra mùi của sơn, mùi của ván em , mùi của vậy liệu bao bì . Đóng gói sản phẩm chưa sơn để đối chiếu 	 	 	 
+Dính mặt (dính bao bì) hoặc mặt sơn bị mềm 	Kiêm tra qui cách đóng gói bao bì và cách xếp chồng  trong kho lưu hàng và khi vận chuyển. 	Kiêm tra nhiệt độ , độ ẩm của môi trường khi hong phơi sản phẩm. Kiểm tra thời gian khô của các bước trong qui trình có được tuân thủ không	Kiêm tra mức độ mềm của màng sơn, xem có mềm bất thường không. Kiểm tra độ dầy màng sơn khô 	Kiểm tra thực tế trên dây chuyền có tái chế sai cách không,	  Kiểm tra công nhân có sơn quá dầy không, độ nhớt pha đúng không. Lớp sơn phía dưới có khô hoàn toàn chưa. 	Tỉ lệ pha chế các chất pha loãng có đúng qui định không. 
+Sơn bị trầy xước	Xác định cách khách hàng kiểm tra trầy xước có hợp lý không	 Thao tác công nhân sơn có dẫn tới sơn bị mỏng quá không. Cần điều chỉnh súng sơn, lượng gió vừa đủ, sơn đúng kĩ thuật và đủ pass 	Mặt sơn có được khô đúng cách không. Kiểm tra lò sấy, nhiệt độ bề mặt sơn có quá cao làm sơn nhanh khô hơn bình thường không. 	Kiểm tra bề mặt được sơn có lán không, có rút sơn nhiều không. Yếu tố này cũng làm sơn nhanh khô hơn bình thường và làm sơn dễ trầy. 	Lớp sơn lót bên dưới có khô hẳn không. Kiểm tra xem lớp sơn đó còn dẻo khi bấm móng tay xuống không. 	 
+Sơn bị giòn (bể mép, bể cạnh)	Mặt sơn có được khô đúng cách không. Kiểm tra lò sấy, nhiệt độ bề mặt cần sơn có quá cao làm sơn nhanh khô hơn bình thường không. 	Kiêm tra độ nhớt của sơn. Thao tác công nhân phun sơn. 	Kiểm tra lại công thức màu trong sơn	 	 	 
+phù ghim gỗ	Bề mặt gỗ chà nhám có đủ lán không 	Lớp primer  hoặc lót đầu tiền có pha quá nhiều nước hay chất pha loãng không	Kiêm tra qui trình sơn có các biện pháp chống xù ghim gỗ không. 	Lớp sơn lót có được để khô hoàn toàn trước khi sơn bóng không. 	 	 
+Sơn bị thiếu độ phủ 	Kiểm tra thao tác công nhân sơn và dây chuyền sản xuất 	Kiểm tra việc chà nhám bề mặt 	Kiểm tra độ khô của lớp sơn bên dưới 	Kiểm tra tỉ lệ pha sơn và độ nhớt	Mặt sơn có được khô đúng cách không. Kiểm tra lò sấy, nhiệt độ bề mặt cần sơn có quá cao làm sơn nhanh khô hơn bình thường không. 	 
+Sơn bị lõm	Pha mới hỗn hợp sơn và dùng súng bầu rửa sạch để sơn kiểm tra lại 	Kiểm tra dây hơi, súng, thùng chứ sơn. Bề mặt cần sơn. Bụi trong môi trường 	Kiểm tra thay thế giẻ lau, dây hơi thổi bụi . 	Đảm bảo bề mặt cần sơn không dính dấu tay	 	 
+Sơn bị chảy	Kiểm tra độ nhớt	 Thao tác công nhân sơn có dẫn tới sơn bị mỏng quá không. Cần điều chỉnh súng sơn, lượng gió vừa đủ, sơn đúng kĩ thuật và đủ pass 	 	 	 	 
+●	
+
