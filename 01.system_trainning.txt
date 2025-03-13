@@ -2010,5 +2010,13 @@ Ghi chú: ______________________________
 Người kiểm tra: __________________ Ngày: __________
 
 
+Dựa trên thông tin từ nguồn tài liệu "San pham HKBT 0824.pdf", có một số sản phẩm hỗ trợ có thể được xem là **chất làm chậm khô** và có thể phù hợp cho **hệ nước** (dù không được nêu rõ là "hệ nước" trong mọi trường hợp).
 
+*   **Reducer REDUCER – 04H** được mô tả là **chất làm chậm khô**, giúp bề mặt sơn được san phẳng và độ bóng đồng đều. Có thể pha từ 3-10% vào các loại sơn cần dùng, và trong trường hợp đặc biệt có thể dùng không quá 20%. Sản phẩm này được khuyến nghị pha vào sơn phun và lau, làm chậm thời gian ráo mặt của sơn (chỉ nên sử dụng khi cần thiết).
+
+*   **Retander BT – 01H** cũng là một **chất làm chậm thời gian ráo mặt của sơn**. Nên pha từ 3 đến 7% vào sơn phun để khắc phục lỗi nhám, hạt da cam khi sơn diện tích lớn, và không làm thay đổi tính chất sản phẩm.
+
+*   **Reducer Reducer – 09H** có thể được dùng để pha loãng Glaze Màu, stain màu và các sản phẩm khác như lót, bóng. Đặc biệt, nó có tác dụng làm **sơn chậm khô mặt**, giúp dễ dàng gia công đánh cọ, quét cọ hoặc lau. Tỷ lệ pha không giới hạn. Mặc dù không trực tiếp nói là cho hệ nước, việc đề cập đến "lót, bóng" chung có thể bao gồm cả các sản phẩm hệ nước, và công dụng làm chậm khô để dễ gia công bằng cọ hoặc lau thường hữu ích cho cả sơn gốc nước và gốc dung môi.
+
+Như vậy, theo tài liệu, **Reducer REDUCER – 04H**, **Retander BT – 01H**, và **Reducer Reducer – 09H** có khả năng làm chậm khô sơn và có thể được ứng dụng trong các hệ sơn khác nhau, bao gồm tiềm năng cho hệ nước dựa trên mô tả về công dụng và loại sản phẩm mà chúng có thể pha trộn.
 
