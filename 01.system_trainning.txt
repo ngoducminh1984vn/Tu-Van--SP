@@ -652,13 +652,6 @@ c.	Biện pháp xử lý nhanh ở trong sản xuất
 
 
 
-
-
-
-
- 
- 
- 
 Các bước xử lý khi gặp tróc sơn, độ bám yếu:
 
 1. Chà nhám kỹ bề mặt sản phẩm để loại bỏ lớp sơn bị tróc và tạo độ bám dính cho lớp sơn mới.
@@ -686,84 +679,6 @@ Nguyên nhân gây tróc sơn, độ bám yếu thường gặp:
 
 Kỹ thuật cần hợp tác chặt chẽ với QC để kịp thời phát hiện và khắc phục các vấn đề gây tróc sơn, giảm chất lượng sản phẩm.
 
-KPH285 - Màu TVT 92 Nero - Tróc sơn
-- Nguyên nhân: Thao tác phun gió lớn và công đoạn phun bóng không đủ độ phủ.  
-- Xử lý:
-  1. Rửa DM đến lớp lót PU (#320)
-  2. Lót NC 1212 MH (#320)
-  3. Stain màu
-  4. Bóng NC 2605 KP 20%
-- Kỹ thuật làm việc với nhà máy về thao tác sơn của công nhân.
-
-
-KPH276 - Màu KVP 07 - Tróc sơn
-- Nguyên nhân: Do khách hàng thay đổi quy trình nên lót PU trắng phun dày hơn so với trước đây. 
-- Xử lý: 
-  - Kiểm soát thời gian chà nhám
-  - KT xem lại vấn đề chà nhám gỗ + giấy nhám tại KH
-
-KPH275 - Màu THTH 27 - Tróc sơn
-- Xử lý:
-  - Các sản phẩm đã lót AC chà nhám dính nhám: xã nhám và lót AC lần 2
-  - Các sản phẩm đã đóng gói: lau DM PE -> Phun bóng AC (phần tay vịn)
-- KT cần kiểm soát kỹ công đoạn pha chế hoá chất tại KH và có sổ ghi chép chi tiết.
-
-KPH268 - Màu VHF 26 - Tróc sơn (120 mặt bàn)
-- Nguyên nhân: Không tìm được. (Lót đen PU VHF 26 MS: 140522 hết hạn sử dụng)  
-- Xử lý:
-  1. Chà trắng tới lớp UV
-  2. Lót màu PU
-  3. Sơn màu NC
-- Phòng Kỹ thuật:
-  - Gửi mail cho khách hàng phương án xử lý, nguyên nhân có thể xảy ra sự cố
-  - Về quy trình và công thức: xem xét lại cần cải tiến quy trình cho khách hàng, có thể cắt bớt công đoạn lót cho phù hợp, % màu sử dụng trong công thức nhiều nên xem lại.
-
-KPH259 - Màu MD 1771, Lót PU PC FD (110324) - Tróc sơn (2/20sp)
-- Nguyên nhân: Nghi ngờ Lót PU PC FD sử dụng sau 2h độ bám không đạt do chuyền sản xuất rời
-- Xử lý:
-  - 2 sản phẩm bị tróc: chà trắng và thực hiện lại quy trình
-  - 10 sản phẩm tới công đoạn lót 2: chà nhám kỹ và phun bóng
-- Trong quá trình sản xuất sơn rời từng sản phẩm, không sản xuất trực tiếp trên chuyền.
-- Hỗn hợp lót PU PC FD đã pha, kỹ thuật đã kiểm soát sử dụng trong 60p
-
-KPH258 - Màu BH 330 - Tróc sơn (110 sp ghế - tróc phần chân ghế)
-- Không tìm ra nguyên nhân. Sự cố xảy ra 19/8/2023 kỹ thuật đã cho xử lý và đóng gói nhưng không báo về công ty, đến ngày 31/8/2023 KH gửi mail thông tin sự cố
-- Xử lý: Chà nhám và phun bóng lại
-- KT theo dõi, giám sát chặt chẽ và thông tin sự cố kịp thời
-
-KPH249 - Màu PCS 72 - Tróc sơn
-- Nghi ngờ:
-  - Có thể trong sản xuất công nhân vệ sinh bề mặt không kỹ.
-  - Có thể công nhân phun bóng màu khô rốc, màu không thấm thấu vào nền gỗ
-- Chưa có thông tin kiểm tra của KT tại KH
-- QC liên hệ KT thu thập lại thông tin
-
-
-KPH246 - Màu MD 1723 B, Lót PU PC FD (2270324), Bóng PU ID 0805 ABR 10% (4140324) - Tróc sơn (48 chân bàn)  
-- Nguyên nhân: Khả năng công nhân phun khô do sản phẩm là chân tròn nhỏ
-- Xử lý: Rửa 48 chân bàn thực hiện lại quy trình
-
-KPH252 - Màu TVT 92 Nero - Độ bám yếu
-- Nguyên nhân chủ yếu:
-  - Do việc giám sát trên chuyền chưa chặt chẽ, khâu pha chế hoá chất chưa có giám sát, theo dõi
-- Lớp NC 1212 MH pha sẵn ở kho phun trên nền Lót PU: độ bám không đạt, màng sơn giòn và bong tróc. KT không có thẻ kiểm tra chất lượng và thẻ kiểm tra trước khi sản xuất, không có thông tin kiểm tra chất lượng trên chuyền
-- Xử lý:
-  1. KT và QC theo dõi sản xuất thực tế tại nhà máy 3 cont tiếp theo: ghi nhận lại những công đoạn cần phải lưu ý để làm việc với KH
-  2. Hoá chất sơn và quy trình không có vấn đề. Tuy nhiên, để đảm bảo an toàn trong sản xuất phải theo 1 bước stain (có nhựa tăng bám) do nhà máy yêu cầu.
-- Sản xuất hiện tại theo quy trình cập nhật ngày 25/8 và đang theo dõi, chạy chưa đủ 3 cont (30.08)
-
-KPH245 - Lót PU - Lót PU tróc, khi mắt nhám tạo mảng nhầy
-- Nguyên nhân:  
-  - Bề mặt phôi gỗ bị lẫn tạp chất
-  - Lau lót để qua ngày (không xử lý lại bề mặt) mà thực hiện tiếp công đoạn sau
-- Xử lý: Chà trắng và thực hiện lại từ đầu
-- Kỹ thuật làm việc với nhà máy về việc xử lý bề mặt sản phẩm trước khi thực hiện quy trình
-
-
-
-
-
- 
  TÀI LIỆU VỀ SƠN NƯỚC
 
 I. Giới thiệu chung về sơn nước
@@ -1915,3 +1830,27 @@ Các nguồn cung cấp thông tin về nhiều loại sơn NC (Nitrocellulose),
 *   Cần khuấy đều dung dịch sơn trước khi sử dụng.
 *   Thời gian khô có thể khác nhau tùy thuộc vào điều kiện môi trường (nhiệt độ, độ ẩm) và độ dày lớp sơn.
 *   Một số loại sơn NC có thể có sự điều chỉnh về quy trình, cần kiểm tra lại với bộ phận QC khi cần thiết.
+•
+Sơn NC PC23 Lót tự nhiên:
+◦
+Đây là sơn lót tự nhiên.
+◦
+Tỉ lệ pha là 1-1.
+◦
+Dung môi sử dụng là NC 02/23.
+◦
+Độ nhớt (NK2) nằm trong khoảng 16-19s.
+◦
+Sơn này có độ phủ cao và giá cả cạnh tranh.
+•
+Sơn NC PC23 Bóng tự nhiên:
+◦
+Đây là sơn bóng tự nhiên.
+◦
+Tỉ lệ pha là 1-1.
+◦
+Dung môi sử dụng là NC 02/23.
+◦
+Độ nhớt (NK2) nằm trong khoảng 14-16s.
+◦
+Sơn này cũng có độ phủ cao và giá cả cạnh tranh.
