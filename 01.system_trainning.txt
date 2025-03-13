@@ -1754,3 +1754,261 @@ PRIMER TĂNG BÁM BT 1523H MÁY (TĂNG BÁM TRÊN NỀN MÂY THỬ CHO MEKONG PH
 PRIMER BT UV0909 (PHUN QUI TRÌNH CỐI CỬA HỔ NAI)TLP: 4 PRIMER - 1 CỨNG PU HXXT
 KO SẤY QUA ĐÈN UV
 
+
+
+BẢNG TỈ LỆ PHA, ĐỘ NHỚT, CỨNG VÀ DUNG MÔI SỬ DỤNG
+A-Hàng ngoài trời
+
+STT	Sản phẩm	Tỉ lệ pha
+(Sơn - cứng - dung môi)	Cứng sử dụng	Dung môi 	Độ nhớt NK2 ±1s (giây)
+1	Bóng PU HXXT	2-0.7-1	Cứng PU HXXT	PU TXXT	11-15s
+2	Bóng PU HXXT trắng	2-0.5-1	Cứng PU HXXT	PU TXXT	9-13s
+3	Bóng PU OD0405	2-0.5-1	Cứng PU 0707B	PU TXXT 1406 TRT	10-14s
+4	Bóng PU OD0405 trắng	2-0.5-1	Cứng PU 0707B	PU TXXT 1406 TRT	10-14s
+5	Bóng PU OD1107	3-1-1.5	Cứng PU 0707B	PU TXXT	10-14s
+6	Lót PU 0707	4-1-2	Cứng 0707L	PU TXXT	13-17s
+7	Lót PU 0707 trắng	4-1-2	Cứng 0707L	PU TXXT	12-16s
+
+
+
+
+
+
+B-Hàng nội thất/ hàng trong nhà
+1-Một số dòng sơn NC đặc trưng của HKBT
+STT	Sản phẩm	Tỉ lệ pha
+(Sơn-dung môi)	Cứng 	Dung môi 	Độ nhớt NK2 ±1s (giây)
+1	Lót NC T2012	1-2	x	NC 02	12-15s
+2	Bóng NC T2012	1-2	x	NC 02	11-13s
+3	Lót NC 1212	1-1	x	NC 1212	15-18s
+4	Bóng NC 1212	1-1	x	NC 1212	14-16s
+5	Lót NCHB	1-1.5	x	NC HB	12-15s
+6	Bóng NCHB	1-1.5	x	NC HB	13-15s
+7	Lót NC MOD 1106	10-1-10	Cứng NC MOD 1106 lót	NC MOD	14-18s
+8	Bóng NC MOD 1106	10-1-10	Cứng NC MOD 1106 bóng	NC MOD	13-17s
+9	Lót NC NA 	1-1.5	x	NC NA	15-18s
+10	Lót NC NA trắng	1-1.5	x	NC NA	15-18s
+11	Bóng NC NA	1-1.5	x	NC NA	12-14s
+12	Bóng NC NA trắng	1-1.5	x	NC NA	10-12s
+13	Lót NCNY	1-1	x	NC 02	12-15s
+14	Bóng NCNY	1-1.5	x	NC HB	13-15s
+15	Lót NCNY trắng	1-1	x	NC 02	16-19s
+16	Bóng NCNY trắng	1-1.5	x	NC HB	12-14s
+17	Lót NC PAK 2512	1-1.5	x	NC HB	12-15s
+18	Bóng NC PAK 2512	1-1.5	x	NC HB	13-15s
+19	Lót NCPC23	1-1	x	NC 02/23	16-19s
+20	Bóng NCPC23	1-1	x	NC 02/23	14-16s
+2-Hệ sơn PU nội thất 
+STT	Sản phẩm	Tỉ lệ pha
+(Sơn – Cứng - Dung môi)	Cứng 	Dung môi 	Độ nhớt NK2
+1	Bóng PU ID 0805 ABR	3-1-1.5	Cứng PU TXXT	PU TXXT	11-12s
+2	Bóng PU HJFD	3-1-1.5	Cứng PU HXXT	PU TXXT	12-16s
+3	Bóng PU HJFD trắng	2-0.5-1	Cứng PU HXXT	PU TXXT	11-15s
+4	Bóng PU HG	2-1-1.5	Cứng 0707B	PU TXXT	11-12s
+5	Bóng PU HG trắng	2-1-1.5	Cứng 0707B	PU TXXT	11-12s
+6	Bóng PU SM2	3-1-1	Cứng PU HXXT	PU SM	9-13s
+7	Lót PU	2-1-2	Cứng PU	PU lót	10-14s
+8	Lót PU FD 0212	4-1-3	Cứng PU FD 0121L	PU lót	10-14s
+9	Lót PU trắng	2-1-1.5	Cứng PU FD 0723	PU lót	10-14s
+10	Lót PU 0601 trắng	4-1-3	Cứng PU 0601	PU lót	11-15s
+11	Lót PU FD 2106 trắng	4-1-3	Cứng PU FD 2106L	PU lót	10-14s
+12	Lót PU PC FD	2-1-2	Cứng PU	PU lót	10-14s
+	Lót PU TT0807	3-1	cứng pu lot		
+
+
+
+
+
+
+
+
+
+C-Dầu bảo quản 
+Một số mặt hàng dầu bảo quản gỗ
+STT	Sản phẩm	Hướng dẫn sử dụng
+1	Dầu OBT 01	-Dùng trực tiếp không pha
+-Độ nhớt NK2: 7-8.5s. 
+-Tuy nhiên trong quá trình sử dụng nếu dầu đặc có thể pha thêm 5-10% dung môi CRF.
+2	Dầu OBT01N 2509/17 	
+3	Stain SP3010	-Stain SP3010 + 20% phụ gia SP2.
+-Sau 60p khô lau vải không ra màu.
+
+D-Hệ sơn AC  
+Các sản phẩm sơn AC của HKBT
+STT	Sản phẩm	Tỉ lệ pha
+(Sơn – cứng - dung môi)	Cứng 	Dung môi 	Độ nhớt NK2
+1	Lót AC	10-1-3	Cứng AC 1AN	AC	9-12s
+2	Bóng AC 1222 (đang trong giai đoạn điều chỉnh tỉ lệ pha)	10-0.5-1	Cứng AC 1AN	AC	9-11s
+3	Lót AC trắng	10-1-3	Cứng AC 1AN	AC	9-11s
+4	Bóng AC trắng	10-1-3	Cứng AC 1AN	AC	9-12s
+
+
+
+
+
+E-Các sản phẩm phụ trợ 
+Một số dòng Tannin Block đặc trưng của HKBT
+STT	Sản phẩm	Hướng dẫn sử dụng
+1	Primer TBS 251223 New	-Pha với phụ gia ngăn dầu Primer TBS 251223 New, tỉ lệ: 1 Primer – 4 phụ gia. 
+-Độ nhớt NK2 7-8s
+-Sau 30-60p khô có thể tiến hành phun các lớp sơn tiếp theo.
+2	Chất TB1501	-Dùng trực tiếp không pha 
+-Độ nhớt NK2 11-12s
+
+PFAS (Per- and Polyfluoroalkyl Substances)
+
+________________________________________
+1. PFAS là gì?
+PFAS (poly- and perfluoroalkyl substances) là một nhóm hóa chất nhân tạo có chứa ít nhất một nguyên tử carbon được fluor hóa hoàn toàn. Các cấu trúc cơ bản của PFAS bao gồm:
+•	R-(CF2)-CF(R′)R″: Carbon CF2 và CF no.
+•	R–CF2OCF2-R′: R và R′ có thể là F, O, hoặc carbon no.
+•	CF3C(CF3)R′R″: R′ và R″ có thể là F hoặc carbon no.
+PFAS thường được gọi là "Forever Chemicals", do chúng tồn tại trong môi trường (bao gồm cả nước uống) hàng chục đến hàng trăm năm.
+Tính chất hóa học và tác động
+•	Tính chất nguy hại:
+o	Độ bền cao: Chống phân hủy sinh học.
+o	Tính di động cao: Dễ lan truyền trong nước và môi trường.
+o	Tích lũy sinh học: Có thể tích lũy trong cây trồng, động vật và cơ thể con người.
+o	Độc tính: Có thể gây rối loạn nội tiết, ảnh hưởng hệ miễn dịch, ung thư và nhiều vấn đề sức khỏe khác.
+•	Ứng dụng công nghiệp:
+o	Chống nước và dầu (vải, da, giấy, bao bì thực phẩm, lớp phủ chống bẩn).
+o	Khả năng chịu nhiệt cao (các lớp phủ chịu nhiệt, chất chống cháy).
+o	Làm chất bôi trơn, dung môi công nghiệp (ô tô, điện tử, dầu nhớt, mỹ phẩm).
+________________________________________
+2. Các quy định về PFAS trên toàn cầu
+2.1 Châu Âu (EU)
+•	ECHA (Cơ quan Hóa chất Châu Âu) đã đề xuất hạn chế PFAS với hai lựa chọn: 
+1.	Cấm hoàn toàn với thời gian chuyển đổi 18 tháng.
+2.	Cấm theo từng ứng dụng cụ thể, một số ngành có thời gian chuyển đổi 6.5 – 13.5 năm.
+•	Đây là đề xuất hạn chế rộng nhất trong lịch sử, ảnh hưởng hơn 10.000 hóa chất PFAS trong 14 lĩnh vực và 78 nhóm ngành.
+•	Quy trình hạn chế PFAS đang được đánh giá theo từng ngành: 
+o	Tháng 3/2024: Hỗn hợp tiêu dùng, mỹ phẩm, sáp trượt tuyết.
+o	Tháng 6/2024: Mạ kim loại, sản xuất kim loại.
+o	Tháng 9/2024: Dệt may, đồ nội thất, da, quần áo, thảm, bao bì thực phẩm.
+Nguồn: ECHA (Cơ quan Hóa chất Châu Âu)
+________________________________________
+2.2 Hoa Kỳ
+•	Phần lớn các quy định PFAS được thực hiện ở cấp bang (không phải cấp liên bang).
+•	Bang Maine (tiên phong cấm PFAS): 
+o	Từ 1/1/2023: Nhà sản xuất phải báo cáo về sản phẩm có chứa PFAS.
+o	Từ 1/1/2025: Cấm bán sản phẩm có PFAS cố ý thêm vào.
+o	Từ 1/1/2032: Cấm hoàn toàn PFAS trong mọi sản phẩm (trừ những trường hợp không thể thay thế).
+•	EPA (Cơ quan Bảo vệ Môi trường Mỹ): 
+o	Tháng 3/2023: Đề xuất tiêu chuẩn nước uống an toàn cho 6 loại PFAS.
+o	Tháng 9/2023: Ban hành quy định bắt buộc báo cáo PFAS trong danh mục Toxics Release Inventory (TRI).
+o	Chi phí ước tính để doanh nghiệp tuân thủ quy định: hơn 875 triệu USD.
+Nguồn: EPA (Cơ quan Bảo vệ Môi trường Mỹ)
+________________________________________
+2.3 Trung Quốc
+•	Bộ Sinh thái và Môi trường (MEE) đã ban hành danh sách các chất ô nhiễm mới cần kiểm soát (2023).
+•	PFOS (Nhóm Perfluorooctane sulfonic acid): 
+o	Cấm sản xuất.
+o	Cấm nhập khẩu & xuất khẩu từ ngày 1/1/2024.
+o	Chỉ có một ngoại lệ duy nhất: Chất tạo bọt chữa cháy có thể sử dụng đến hết 31/12/2023.
+•	PFOA (Nhóm Perfluorooctanoic acid): 
+o	Cấm sản xuất & xử lý, ngoại trừ một số trường hợp đặc biệt.
+o	Việc nhập khẩu/xuất khẩu phải có giấy phép môi trường đặc biệt.
+•	PFHxS: 
+o	Cấm hoàn toàn (sản xuất, xử lý, nhập khẩu, xuất khẩu).
+Nguồn: Bộ Sinh thái và Môi trường Trung Quốc (MEE)
+________________________________________
+2.4 Nhật Bản, Thái Lan, ASEAN
+•	Nhật Bản (2021): Cấm PFOA và các hợp chất liên quan.
+•	Thái Lan (2022): Thêm PFOA vào danh sách hóa chất nguy hiểm.
+•	Việt Nam, Singapore, các nước ASEAN: Phải thực hiện theo Công ước Stockholm về các chất ô nhiễm hữu cơ bền (POPs).
+________________________________________
+3. Hạn chế sử dụng PFAS trong sản phẩm
+3.1 Danh mục các sản phẩm bị cấm (Mỹ, Châu Âu, Trung Quốc)
+•	Thảm, đồ nội thất bọc vải.
+•	Sản phẩm tẩy rửa, mỹ phẩm (kem chống nắng, son môi, mascara, kem nền, kem dưỡng da, nước hoa, dầu gội, dầu xả).
+•	Dụng cụ nấu ăn chống dính (teflon, chảo chống dính).
+•	Bao bì thực phẩm (giấy gói thức ăn nhanh, hộp đựng pizza, ly giấy chống thấm dầu).
+•	Dây cáp, ống dẫn công nghiệp, sơn phủ kim loại.
+•	Hàng dệt may: áo khoác chống nước, giày dép, thiết bị trượt tuyết.
+4. Hướng dẫn thay thế PFAS
+4.1 Các sản phẩm không chứa PFAS
+•	Chứng nhận “Non-PFAS”: Một số nhà sản xuất sơn, chất phủ, hóa chất công nghiệp đã triển khai kiểm tra và loại bỏ PFAS.
+•	Sơn phủ thay thế: 
+o	Hệ sơn gốc nước (Water-based coatings) thay vì sơn dung môi có chứa PFAS.
+o	Sơn sử dụng nhựa sinh học (Bio-Based Resin) thay vì sử dụng các hợp chất fluor.
+o	Dung môi sinh học (Bio-Based Solvent).
+4.2 Các sản phẩm đáp ứng yêu cầu non-PFAS :
+
+
+CÁC ĐIỂM CẦN KIỂM SOÁT TRONG SẢN XUẤT
+1. Hỗn hợp sơn
+•	☐ Sơn đã được khuấy đều trước khi sử dụng
+•	☐ Tỉ lệ pha chế chính xác theo hướng dẫn của nhà sản xuất
+•	☐ Loại dung môi phù hợp với loại sơn
+•	☐ Không có tạp chất hoặc cặn trong sơn
+•	☐ Độ nhớt sơn phù hợp với phương pháp thi công
+Ghi chú: ______________________________
+2. Bề mặt cần sơn
+•	☐ Bề mặt đã được làm sạch hoàn toàn (không có bụi, dầu mỡ)
+•	☐ Bề mặt đã được chà nhám đúng cách
+•	☐ Độ ẩm của bề mặt nằm trong giới hạn cho phép
+•	☐ Nhiệt độ bề mặt phù hợp với loại sơn sử dụng
+•	☐ Lớp sơn lót (nếu có) đã khô hoàn toàn
+Ghi chú: ______________________________
+3. Nhiệt độ và độ ẩm
+•	☐ Nhiệt độ môi trường nằm trong khoảng khuyến nghị
+•	☐ Độ ẩm không khí nằm trong giới hạn cho phép
+•	☐ Không có sự thay đổi đột ngột về nhiệt độ dự kiến trong quá trình sơn và sấy
+•	☐ Đã kiểm tra dự báo thời tiết (nếu sơn ngoài trời)
+Ghi chú: ______________________________
+4. Thao tác công nhân
+•	☐ Công nhân đã được đào tạo về kỹ thuật phun sơn đúng cách
+•	☐ Khoảng cách và góc phun sơn được duy trì đúng
+•	☐ Tốc độ di chuyển súng phun đều đặn
+•	☐ Số lớp sơn tuân thủ theo quy định
+•	☐ Thời gian chờ giữa các lớp sơn được tuân thủ
+•	☐ Chà nhám giữa các lớp sơn (nếu cần) được thực hiện đúng cách
+Ghi chú: ______________________________
+5. Thiết bị sơn
+•	☐ Súng phun sơn hoạt động tốt, không bị tắc nghẽn
+•	☐ Áp suất khí được điều chỉnh chính xác
+•	☐ Đầu phun phù hợp với loại sơn đang sử dụng
+•	☐ Dây dẫn sơn và khí không bị rò rỉ
+•	☐ Máy khuấy sơn hoạt động hiệu quả
+Ghi chú: ______________________________
+6. Quy trình sấy
+•	☐ Nhiệt độ sấy được cài đặt chính xác theo hướng dẫn
+•	☐ Thời gian sấy được tuân thủ nghiêm ngặt
+•	☐ Tốc độ tăng nhiệt phù hợp, không quá nhanh
+•	☐ Quy trình làm nguội sau khi sấy được thực hiện đúng cách
+•	☐ Độ ẩm trong lò sấy (nếu áp dụng) được kiểm soát
+Ghi chú: ______________________________
+7. Độ nhớt sơn
+•	☐ Độ nhớt sơn đã được kiểm tra trước khi sử dụng
+•	☐ Độ nhớt phù hợp với phương pháp thi công và điều kiện môi trường
+•	☐ Nếu cần điều chỉnh, đã sử dụng đúng loại dung môi
+•	☐ Độ nhớt được duy trì ổn định trong suốt quá trình sơn
+Ghi chú: ______________________________
+8. Môi trường sơn
+•	☐ Khu vực sơn được bảo vệ khỏi bụi và các tạp chất khác
+•	☐ Không có gió lùa trong khu vực sơn
+•	☐ Ánh sáng đầy đủ để đảm bảo thi công chính xác
+•	☐ Hệ thống thông gió hoạt động tốt
+•	☐ Khu vực sơn được cách ly với các hoạt động khác có thể gây ảnh hưởng
+Ghi chú: ______________________________
+9. Quy trình tái chế (nếu áp dụng)
+•	☐ Thời gian giữa các lần sơn đủ dài
+•	☐ Bề mặt cũ đã được chà nhám đúng cách
+•	☐ Bề mặt đã được làm sạch sau khi chà nhám
+•	☐ Sử dụng đúng loại sơn lót cho bề mặt tái chế
+•	☐ Đã kiểm tra độ bám dính của lớp sơn cũ
+Ghi chú: ______________________________
+
+
+10. Đóng gói và bảo quản
+•	☐ Sơn đã khô hoàn toàn trước khi đóng gói
+•	☐ Sử dụng vật liệu đóng gói phù hợp, không ảnh hưởng đến bề mặt sơn
+•	☐ Phương pháp xếp chồng và vận chuyển an toàn cho bề mặt sơn
+•	☐ Điều kiện bảo quản (nhiệt độ, độ ẩm) phù hợp
+•	☐ Thời gian bảo quản nằm trong giới hạn khuyến nghị của nhà sản xuất
+Ghi chú: ______________________________
+Người kiểm tra: __________________ Ngày: __________
+
+
+
+
