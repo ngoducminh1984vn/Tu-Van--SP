@@ -1172,4 +1172,100 @@ Sơn bị thiếu độ phủ 	Kiểm tra thao tác công nhân sơn và dây ch
 Sơn bị lõm	Pha mới hỗn hợp sơn và dùng súng bầu rửa sạch để sơn kiểm tra lại 	Kiểm tra dây hơi, súng, thùng chứ sơn. Bề mặt cần sơn. Bụi trong môi trường 	Kiểm tra thay thế giẻ lau, dây hơi thổi bụi . 	Đảm bảo bề mặt cần sơn không dính dấu tay	 	 
 Sơn bị chảy	Kiểm tra độ nhớt	 Thao tác công nhân sơn có dẫn tới sơn bị mỏng quá không. Cần điều chỉnh súng sơn, lượng gió vừa đủ, sơn đúng kĩ thuật và đủ pass 	 	 	 	 
 ●	
+Dựa trên nguồn tài liệu "HDSD.pdf" bạn cung cấp, đây là hướng dẫn sử dụng cho các sản phẩm được đề cập:
 
+**1. HƯỚNG DẪN SỬ DỤNG SƠN BT CAT**
+
+*   **Tên sản phẩm:** Lót BT CAT, BÓNG BT CAT 02
+*   **Tỷ lệ pha và cách pha loãng:**
+    *   **Lót BT CAT:** 10 phần lót - 2 phần phụ gia BT CAT – 7 đến 10 phần dung môi BT CAT
+        *   Cách pha: Pha lót và dung môi khuấy đều, sau đó pha phụ gia vào và khuấy đều lại trước khi sử dụng.
+    *   **BÓNG BT CAT 02:** 10 phần bóng BT CAT 02 – 3 phần phụ gia BT CAT - 7 đến 10 phần dung môi BT CAT
+        *   Cách pha: Pha bóng và dung môi khuấy đều, sau đó pha phụ gia vào và khuấy đều lại trước khi sử dụng.
+*   **Độ nhớt (cup NK2):** Lót BT CAT: 14-16 giây; Bóng BT CAT 02: 12-13 giây.
+*   **Đặc tính:** Loại sơn hai thành phần tương tự sơn AC, nhanh khô, độ phủ cao, độ cứng cao.
+*   **Các vấn đề cần lưu ý:**
+    *   Hỗn hợp đã pha loãng phụ gia nên sử dụng trong thời gian **4 giờ**.
+    *   Các xưởng sản xuất, phòng Kỹ Thuật sử dụng loại sơn này phải sử dụng **thiết bị riêng**, không dùng chung với các loại sơn hệ NC và PU.
+    *   Xưởng Pha Màu, xưởng Dầu Bóng khi xử lý hàng tồn/tái chế không sử dụng với các loại sơn NC và PU.
+
+**2. HƯỚNG DẪN SỬ DỤNG LÓT PU PC FD**
+
+*   **Tên sản phẩm:** Lót PU PC FD
+*   **Tỷ lệ pha và cách pha loãng:**
+    *   **Tỷ lệ pha:** 2 phần lót PU PC FD - 1 phần cứng PU 0723 – 2 phần dung môi PU lót
+    *   **Cách pha:** Pha lót và dung môi khuấy đều, sau đó cho cứng vào và khuấy đều lại trước khi sử dụng.
+*   **Độ nhớt:** 12-13 giây, cup NK2.
+*   **Đặc tính:**
+    *   Loại sơn sử dụng cho dòng hàng trong nhà.
+    *   Sơn nhanh khô, độ phủ cao.
+    *   Mức tăng độ nhớt theo thời gian: tăng 2 giây sau 1 giờ, 4-5 giây sau 2 giờ.
+*   **Quy định sau khi pha loãng:**
+    *   Hỗn hợp lót đã pha loãng dung môi và cứng: chỉ sử dụng trong thời gian tối đa **2 giờ**.
+    *   Không nên phun 2 lần lót cho dù phun 1 patt hay 2 patts.
+
+**3. HƯỚNG DẪN SỬ DỤNG PHỤ GIA CHÀ NHÁM: PHỤ GIA CN M1/23**
+
+*   **Tên sản phẩm:** Phụ gia CN M1/23
+*   **Mục đích:** Tăng thời gian khô của lót màu nhanh hơn.
+*   **Cách sử dụng:**
+    *   Pha tối đa **20%** phụ gia vào sơn lót hoặc sơn lót màu (chưa pha loãng), khuấy kỹ.
+    *   Yêu cầu chỉnh lại độ nhớt cho phù hợp với điều kiện sản xuất thực tế tại khách hàng.
+    *   Sau khi pha loãng dung môi và cứng (nếu có), sử dụng trong thời gian **4 giờ**, thường xuyên khuấy trong khi sử dụng.
+
+**4. HƯỚNG DẪN SỬ DỤNG PHỤ GIA TĂNG BÁM: HỖN HỢP PHỤ GIA 08/22**
+
+*   **Tên sản phẩm:** Hỗn hợp phụ gia 08/22.
+*   **Mục đích:** Tăng độ bám dính giữa các lớp sơn với nhau.
+*   **Cách sử dụng:**
+    *   Trong sơn lót hoặc lót màu NC, PU: sử dụng tối đa **10%**.
+    *   Trong sơn bóng hoặc sơn màu NC: sử dụng tối đa **5%**.
+*   **Các lưu ý:**
+    *   Phụ gia tăng bám khi sử dụng trong sơn sẽ làm **chậm khô hơn**. Cần kiểm soát thời gian khô để đảm bảo các chỉ tiêu như thời gian chà nhám (đối với sơn lót), thời gian đóng gói (sơn bóng) tùy theo độ nhớt, màu sắc, độ dày màng sơn khi sử dụng thực tế.
+    *   Phụ gia tăng bám làm màng sơn chậm khô nên **chậm ổn định độ bóng**.
+
+**5. HƯỚNG DẪN SỬ DỤNG RETARDER VÀ DUNG MÔI SP**
+
+*   **Mục đích sử dụng:** Làm giảm hiện tượng mốc sơn do ảnh hưởng của thời tiết.
+*   **Tên sản phẩm và cách sử dụng:**
+    *   **RETARDER:**
+        *   Trong sơn lót hoặc sơn lót màu: pha tối đa **7%** vào hỗn hợp sơn lót hoặc lót màu đã pha sẵn dung môi và cứng (nếu có).
+        *   Trong sơn bóng hoặc sơn màu: pha tối đa **5%** vào hỗn hợp sơn bóng hoặc sơn màu đã pha sẵn dung môi và cứng (nếu có).
+    *   **Dung môi SP:**
+        *   Trong sơn lót hoặc sơn lót màu: pha tối đa **7%** vào hỗn hợp sơn lót hoặc lót màu đã pha sẵn dung môi và cứng (nếu có).
+        *   Trong sơn bóng hoặc sơn màu: pha tối đa **5%** vào hỗn hợp sơn bóng hoặc sơn màu đã pha sẵn dung môi và cứng (nếu có).
+*   **Điều kiện môi trường phải sử dụng:**
+    *   **Trời nắng nóng:** nhiệt độ ≥ 35°C, độ ẩm ≤ 60%.
+    *   **Trời mưa ẩm:** nhiệt độ ≤ 28°C, độ ẩm ≥ 65%.
+*   **Các lưu ý:**
+    *   Tùy theo độ nhớt, màu sắc, độ dày màng sơn khi sử dụng thực tế cần thử nghiệm lượng sử dụng để đảm bảo các chỉ tiêu: thời gian chà nhám (đối với sơn lót), thời gian đóng gói (sơn bóng).
+    *   Dung môi SP và Retarder làm màng sơn **chậm khô** nên thời gian ổn định độ bóng sẽ chậm.
+    *   Trong trường hợp thời tiết quá cực đoan (độ ẩm quá cao hoặc nhiệt độ quá cao) cần báo khách hàng tạm ngưng sản xuất hoặc bật lò sấy nếu có.
+
+**6. QUY TRÌNH THỰC HIỆN NHÚNG DẦU OBT 0124/2K**
+
+*   **Lưu ý chung:** Gỗ cần được xử lý nhám và các khuyết tật bề mặt trước khi nhúng dầu.
+*   **Bước 1: Nhúng dầu OBT 0124/2K (lần 1)**
+    *   **Tỷ lệ pha chế:** 10 phần dầu nhúng OBT 0124/2K / 5 phần dung môi PU TXXT / 2 phần phụ gia SP3.
+    *   Nhúng ngập sản phẩm vào hỗn hợp dầu đã pha trong 1-2 phút, vớt ra hong phơi (không chồng lên nhau) 1-2 giờ.
+    *   Chà nhám bề mặt bằng giấy nhám #320, #400, #600.
+*   **Bước 2: Nhúng dầu OBT 0124/2K (lần 2)**
+    *   **Tỷ lệ pha chế:** 10 phần dầu nhúng OBT 0124/2K / 5 phần dung môi PU TXXT / 2 phần phụ gia SP3.
+    *   Nhúng ngập sản phẩm vào hỗn hợp dầu đã pha trong 1-2 phút, vớt ra hong phơi (không chồng lên nhau) 2-4 giờ.
+    *   Vuốt nhám nhẹ bề mặt bằng giấy nhám #600 (nhám cũ, hoặc giấy nhám mòn).
+*   **Bước 3: Nhúng dầu OBT 0124/2K (lần 3 – hoặc có thể lau bằng vải)**
+    *   **Tỷ lệ pha chế:** 10 phần dầu nhúng OBT 0124/2K / 5 phần dung môi PU TXXT / 2 phần phụ gia SP3.
+    *   Nhúng ngập sản phẩm vào hỗn hợp dầu đã pha trong 1-2 phút, vớt ra hong phơi (không chồng lên nhau).
+    *   Hong phơi, để khô sau 24 giờ - kiểm tra bề mặt sản phẩm đạt, đóng gói.
+*   **Các lưu ý quan trọng:**
+    *   Pha chế lượng dầu OBT 0124/2K phù hợp với ca làm việc (khoảng **4 giờ**).
+    *   Trong quá trình hong phơi sản phẩm (sau mỗi lần nhúng dầu) không chồng chất sản phẩm kín lại với nhau (tránh bị dính).
+    *   Các loại hóa chất, Dầu, phụ gia, dung môi sau khi mở nắp dùng để pha chế phải đống lại ngay tránh bay hơi, hư.
+
+**7. NHỰA STAIN BT 24**
+
+*   **Công dụng:** Giúp màu stain sáng và trong hơn, tăng cường độ bám dính và cải thiện độ phủ.
+*   **Tỷ lệ pha:** Thường được pha vào hỗn hợp màu với tỷ lệ từ **10 đến 20%**, tùy thuộc vào đánh giá của kỹ thuật viên để đạt hiệu quả tốt nhất.
+*   **Đặc điểm:**
+    *   Pha nhiều nhựa stain BT 24 có thể dẫn đến **tăng độ bóng và kéo dài thời gian đóng gói**.
+    *   Nếu phun stain trực tiếp lên bề mặt gỗ, màu sẽ **thấm kém hoặc chạy ghim gỗ**.
