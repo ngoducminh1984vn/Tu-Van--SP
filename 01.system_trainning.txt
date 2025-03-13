@@ -1966,3 +1966,66 @@ Vàng BT: Được ghi chú là "Màu giá cao".
 Xanh lá 520K: Có ghi chú "Sử dụng 50-50 với xanh lá GT".
 •
 Xanh dương Blue: Có ghi chú "Sử dụng 50-50 với xanh dương 4GA".
+
+Các nguồn cung cấp thông tin về các loại màu Pigment như sau:
+
+Các màu Pigment được phân loại theo công dụng chính: **Sơn màu**, **Stain màu ngoài trời**, và **Dầu màu ngoài trời**.
+
+**Các màu Pigment dùng cho Sơn màu:**
+
+*   **Vàng cam 2RA** - Màu đắt tiền.
+*   **Vàng YS618 (1-1) DM** - Đa dụng (lót màu, sơn màu).
+*   **Vàng YZ2288 (1-1)DM** - Đa dụng (lót màu, sơn màu).
+*   **Vàng 7415C (1-0.5)DM** - Chỉ sử dụng trong sơn PU. Đa dụng (lót màu, sơn màu).
+*   **Đỏ super (1-2)DM** - Màu đắt tiền.
+*   **Đỏ new super (1-2)DM** - Màu đắt tiền.
+*   **Đỏ RS718 (1-1)DM** - Đa dụng (lót màu, sơn màu).
+*   **Đỏ F3RK (1-0.5)DM** - Đa dụng (lót màu, sơn màu).
+*   **Đỏ RO4597 (1-1)DM** - Đa dụng (lót màu, sơn màu).
+*   **Đen BT M100S(1-0.5)DM** - Tối đa 5% trong sơn đặc. Đa dụng (lót màu, sơn màu).
+*   **Đen TCL3 (1-2)DM** - Tối đa 5% trong sơn đặc. Đa dụng (lót màu, sơn màu).
+*   **Đen TC1402 (1-7)DM** - Đa dụng (lót màu, sơn màu).
+*   **Xanh lá GT** - Đa dụng (lót màu, sơn màu).
+*   **Xanh dương 4GA** - Đa dụng (lót màu, sơn màu).
+*   **Nâu BS1008 (1-1)DM** - Đa dụng (lót màu, sơn màu).
+*   **Nâu BU5511 (1-1)DM** - Đa dụng (lót màu, sơn màu).
+*   **Hồng Magenta PS38(1-3)DM** - Sử dụng tối đa 3% và thêm 3-5% phụ gia UV vào do độ bền màu rất yếu.
+*   **Giant Rose (1-2)DM** - Màu đắt tiền.
+*   **Giant Blue (1-2)DM** - Màu đắt tiền.
+*   **Stain K25 trắng** - Chỉ sử dụng trong sơn màu hệ NC, PU; Khối lượng sử dụng: tối đa 20%.
+*   **Paste 59 trắng** - Chỉ sử dụng trong sơn màu hệ PU; Khối lượng sử dụng: tối đa 20%.
+
+**Các màu Pigment dùng cho Stain màu ngoài trời:**
+
+*   **Vàng YS618 (1-1) DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Vàng YZ2288 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Vàng YB87 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi. Màu lắng dày + mềm: khuấy kỹ trước khi sử dụng.
+*   **Đỏ RS718 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Đỏ F3RK (1-0.5)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Đỏ RO4597 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Đỏ RB97 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi. Màu lắng dày + mềm: khuấy kỹ trước khi sử dụng.
+*   **Đỏ R250 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi. Màu lắng dày + mềm: khuấy kỹ trước khi sử dụng.
+*   **Đen BT M100S(1-0.5)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Đen TCL3 (1-2)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Đen TC1402 (-7)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Nâu BS1008 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Nâu BU5511 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Nâu BR78 (1-1)DM** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Stain NC trắng** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+*   **Stain K25 trắng** - Sử dụng trong hỗn hợp nhựa stain SP 3010 new đã pha dung môi SBM tỷ lệ 1-2.5 đến 3. % tinh màu tối đa: 10% trong hỗn hợp nhựa stain và dung môi.
+
+**Các màu Pigment dùng cho Dầu màu ngoài trời:**
+
+*   **Vàng YP618 (1-1) PE**.
+*   **Vàng YZ2288 (1-1)PE**.
+*   **Đỏ RP718 (1-1)PE**.
+*   **Đỏ F3RK (1-0.5)PE**.
+*   **Đỏ RO4597 (1-1)PE**.
+*   **Đen PB1012 (1-2)PE**.
+*   **Đen PB1012 (1-6)PE**.
+*   **Nâu BP1008 (1-1)PE**.
+*   **Nâu BU5511 (1-1)PE**.
+*   **Nâu BU 5512 (1-1)PE**.
+*   **Stain WOD trắng**.
+
+Lưu ý rằng các mã màu có đuôi "(1-... )DM" hoặc "(1-... )PE" thường chỉ tỷ lệ pha với dung môi, tuy nhiên thông tin chi tiết về dung môi cụ thể có thể khác nhau tùy thuộc vào loại Pigment và mục đích sử dụng. Đối với Stain màu ngoài trời, thường được pha với hỗn hợp nhựa stain SP 3010 new và dung môi SBM theo tỷ lệ 1-2.5 đến 3, với tỷ lệ tinh màu tối đa là 10%.
