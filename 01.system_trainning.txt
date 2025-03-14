@@ -263,6 +263,50 @@ ________________________________________
 ✔ Duy trì quy trình thi công ổn định
 
 
+Dưới đây là danh sách các màu Pigment : 
+
+*   **Vàng cam 2RA**
+*   **Vàng YS618 (1-1) DM**
+*   **Vàng YZ2288 (1-1)DM**
+*   **Vàng 7415C (1-0.5)DM**
+*   **Đỏ super ( 1-2)DM**
+*   **Đỏ new super (1-2)DM**
+*   **Đỏ RS718 (1-1)DM**
+*   **Đỏ F3RK (1-0.5)DM**
+*   **Đỏ RO4597 (1-1)DM**
+*   **Đen BT M100S(1-0.5)DM**
+*   **Đen TCL3 (1-2)DM**
+*   **Đen TC1402 (1-7)DM**
+*   **Xanh lá GT**
+*   **Xanh dương 4GA**
+*   **Nâu BS1008 (1-1)DM**
+*   **Nâu BU5511 (1-1)DM**
+*   **Hồng Magenta PS38(1-3)DM**
+*   **Giant Rose (1-2)DM**
+*   **Giant Blue (1-2)DM**
+*   **Stain K25 trắng**
+*   **Paste 59 trắng**
+*   **Vàng YB87 (1-1)DM**
+*   **Đỏ RB97 (1-1)DM**
+*   **Đỏ R250 (1-1)DM**
+*   **Nâu BR78 (1-1)DM**
+*   **Stain NC trắng**
+*   **Vàng YP618 (1-1) PE**
+*   **Vàng YZ2288 (1-1)PE**
+*   **Đỏ RP718 (1-1)PE**
+*   **Đỏ F3RK (1-0.5)PE**
+*   **Đỏ RO4597 (1-1)PE**
+*   **Đen PB1012 (1-2)PE**
+*   **Đen PB1012 (1-6)PE**
+*   **Nâu BP1008 (1-1)PE**
+*   **Nâu BU5511 (1-1)PE**
+*   **Nâu BU 5512 (1-1)PE**
+*   **Stain WOD trắng**
+
+Các màu Dye Pad Stain:Vàng Y57,Đỏ R95,Đen B51
+ màu Dye Stain:Vàng 412
+Vàng cam 210K,Vàng BT,Đỏ VM 334,Đỏ BT,Đen 821,Đen K (1-10),Đen BT,Xanh lá 520K,Xanh dương Blue
+
 
 
 
