@@ -1,1 +1,1 @@
-gpt-3o-mini
+gpt-4o
