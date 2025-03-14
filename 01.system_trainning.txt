@@ -314,41 +314,26 @@ các màu Pigment được liệt kê :
 *   **Nâu BU 5512 (1-1)PE** - Pigment
 *   **Stain WOD trắng** - Pigment
  
-Pha màu : Các màu che phủ hoặc màu bóng, tuyệt đối không dùng các loại màu Dye để Pha . 
-•	Stain màu UV: 
-o	Là dạng màu UV pha loãng, có cường độ màu rất cao, dùng để cán trên nền gỗ tự nhiên làm nổi bật vân gỗ.
-o	Thường sử dụng BTUV 2810 sealer hoặc 2008 sealer, pha từ 10 đến 20% tinh màu, sau đó cho 20 đến 30% dung môi 1007 (hoặc dung môi PU bóng).
-o	Lưu ý, cán với trục mềm hoặc trục xốp sẽ cho hiệu quả cao.
-o	Cần kiểm tra với mẫu công đoạn thường xuyên để điều chỉnh độ nhớt và máy cán cho phù hợp.
-o	Khi đã cán lót màu UV (màu thấy nền gỗ), Nếu cần phun dặm màu, sửa màu bằng cách pha màu với sơn NC PAK  (cho 5 đến 7% sơn NC PAK  vào hỗn hợp màu), sau đó có thể cán chồng tiếp lớp lót UV để sơn không bị tách lớp màu.
-•	Cán UV màu: 
-o	Độ che của sơn UV kém hơn sơn PU. Mỗi lớp sơn UV màu cần cán từ 30 đến 35g/m2. Để đạt độ che nền tương đương một lần phun PU, cần cán UV 2 lớp, tương đương 60-70g/m2 (1 kg sơn màu UV che phủ được 14 m2).
-o	Độ phủ (khả năng làm phẳng mặt gỗ, lấp gim gỗ) là ưu điểm của sơn UV do sơn nhanh khô, không thấm xuống gỗ/nền.
-o	Khi sử dụng toàn bộ sơn UV (từ lót đến bóng), nên chia nhỏ công đoạn. Cùng một loại màu, cán 5 lần sẽ cho độ cứng, độ bám cao hơn cán 2 lần, bề mặt đẹp hơn và dễ kiểm soát hơn.
-o	Đối với việc lăn màu UV. Cần tuân thủ chặc chẽ màu sơn từ lớp đầu tiên đến lớp cuối cùng. Nếu màu sắc các lớp dưới bị sai thì lớp màu cuối sẽ rất khó điều chỉnh để đạt màu và độ mịn như mẫu .  Do đó,việc cán màu UV phải giám sát chặt chẽ ở từng bước cán.
+Dưới đây là các qui định khi pha màu UV và các thông tin liên quan đến UV màu được trích từ nguồn bạn cung cấp:
 
-•	Độ bám: 
-o	Độ bám sơn UV yếu hơn nhiều so với các loại sơn khác do sơn UV khô tức thì sau khi cán và chiếu đèn, không thấm rút xuống ghim gỗ.
-o	Độ bám phụ thuộc lớn vào độ khô của sơn. Nếu lớp sơn quá dày hoặc đèn UV quá yếu, tia UV không chiếu xuyên qua được lớp sơn màu, mặt dưới lớp sơn sẽ không khô, gây tróc sơn.
-o	Đối với nền gỗ mềm, sau khi kẻ caro và dán băng keo, nếu dùng vật cứng hoặc móng tay cứng đè/miết mạnh sẽ làm biến dạng bề mặt gỗ khiến chân sơn bật lên, kết quả kiểm tra sẽ kém.
-o	Khi lớp sơn bám kém, cần xả nhám sạt xuống gần phẳng nền rồi phun lót PU.
-o	Đối với gỗ có nhiều dầu, nếu sử dụng 2011HP không hiệu quả, thì dùng loại sơn UV đang sử dụng pha với phụ gia PG1608 tỉ lệ 5%-7% (10kg sơn cho 500-700g phụ gia), dung dịch pha xài được từ 5-6 giờ.
-•	Pha màu: 
-o	Có thể sử dụng các loại màu của hệ sơn dung môi để pha màu.
-o	Pha màu trong, thấy nền: pha với sơn BTUV 2011 sealer.
-o	Pha màu trong, sáng nền, độ trong cao: BTUV 2810 Sealer.
-o	Pha màu che phủ: pha với sơn BTUV 1115 white sealer.
-o	Không pha với màu hệ dầu.
-o	Tổng lượng màu trong công thức không vượt quá 12% khối lượng.
-o	Màu đen và màu trắng phải dùng đúng hệ UV.
-o	Khi pha màu với các hóa chất/sơn UV khác, cần hỏi lại người có chuyên môn.
-
-•	Sử dụng UV100: 
-o	Khi máy sấy UV không thể điều chỉnh giảm cường độ đèn sấy, dẫn đến màng sơn bị giòn hoặc độ liên kết giữa các lớp lót yếu, dùng UV 100 pha vào từ 2% đến 5% để giảm độ giòn của màng sơn, nhưng cho quá nhiều sẽ tróc sơn.
-o	Khi lớp sơn lót quá cứng, lớp bóng hoặc lớp lót tiếp theo không thể bám, gây tách lớp, dùng UV 100 pha 2%-5% vào lót/bóng để tạo độ bám, giảm tách lớp. Lưu ý khi pha vào bóng sẽ làm tăng độ bóng.
-•	Lưu ý sử dụng sơn tại máy cán trục: 
-o	Với các loại sơn nhanh khô (sơn bóng mờ) và sơn màu, không nên để thùng 20kg vào máy chạy, mà đổ qua từng 7kg đến 10 kg để chạy, khi nào chạy hết sẽ châm thêm để tránh sơn đặc gây sai màu, sai độ bóng, ảnh hưởng độ bám.
-o	Khi sơn đặc, có thể dùng dung môi 1007 để pha (10kg pha 300-600g dung môi), nếu không có 1007, có thể lấy dung môi PU (lót) để châm.
+*   **Stain màu UV là dạng màu UV pha loãng, có cường độ màu rất cao, để cán trên nền gỗ tự nhiên làm nổi bật vân gỗ** (liên quan đến UV màu). Thường sử dụng BTUV 2810 sealer hoặc 2008 sealer, pha từ 10 đến 20% tinh màu, sau đó cho 20 đến 30% dung môi 1007 (hoạc dung môi PU bóng) (qui định khi pha màu UV). Lưu ý, cán với trục mềm hoặc trục xốp sẽ cho hiệu quả cao (liên quan đến UV màu). Cần kiểm tra với mẫu công đoạn thường xuyên để điều chỉnh độ nhớt và máy cán cho phù hợp khi cán phương pháp này (liên quan đến UV màu).
+*   Trong trường hợp đã cán lót màu UV (màu thấy nền gỗ), cần phun dặm màu, sửa màu bằng cách pha màu với sơn bóng PAK 808 (cho 5 đến 7% PAK vào hỗn hợp màu) (qui định khi pha màu UV và liên quan đến UV màu). Sau đó có thể cán chồng tiếp lớp lót UV để sơn không bị tách lớp màu (liên quan đến UV màu).
+*   **Mỗi lớp sơn UV có khả năng che nền kém hơn mỗi lớp sơn PU** (liên quan đến UV màu) vì khi sơn UV có màu, không thể cán quá dày, màu sẽ che, không cho tia UV đi xuyên qua, làm sơn không khô được (liên quan đến UV màu).
+*   Tính trung bình, mỗi lớp phun PU màu có độ che bằng 2 đến 3 lần cán UV (liên quan đến UV màu). Do vậy, cần lưu ý khi tính định lượng cho sơn UV màu (liên quan đến UV màu).
+*   Mỗi lớp cán UV màu từ 30 đến 35g/m2 hoặc so soánh  voi mẫu công doan  (liên quan đến UV màu). Để đạt độ che nền tương đương một lần phun PU, cần khoảng 2 lớp cán UV màu, tương ứng định mức 60 đến 70 g/m2 (tức là mỗi kg sơn màu UV che phủ được 14 m2) (liên quan đến UV màu). So với sơn PU, mỗi lớp sơn che được từ 3 đến 4 m2/kg (liên quan đến UV màu).
+*   Màu sắc cho sơn UV (chỉ nói màu che phủ) khác so với PU hay NC (liên quan đến UV màu). Với sơn UV, do độ che kém, nên việc lên màu phải đi từ lớp màu đầu tiên đến lớp màu cuối cùng (liên quan đến UV màu). Màu của mẫu cần sơn được xây dựng từ tất cả các lớp cán màu chứ không phụ thuộc vào lớp nào (liên quan đến UV màu). Nếu bất cứ lớp nào cán bị sai (sai màu, sai định lượng...) đều sẽ làm sai màu ở công đoạn hoàn thiện (liên quan đến UV màu).
+*   Độ bám của sơn UV màu phụ thuộc lớn vào độ khô của sơn (liên quan đến UV màu). Nếu lớp sơn quá dày hoặc đèn UV quá yếu, tia UV không chiếu xuyên qua được lớp sơn màu, mặt dưới lớp sơn sẽ không khô, gây tróc sơn (liên quan đến UV màu).
+*   Có thể sử dụng các loại màu của hệ sơn dung môi để pha màu cho sơn UV (qui định khi pha màu UV).
+*   **Pha màu trong, thấy nền:** pha với sơn BTUV 2011 sealer/ 2008 sealer (qui định khi pha màu UV).
+*   **Pha màu trong, sáng nền, độ trong cao:** BTUV 2810 Sealer (qui định khi pha màu UV).
+*   **Pha màu che phủ:** pha với sơn BTUV 2222 white sealer (qui định khi pha màu UV).
+*   Có thể pha màu với sơn 2008, rồi pha loãng để làm màu lau, bã bột màu, 
+*   **Không pha với màu hệ dầu( PE)** (qui định khi pha màu UV).
+*   **Tổng lượng màu trong công thức không vượt quá 12% khối lượng** (qui định khi pha màu UV).
+*   **Riêng màu đen và màu trắng, phải dùng đúng hệ UV** (qui định khi pha màu UV).
+*   Khi pha màu với các hóa chất/sơn UV khác với các loại kể trên, cần hỏi lại người có chuyên môn (qui định khi pha màu UV).
+*   Với các loại sơn nhanh khô (sơn bóng mờ) và sơn màu, không nên để thùng 20kg vào máy chạy, nên đổ qua từng 7kg đến 10 kg để chạy, khi nào chạy hết sẽ châm thêm để tránh sơn đặc gây sai màu (liên quan đến UV màu).
+*   Khi sơn màu UV đặc, có thể dùng dung môi 1007 để pha (10kg pha 300-600g dung môi), nếu không có 1007, có thể lấy dung môi PU (lót) để châm (qui định khi pha màu UV và liên quan đến UV màu).
 
 màu Dye 
 *   **Vàng Y57** màu Dye
