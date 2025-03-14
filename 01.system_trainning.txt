@@ -98,7 +98,6 @@ Các loại sơn UV phun chân không
 •	BT UV 1406 V TOPCOAT 25%: Sơn phun chân không bóng 25 tự nhiên, IKEA , sơn cạnh
 •	BT UV 0806 WV SEALER-DN (HP): sơn lót UV trắng phun chân không.sơn cạnh
 •	BT UV 0806 WV SEALER (DM): lót UV trắng phun chân không có độ nhớt thấp.sơn cạnh
-•	BT UV 1405 VACUUM TOPCOAT 05%: Bóng UV chân không tự nhiên 30%.sơn cạnh
 •	BT UV 1405 VACUUM TOPCOAT 10%: Sơn bóng UV phun chân không 5%.
 •	BT UV 2106 V SEALER: sơn phun chân không, lót tự nhiên, độ nhớt thấp.sơn cạnh
 •	BT UV 2105 V SEALER : sơn phun chân không, lót tự nhiên,sơn cạnh
@@ -136,7 +135,6 @@ Xanh Dương	Tím (Xanh Dương + Đỏ)	Xanh Dương-Tím (Xanh Dương + Tím)
 		Xanh Dương-Xanh Lá (Xanh Dương + Xanh Lá)
 		Vàng-Xanh Lá (Vàng + Xanh Lá)
  
-
 
 
 2-Định Nghĩa Các Khái Niệm Trong Màu Sắc
