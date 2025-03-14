@@ -92,7 +92,7 @@ Các loại sơn phủ UV (Topcoat) trắng
 •	BT UV 2009 W TOPCOAT 10%: sơn UV trắng lăn trục, có độ che phủ cao, bóng 10 (có OCB)
 Các loại sơn phủ UV (Topcoat) chậm ngã vàng 
 •	BT UV 2407 TOPCOAT 20% PHT: Sơn bóng UV chậm ngã vàng
-•	BT UV SPR 1606 TOPCOAT: Sơn phun, chống ngã vàng
+•	BT UV SPR 1606 TOPCOAT: Sơn phun, chậm  ngã vàng ( phủ trên nền gốm, gỗ...)
 •	BT UV SPR 1609 TOPCOAT: sơn bóng, chậm ngã vàng, bám dính trên nền xi mạ, kim loại
 Các loại sơn UV phun chân không
 •	BT UV 1406 V TOPCOAT 25%: Sơn phun chân không bóng 25 tự nhiên, IKEA
@@ -141,13 +141,6 @@ Xanh Dương	Tím (Xanh Dương + Đỏ)	Xanh Dương-Tím (Xanh Dương + Tím)
 
 
 
-
-
-
-
-
-
-
 2-Định Nghĩa Các Khái Niệm Trong Màu Sắc
 Thuật ngữ	Định nghĩa
 Màu cơ bản	Những màu không thể tạo ra bằng cách pha trộn các màu khác (Đỏ, Vàng, Xanh Dương)
@@ -164,44 +157,6 @@ Triadic	Kết hợp ba màu cách đều nhau trên bánh xe màu
 Tetrad	Kết hợp bốn màu cách đều nhau trên bánh xe màu
 
 
-
-
-
-
-
-
-
-Chuyên đề 2 : Cách Phân Tích Màu Bị Chồng, Lệch Tông và Cách Pha Màu Cân Bằng Lại
-________________________________________
-I. XÁC ĐỊNH NGUYÊN NHÂN MÀU BỊ LỆCH
-Trước khi xử lý màu bị lệch, cần xác định nguyên nhân gây ra sự sai khác. Dưới đây là một số yếu tố ảnh hưởng:
-1️-Nguyên nhân vật liệu nền gỗ
-📌 Loại gỗ khác nhau có khả năng hấp thụ màu khác nhau
-•	Gỗ mềm (thông, sồi, cao su, tần bì): Hút màu nhanh, dễ lên màu sáng.
-•	Gỗ cứng (gõ đỏ, óc chó, teak, lim): Hút màu chậm, dễ bị ám tông tối.
-•	Gỗ có vân lớn (ash, oak, teak): Dễ bị sọc màu hoặc loang màu.
-📌 Gỗ có độ ẩm cao hoặc chưa xử lý bề mặt tốt
-•	Gỗ quá ẩm → Màu lên không đều, bị ám xanh.
-•	Chà nhám không đều → Màu chồng lớp không đồng nhất, bị loang.
-📌 Gỗ có nhựa (Teak, Óc chó, Gõ đỏ, Căm xe)
-•	Nhựa gỗ làm thay đổi sắc độ, gây ám vàng hoặc ám đỏ.
-📌 Sự khác biệt giữa từng lô gỗ
-•	Một lô gỗ có thể có sự chênh lệch về màu sắc tự nhiên, dẫn đến màu nhuộm không đồng nhất.
-________________________________________
-2️-Nguyên nhân từ hệ màu nhuộm và sơn phủ
-📌 Sai lệch trong hệ màu nền (Stain/Nhuộm)
-•	Bị quá đỏ → Thiếu màu xanh lá để cân bằng.
-•	Bị quá vàng → Thiếu màu tím để trung hòa.
-•	Bị quá tối hoặc quá sáng → Cần điều chỉnh sắc độ bằng cách thay đổi nồng độ màu hoặc thêm màu phụ trợ.
-📌 Màu bị "chồng" khi sơn nhiều lớp không đúng kỹ thuật
-•	Nếu lớp màu dưới chưa khô hoàn toàn, lớp phủ tiếp theo có thể làm màu bị biến tông hoặc xỉn màu.
-•	Khi phủ sơn bóng, màu nhuộm có thể bị nổi tông mạnh hơn so với khi còn ướt.
-📌 Dùng sai loại sơn lót
-•	Sơn lót có sắc độ vàng có thể làm nền gỗ bị ám màu.
-•	Nếu sơn lót hấp thụ màu nhuộm không đều → Bề mặt bị loang.
-________________________________________
-II. CÁCH PHÂN TÍCH MÀU BỊ CHỒNG & LỆCH TÔNG
-Sau khi xác định nguyên nhân, cần phân tích chính xác màu đang lệch về hướng nào để cân bằng lại.
 1️-Dùng Vòng Tròn Màu Để Xử Lý Màu Bị Lệch
 Vòng tròn màu giúp nhận diện và cân bằng lại màu sai lệch bằng màu đối nghịch (complementary color).
 🔴 Nếu màu bị quá đỏ → Thêm màu xanh lá để trung hòa.
