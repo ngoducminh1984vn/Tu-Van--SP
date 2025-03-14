@@ -18,33 +18,61 @@ Các loại sơn lót UV tự nhiên  được liệt kê trong các nguồn bao
 •	BT UV 2011 HP SEALER: Lót UV ngăn dầu cho các loại gỗ nhiều dầu như gỗ thông, gỗ tràm…
 •	BT UV 2008 SEALER: sơn lót UV tự nhiên giá rẻ, độ nhớt cao
 Các loại sơn phủ UV (Topcoat) tự nhiên : 
-•	BT UV 2407 HM TOPCOAT 60% BC: sơn bóng có BC cho Hàng ỊKEA
-•	BT UV SPR 1010 TOPCLEAR: Sơn phun UV bóng
-•	BT UV SPR 1010 TOPMATT: Sơn UV phun bóng mờ
-•	BT UV 1406 V TOPCOAT 25%: Sơn phun chân không bóng 25 tự nhiên IKEA
-•	BT UV 0609 TOPCOAT PHT: Sơn Bóng UV lăn trục: độ cứng cao, giá rẻ
-•	BT UV 0510 TOPCOAT Sơn bóng UV lăn trục cho ván sàn
-•	BT UV 2406 HM TOPCOAT 20%-BC: Sơn bóng UV tự nhiên lăn trục Better Carbon (cho màu trắng)
-•	BT UV 1405 HM TOPCOAT 5%: Sơn bóng UV tự nhiên lăn trục Better Carbon (cho màu đen)
-•	BT UV 007121-17/05: sơn bóng gương lăn trục (ngã vàng)
-•	BT UV 1405 HM TOPCOAT 5%-BC: Bóng UV mờ bản đen Better carbon
-•	BT UV HH TOPCOAT (NG): sơn OPV
-•	BT UV 1405 HM TOPCOAT 20%: Bóng UV mờ bản trắng Better carbon 20%
-•	BT UV 0709 TOPCOAT CLEAR: Sơn bóng sáng để điều chỉnh độ bóng cho sơn phun
-•	BT UV 0510 TOPCOAT HL. 70%: Sơn bóng UV lăn trục 70 chống xước
-•	BT UV 0609 TOPCOAT PHT-Clear: Sơn bóng UV lăn trục tự nhiên bóng sáng
-•	BT UV 2407 HM TOPCOAT 60%: Sơ bóng UV tự nhiên lăn trục bản trắng
-•	BT UV 1405 VACUUM TOPCOAT 10%: Sơn bóng UV phun chân không 5%
-•	BT UV 2407 TOPCOAT 20% PHT: Sơn bóng UV chậm ngã vàng
-•	BT UV 0510 TOPCOAT 50%: Bóng UV ván sàn
-•	BT UV 2407 TOPCOAT Bóng UV tự nhiên chậm ngã vàng
-•	BT UV 0510 TOPCOAT 5-10%: Bóng UV ván sàn
-•	BT UV SPR 1810 TOPCOAT (HGSS): sơn bóng phun (hayabusa)
-•	BT UV 0609 TOPCOAT 30%
-•	BT UV SPR 1606 TOPCOAT Sơn phun, chống ngã vàng
-•	BT UV SPR 1609 TOPCOAT sơn bóng, chậm ngã vàng, bám dính trên nền xi mạ, kim loại
-•	BT UV VS 0510-50% sơn ván sàn chống mài mòn
-•	BT UV VS 0510-80%
+•	BT UV 2407 HM TOPCOAT 60% BC: sơn bóng có BC cho Hàng ỊKEA sơn phủ UV
+
+BT UV SPR 1010 TOPCLEAR: Sơn phun UV bóng sơn phủ UV
+
+BT UV SPR 1010 TOPMATT: Sơn UV phun bóng mờ sơn phủ UV
+
+BT UV 1406 V TOPCOAT 25%: Sơn phun chân không bóng 25 tự nhiên IKEA sơn phủ UV
+
+BT UV 0609 TOPCOAT PHT: Sơn Bóng UV lăn trục: độ cứng cao, giá rẻ sơn phủ UV
+
+BT UV 0510 TOPCOAT Sơn bóng UV lăn trục cho ván sàn sơn phủ UV
+
+BT UV 2406 HM TOPCOAT 20%-BC: Sơn bóng UV tự nhiên lăn trục Better Carbon (cho màu trắng) sơn phủ UV
+
+BT UV 1405 HM TOPCOAT 5%: Sơn bóng UV tự nhiên lăn trục Better Carbon (cho màu đen) sơn phủ UV
+
+BT UV 007121-17/05: sơn bóng gương lăn trục (ngã vàng) sơn phủ UV
+
+BT UV 1405 HM TOPCOAT 5%-BC: Bóng UV mờ bản đen Better carbon sơn phủ UV
+
+BT UV HH TOPCOAT (NG): sơn OPV sơn phủ UV
+
+BT UV 1405 HM TOPCOAT 20%: Bóng UV mờ bản trắng Better carbon 20% sơn phủ UV
+
+BT UV 0709 TOPCOAT CLEAR: Sơn bóng sáng để điều chỉnh độ bóng cho sơn phun sơn phủ UV
+
+BT UV 0510 TOPCOAT HL. 70%: Sơn bóng UV lăn trục 70 chống xước sơn phủ UV
+
+BT UV 0609 TOPCOAT PHT-Clear: Sơn bóng UV lăn trục tự nhiên bóng sáng sơn phủ UV
+
+BT UV 2407 HM TOPCOAT 60%: Sơ bóng UV tự nhiên lăn trục bản trắng sơn phủ UV
+
+BT UV 1405 VACUUM TOPCOAT 10%: Sơn bóng UV phun chân không 5% sơn phủ UV
+
+BT UV 2407 TOPCOAT 20% PHT: Sơn bóng UV chậm ngã vàng sơn phủ UV
+
+BT UV 0510 TOPCOAT 50%: Bóng UV ván sàn sơn phủ UV
+
+BT UV 2407 TOPCOAT Bóng UV tự nhiên chậm ngã vàng sơn phủ UV
+
+BT UV 0510 TOPCOAT 5-10%: Bóng UV ván sàn sơn phủ UV
+
+BT UV SPR 1810 TOPCOAT (HGSS): sơn bóng phun (hayabusa) sơn phủ UV
+
+BT UV 0609 TOPCOAT 30% sơn phủ UV
+
+BT UV SPR 1606 TOPCOAT Sơn phun, chống ngã vàng sơn phủ UV
+
+BT UV SPR 1609 TOPCOAT sơn bóng, chậm ngã vàng, bám dính trên nền xi mạ, kim loại sơn phủ UV
+
+BT UV VS 0510-50% sơn ván sàn chống mài mòn sơn phủ UV
+
+BT UV VS 0510-80% sơn phủ UV
+
+
 
 
 
