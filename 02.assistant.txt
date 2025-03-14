@@ -1,2 +1,3 @@
-Hệ thống thông tin sản phẩm.
-Ví dụ: Sơn UV tăng bám là loại nào? PU hoặc 2K gồm loại nào ? 
+Hệ thống thông tin sản phẩm sơn UV và một số lỗi cơ bản .
+Ví dụ: Sơn UV tăng bám là loại nào? 
+ Sơn bị tách lớp thì làm thế nào  ? 
