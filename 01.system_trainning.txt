@@ -303,9 +303,20 @@ Dưới đây là danh sách các màu Pigment :
 *   **Nâu BU 5512 (1-1)PE**
 *   **Stain WOD trắng**
 
-Các màu Dye Pad Stain:Vàng Y57,Đỏ R95,Đen B51
- màu Dye Stain:Vàng 412
-Vàng cam 210K,Vàng BT,Đỏ VM 334,Đỏ BT,Đen 821,Đen K (1-10),Đen BT,Xanh lá 520K,Xanh dương Blue
+Các màu Dye Pad Stain:
+Vàng Y57,
+Đỏ R95,
+Đen B51
+màu Dye Stain:
+Vàng 412;
+Vàng cam 210K ; 
+Vàng BT ; 
+Đỏ VM 334,Đỏ BT,
+Đen 821,
+Đen K (1-10),
+Đen BT,
+Xanh lá 520K,
+Xanh dương Blue
 
 
 
