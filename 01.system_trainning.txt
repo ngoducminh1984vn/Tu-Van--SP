@@ -309,31 +309,3 @@ màu Dye
 *   **Xanh dương Blue** màu Dye
  
 
-số lỗi phổ biến của sơn UV đ
-
-*   **Chống xước bề mặt kém** - lỗi sơn UV
-    *   Lỗi này thường xuất phát do dùng loại sơn không phù hợp, lò sấy quá nóng, mức năng lượng sấy quá cao hoặc lớp sơn quá mỏng.
-*   **Sơn làm đổi màu sau khi sấy UV** - lỗi sơn UV
-    *   Nguyên nhân chính có thể là do dùng loại sơn không phù hợp, mức năng lượng UV quá cao hoặc do loại màu sử dụng không chịu được tia UV.
-*   **Độ phủ màng sơn kém** - lỗi sơn UV
-    *   Nguyên nhân chính có thể là do nền xử lí chưa tốt hoặc lớp sơn quá mỏng. Quy trình sơn chưa hợp lý cũng có thể dẫn đến độ phủ kém.
-*   **Sai màu khi cán UV màu** - lỗi sơn UV
-    *   Các sản phẩm cán trên cùng một trục có cường độ màu không đồng đều do máy cán chưa điều chỉnh dao gạt trục.
-*   **Hạt màu đọng nhiều trên bề mặt** - lỗi sơn UV
-    *   Các nguyên nhân chính bao gồm bề mặt còn nhiều lông gỗ hoặc độ nhớt sơn cao.
-*   **Mặt sơn bị ố trắng / Mặt sơn bị dộp trắng, bong tróc** - lỗi sơn UV
-    *   Thường gặp trong sơn UV phun, nguyên nhân chính là do flash-off time (thời gian để sơn bay hơi hết dung môi) chưa đủ, khiến dung môi bị "nhốt" lại khi sấy UV.
-*   **Lỗi bề mặt của sơn phun hệ UV - Bề mặt bị núi lửa** - lỗi sơn UV
-    *   Nguyên nhân có thể là do bề mặt, sơn hoặc súng phun bị nhiễm bẩn, hoặc có lẫn dầu trong hệ thống hơi (máy nén khí).
-*   **Sơn bị tách lớp** - lỗi sơn UV
-    *   Nguyên nhân chính có thể là do nhiệt độ lò sấy quá cao, mức năng lượng quá cao, dùng loại sơn không phù hợp hoặc không xả nhám ở bước lót.
-*   **Sơn bong tróc** - lỗi sơn UV
-    *   Nguyên nhân chính có thể là do sơn UV chưa khô hoàn toàn, nền gỗ quá mềm hoặc có nhiều dầu, dùng sai loại đèn UV, có lẫn dung môi vào sơn UV hoặc lớp cán sơn màu quá dày.
-*   **Sọc trục (roller mark) lớn** - lỗi sơn UV
-    *   Nguyên nhân chính có thể là do độ nhớt sơn quá cao hoặc trục cán điều chỉnh sơn chưa phù hợp. Open-time quá ngắn cũng có thể gây ra lỗi này.
-*   **Mặt sơn bị hạt, dộp** - lỗi sơn UV
-    *   Nguyên nhân chủ yếu do nhiệt độ lò sấy quá cao, sơn lẫn nhiều dung môi hoặc dùng loại màu không phù hợp.
-*   **Dung dịch sơn nhanh bị Gel (tăng độ nhớt) khi sản xuất** - lỗi sơn UV
-    *   Nguyên nhân có thể là do lò sấy UV không được che chắn tốt, ánh UV chiếu trực tiếp vào trục cán UV, nơi để sơn có ánh nắng chiếu vào và nhiệt độ môi trường lưu trữ quá cao, hoặc lẫn tạp chất trong quá trình cán trục.
-
-C
