@@ -1,4 +1,4 @@
-Hệ thống thông tin sản phẩm sơn UV và một số lỗi cơ bản .
+Hệ thống thông tin sản phẩm sơn UV và  hướng dẫn sử dung màu sắc. 
 Ví dụ: Sơn UV tăng bám là loại nào? 
  Sơn bị tách lớp thì làm thế nào  ? 
 Các loại tinh màu và các thức pha màu cho sơn UV
