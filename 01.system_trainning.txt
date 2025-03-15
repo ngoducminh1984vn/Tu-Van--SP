@@ -232,9 +232,7 @@ các màu Pigment được liệt kê :
 *   **Đỏ RS718 (1-1)DM** - Pigment
 *   **Đỏ F3RK (1-0.5)DM** - Pigment
 *   **Đỏ RO4597 (1-1)DM** - Pigment
-*   **Đen BT M100S(1-0.5)DM** - Pigment
-*   **Đen TCL3 (1-2)DM** - Pigment
-*   **Đen TC1402 (1-7)DM** - Pigment
+*   **Đen PA100UV- Pigment
 *   **Xanh lá GT** - Pigment
 *   **Xanh dương 4GA** - Pigment
 *   **Nâu BS1008 (1-1)DM** - Pigment
@@ -242,37 +240,14 @@ các màu Pigment được liệt kê :
 *   **Hồng Magenta PS38(1-3)DM** - Pigment
 *   **Giant Rose (1-2)DM** - Pigment - **Màu đắt tiền**
 *   **Giant Blue (1-2)DM** - Pigment - **Màu đắt tiền**
-*   **Stain K25 trắng** - Pigment
-*   **Paste 59 trắng** - Pigment
-*   **Vàng YS618 (1-1) DM** - Pigment
-*   **Vàng YZ2288 (1-1)DM** - Pigment
+
 *   **Vàng YB87 (1-1)DM** - Pigment
-*   **Đỏ RS718 (1-1)DM** - Pigment
-*   **Đỏ F3RK (1-0.5)DM** - Pigment
-*   **Đỏ RO4597 (1-1)DM** - Pigment
+
 *   **Đỏ RB97 (1-1)DM** - Pigment
 *   **Đỏ R250 (1-1)DM** - Pigment
-*   **Đen BT M100S(1-0.5)DM** - Pigment
-*   **Đen TCL3 (1-2)DM** - Pigment
-*   **Đen TC1402 (-7)DM** - Pigment
-*   **Nâu BS1008 (1-1)DM** - Pigment
-*   **Nâu BU5511 (1-1)DM** - Pigment
-*   **Nâu BR78 (1-1)DM** - Pigment
-*   **Stain NC trắng** - Pigment
-*   **Stain K25 trắng** - Pigment
-*   **Vàng YP618 (1-1) PE** - Pigment
-*   **Vàng YZ2288 (1-1)PE** - Pigment
-*   **Đỏ RP718 (1-1)PE** - Pigment
-*   **Đỏ F3RK (1-0.5)PE** - Pigment
-*   **Đỏ RO4597 (1-1)PE** - Pigment
-*   **Đen PB1012 (1-2)PE** - Pigment
-*   **Đen PB1012 (1-6)PE** - Pigment
-*   **Nâu BP1008 (1-1)PE** - Pigment
-*   **Nâu BU5511 (1-1)PE** - Pigment
-*   **Nâu BU 5512 (1-1)PE** - Pigment
-*   **Stain WOD trắng** - Pigment
+
  
-Dưới đây là các qui định khi pha màu UV và các thông tin liên quan đến UV màu được trích từ nguồn bạn cung cấp:
+qui định khi pha màu UV
 
 *   **Stain màu UV là dạng màu UV pha loãng, có cường độ màu rất cao, để cán trên nền gỗ tự nhiên làm nổi bật vân gỗ** (liên quan đến UV màu). Thường sử dụng BTUV 2810 sealer hoặc 2008 sealer, pha từ 10 đến 20% tinh màu, sau đó cho 20 đến 30% dung môi 1007 (hoạc dung môi PU bóng) (qui định khi pha màu UV). Lưu ý, cán với trục mềm hoặc trục xốp sẽ cho hiệu quả cao (liên quan đến UV màu). Cần kiểm tra với mẫu công đoạn thường xuyên để điều chỉnh độ nhớt và máy cán cho phù hợp khi cán phương pháp này (liên quan đến UV màu).
 *   Trong trường hợp đã cán lót màu UV (màu thấy nền gỗ), cần phun dặm màu, sửa màu bằng cách pha màu với sơn bóng PAK 808 (cho 5 đến 7% PAK vào hỗn hợp màu) (qui định khi pha màu UV và liên quan đến UV màu). Sau đó có thể cán chồng tiếp lớp lót UV để sơn không bị tách lớp màu (liên quan đến UV màu).
@@ -293,19 +268,5 @@ Dưới đây là các qui định khi pha màu UV và các thông tin liên qua
 *   Với các loại sơn nhanh khô (sơn bóng mờ) và sơn màu, không nên để thùng 20kg vào máy chạy, nên đổ qua từng 7kg đến 10 kg để chạy, khi nào chạy hết sẽ châm thêm để tránh sơn đặc gây sai màu (liên quan đến UV màu).
 *   Khi sơn màu UV đặc, có thể dùng dung môi 1007 để pha (10kg pha 300-600g dung môi), nếu không có 1007, có thể lấy dung môi PU (lót) để châm (qui định khi pha màu UV và liên quan đến UV màu).
 
-màu Dye 
-*   **Vàng Y57** màu Dye
-*   **Đỏ R95** màu Dye
-*   **Đen B51** màu Dye
-*   **Vàng 412** màu Dye
-*   **Vàng cam 210K** màu Dye
-*   **Vàng BT** màu Dye
-*   **Đỏ VM 334** màu Dye
-*   **Đỏ BT** màu Dye
-*   **Đen 821** màu Dye
-*   **Đen K** màu Dye
-*   **Đen BT** màu Dye
-*   **Xanh lá 520K** màu Dye
-*   **Xanh dương Blue** màu Dye
  
 
